@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Blend Door Repair">
+
+  <description>
+
+  <p>ACC blend door repair on a 1999 Saab 9-5.</p>
+
+  <p>If your air vents blow cold in the winter, or hot in the summer, if the
+  A/C calibration shows error code 08 on the climate control display, then you
+  probably have this problem. It's very common, especially on early 9-5s.</p>
+
+  <p>The climate control system has an air mixing flap on each side.
+  They mix cold and hot air, so the temperature can be controlled
+  separately on the driver and passenger side. Each flap is operated by
+  a small stepping motor. The range of movement is limited by a short
+  plastic stop arm. Its function is critical, because the mixing flap can
+  cross its path with other moving parts if misaligned, and cause
+  irreparable damage.</p>
+
+  <p>The ACC can detect when the stop arm is broken and stop the motor.
+  Timely repair is important to prevent further damage. Don't put it off
+  after the problem presented itself. A cracked stop arm or a broken
+  shaft tip can be easily repaired. In more severe cases, the may snap inside
+  the unit, which can only be fixed by removing the ACC module from the car
+  and taking it apart, which is extremely labour intensive. There are
+  various repair kits available from many online Saab parts retailers.</p>
+
+  <p>The only tools you need for the job is a pair of Torx and Phillips screwdrivers.</p>
+
+  </description>
+
+  <picture name="20091012a.Driver_footwell.jpg" title="Driver footwell" date="12.10.2009">
+    Undo the Torx screws holding the trim in the driver's footwell.
+    <image width="800" height="535" />
+  </picture>
+  <picture name="20091012b.OBD_connector.jpg" title="OBD connector" date="12.10.2009">
+    Unscrew the OBD-II connector from the trim panel.
+    <image width="800" height="535" />
+  </picture>
+  <picture name="20091012c.Left_motor.jpg" title="Left motor" date="12.10.2009">
+    Locate the left stepping motor (it has a large "L" on it). Unplug the
+    connector and any other wires in your way. Undo two screws holding the
+    motor and pull it out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012d.Shaft_position.jpg" title="Shaft position" date="12.10.2009">
+    Make sure the notch on the shaft is pointed upwards. If it's not, plug
+    the motor connector back in and run the ACC calibration until the shaft
+    is positioned correctly.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012e.Broken_arm.jpg" title="Broken arm" date="12.10.2009">
+    Old style green plastic stop arms often crack at the base, allowing the
+    shaft to spin freely. Newer style white arms have this end reinforced,
+    however they sometimes crack at the upper notch instead.
+    <image width="800" height="535" />
+  </picture>
+  <picture name="20091012f.Arm_removed.jpg" title="Arm removed" date="12.10.2009">
+    Remove the stop arm. Inspect the yellow shaft, make sure it turns and is
+    not broken. You can peek through the lower vent, or remove the vent
+    completely for easier access to the inner part of the shaft.
+    <image width="800" height="535" />
+  </picture>
+  <picture name="20091012g.New_vs_old.jpg" title="New vs old" date="12.10.2009">
+    This replacement arm was fabricated by my relative who works at the machine
+    shop. It's made out of military grade aluminium, very light and strong.
+    There are similar aftermarket replacement arms sold online.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012h.Alumimium_arm.jpg" title="Alumimium arm" date="12.10.2009">
+    Install the new arm. It will be seated tight, so push it in carefully -
+    all the way until the catch clicks. Before re-installing the motor, make 
+    sure the shaft profile is aligned with the notch on the motor shaft.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012i.Carpet_clips.jpg" title="Carpet clips" date="12.10.2009">
+    The passenger side is less prone to failure, but I decided to replace both
+    as I had extra parts. Start by pulling the clips out of the carpet trim.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012j.Lower_trim.jpg" title="Lower trim" date="12.10.2009">
+    Next, undo the four screws holding the lower plastic panel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012k.Glovebox_screws.jpg" title="Glovebox screws" date="12.10.2009">
+    Unscrew the lower edge of the glove box.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012l.Upper_screws.jpg" title="Upper screws" date="12.10.2009">
+    Open the glovebox and undo the remaining screws along the top.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012m.Glovebox_removed.jpg" title="Glovebox removed" date="12.10.2009">
+    Pull the glovebox, disconnect the vent hose and the electrical connector.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012n.Right_motor.jpg" title="Right motor" date="12.10.2009">
+    Locate the stepping motor with a large "R" on it, unhook the wires and
+    unscrew the motor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012o.Original_arm.jpg" title="Original arm" date="12.10.2009">
+    The passenger side arm is connected to a metal rod that operates additional
+    vents on the floor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012p.Arm_removed.jpg" title="Arm removed" date="12.10.2009">
+    Unhook the rod and pull the stop arm off the shaft. Inspect for damage. My
+    arm was starting to develop a crack at the upper notch. 
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012q.Rod_fitting.jpg" title="Rod fitting" date="12.10.2009">
+    Remove the soft plastic rod bushing from the old arm and insert it into the
+    new arm.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20091012r.Installed.jpg" title="Installed" date="12.10.2009">
+    Installation is the reverse of removal. Once everything is done, start
+    the car and run the ACC calibration by pressing AUTO+OFF.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
