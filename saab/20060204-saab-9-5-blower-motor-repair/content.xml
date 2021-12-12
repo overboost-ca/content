@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<picture-set title="9-5: Blower Motor Repair">
+
+  <description>
+  Climate control fan motor repair on a 1999 Saab 9-5. Blower motors tend
+  to fail with age, but they are easy to inspect and service. More often
+  than not, they can be brought back to life, which saves quite a bit of
+  money (new motors are expensive). Worn brushes and dirty rotor surface are
+  among the top causes of motor failures.
+  </description>
+
+  <picture name="20060204a.Hood.jpg" title="Hood" date="04.02.2006">
+    The motor is located right below the windshield. Start by opening
+    the hood and removing the wipers. If they are stuck, use a gear puller
+    or another suitable tool.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204b.Wipers_removed.jpg" title="Wipers removed" date="04.02.2006">
+    Pull the rubber strip along the firewall. Take out plastic screws in the
+    corners, and remove the cover completely. Be careful not to brake the
+    plastic clips holding it to the lower edge of the windshield.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204c.Cover.jpg" title="Cover" date="04.02.2006">
+    Lift the plastic cover in the middle. It's thin, and you can easily
+    bend it to pull out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204d.Wiper_motor.jpg" title="Wiper motor" date="04.02.2006">
+    Unplug the wiper motor harness, undo three 10 mm bolts and remove the
+    motor assembly.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204e.Fan_housing.jpg" title="Fan housing" date="04.02.2006">
+    There's a plastic frame around the fan housing. It's fastened by two
+    latches.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204f.Fan_cover.jpg" title="Fan cover" date="04.02.2006">
+    Detach the cable from the fan cover, remove the screws and lift the cover.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204g.Fan.jpg" title="Fan" date="04.02.2006">
+    The fan is permanently attached to the motor, so you will have to remove
+    them together.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204h.Fan_removal.jpg" title="Fan removal" date="04.02.2006">
+    Wiggle the motor out. If the fit is too tight, unbolt the windshield wiper
+    bracket in the middle.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204i.Motor.jpg" title="Motor" date="04.02.2006">
+    Unscrew the motor cover. It's not totally necessary, but it will give you
+    more room to inspect the motor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204j.Motor_cover_off.jpg" title="Motor cover off" date="04.02.2006">
+    Unhook the metal clips that hold the brushes. Be careful, there's a spring
+    inside.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204k.Brush.jpg" title="Brush" date="04.02.2006">
+    Pull the brushes and inspect them. This picture shows a brush at 40% of its
+    original size. If yours are worn too much, consider replacing them. Your
+    nearby alternator shop is a good place to start.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204l.Rotor_cleaning.jpg" title="Rotor cleaning" date="04.02.2006">
+    Clean the rotor contact surface. Cotton swabs and electric contact cleaner
+    is a good start. If the rotor surface is scored, use a fine grinding bit
+    for your Dremel. Clean and sand the brushes too.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060204m.Testing.jpg" title="Testing" date="04.02.2006">
+    Connect the motor and turn on the climate control to verify the operation.
+    The installation is the reverse of removal.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

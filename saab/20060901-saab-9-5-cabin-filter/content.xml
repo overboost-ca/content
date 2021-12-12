@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Cabin Filter">
+
+  <description>
+  Cabin filter replacement in a Saab 9-5. The only tools
+    needed for the job are a Torx T25 and Phillips screwdrivers.
+  </description>
+
+  <picture name="20060901a.Passenger_side.jpg" title="Passenger side" date="01.09.2006">
+    The cabin filter is located inside the heating and ventilation unit under
+    the dasboard. The access hatch is from the passenger side.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901b.Carpet_cover.jpg" title="Carpet cover" date="01.09.2006">
+    Start by removing the small carpet cover under the glovebox. Its held by
+    three plastic rivets - pressing the middle tab inward unlocks it and lets
+    you pull the rivet out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901c.Lower_dash_cover.jpg" title="Lower dash cover" date="01.09.2006">
+    Undo the Torx screws alongside the lower dash cover and remove the cover.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901d.Lower_glovebox_screws.jpg" title="Lower glovebox screws" date="01.09.2006">
+    Undo three Torx screws holding the lower part of the glovebox.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901e.Upper_glovebox_screws.jpg" title="Upper glovebox screws" date="01.09.2006">
+    Open the glove box and undo three more screws along its upper edge.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901f.Vent_hose.jpg" title="Vent hose" date="01.09.2006">
+    Pull the glovebox, unhook the electric connector and the cooling hose.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901g.Filter_cover.jpg" title="Filter cover" date="01.09.2006">
+    The filter cover is held by seven Phillips screws. A 7mm hex socket works too.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901h.Old_filter.jpg" title="Old filter" date="01.09.2006">
+    Pull the old filter and clean the compartment.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901i.New_vs_old.jpg" title="New vs old" date="01.09.2006">
+    This shows why is it important to replace your air filter often. You
+    breathe through this thing!
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901j.New_filter.jpg" title="New filter" date="01.09.2006">
+    The filter is installed horizontally, with the upper lip facing the front
+    of the car. Note the adhesive strip on the top side of the filter.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901k.Upper_seal.jpg" title="Upper seal" date="01.09.2006">
+    Install the foam seal first, making sure that the cut-outs in it wrap
+    around the pipes along the top of the filter compartment.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060901l.Installed.jpg" title="Installed" date="01.09.2006">
+    Pull the protective film from the adhesive strip on top of the filter (it
+    will stick to the foam seal) and slide the filter in. Fit the trim in the
+    reverse order.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

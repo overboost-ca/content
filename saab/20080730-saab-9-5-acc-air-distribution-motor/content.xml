@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: ACC Air Distribution Motor">
+
+  <description>
+  <p>Air distribution motor and lever replacement on a 1999 Saab 9-5. The
+  climate control system in the car operates a large air distribution flap,
+  which directs the air to the dashboard vents, defrost vents or the
+  floor.</p>
+  <p>When the system detects a problem with the air distribution flap, it sets
+  error code 12 (motor short or open circuit) or 13 (flap jammed) at ACC
+  calibration. Most of the time it's the motor itself or the plastic lever
+  connecting it to the shaft. This article shows how to remove and replace
+  both. You need to re-calibrate the ACC by pressing AUTO+OFF after the work
+  is done.</p>
+  <h2>Tools:</h2>
+  <ul>
+    <li>Torx T25 screwdriver: glovebox screws;</li>
+    <li>Phillips screwdriver or 8mm socket: stepping motor screws;</li>
+    <li>needle-nose pliers: testing the shaft.</li>
+  </ul>
+  </description>
+
+  <picture name="20080730a.Passenger_footwell.jpg" title="Passenger footwell" date="30.07.2008">
+    Unlatch three plastic pins and remove the piece of carpet on the left.
+    Then undo four screws holding the plastic panel under the glovebox.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080730b.Lower_screws.jpg" title="Lower screws" date="30.07.2008">
+    Undo the screws under the glovebox.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080730c.Upper_screws.jpg" title="Upper screws" date="30.07.2008">
+    Open the glovebox and undo three more screws along the top.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080730d.Glovebox.jpg" title="Glovebox" date="30.07.2008">
+    Pull the glovebox out. Unplug the lamp connector and disconnect the
+    cooling hose from the ACC.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080730e.Stepping_motor.jpg" title="Stepping motor" date="30.07.2008">
+    Unscrew the motor, it's held by two screws with a 8mm hex head and a
+    Phillips groove (you choose). Unplug the connector and carefully lift the motor.
+    Note the position of the shaft.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080730f.Plastic_lever.jpg" title="Plastic lever" date="30.07.2008">
+    The yellow lever is connected to the rod operating the latches on the floor
+    - unhook it first. Pull the lever out of its socket - it takes some effort,
+    but you can do it with your fingers.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080730g.Levers_and_motor.jpg" title="Levers and motor" date="30.07.2008">
+    Test motor and inspect the lever. In my case the lever was broken at the
+    point where it connects to the shaft operating the flaps. A new lever
+    (left) was $16 at the dealer (part 5334693). I had to transfer the little rod socket to
+    the new lever. Apply some grease on the outer surface.
+    <image width="799" height="600" />
+  </picture>
+  <picture name="20080730h.New_lever.jpg" title="New lever" date="30.07.2008">
+    Before installing the new lever, reach into the socket with strong
+    needle-nose pliers and try turning the shaft to make sure it is not jammed
+    completely. You can even pull the shaft out (it's a 8" long square metal
+    rod) and spray some lubricant into the hole. Then insert the lever, hook
+    up the lower rod and re-assemble everything.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090621a.Broken_again.jpg" title="Broken again" date="21.06.2009">
+    Less than a year later, the lever broke again. As the air
+    distribution unit wears with age, these levers
+    prove to be too weak to handle the increased friction.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090621b.Copper_tube.jpg" title="Copper tube" date="21.06.2009">
+    I cut a short piece of a 3/8" copper tube and used a soldering iron
+    to firmly seat it on the remaining part of the lever.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090621c.Filled.jpg" title="Filled" date="21.06.2009">
+    The tube was then filled with epoxy. I used this wooden stick to shape a
+    hole, so the shaft would fit firmly.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
