@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Downpipe With Sport Cat">
+
+  <description>
+  <p>The downpipe installation procedure for a 1996 Saab 900 (also applies to the
+  1999-2002 9-3 models). The pipe is supplied by Jak Stoll.
+  It is a 3" aluminized steel downpipe with a Magnaflow catalitic converter,
+  one of the cheaper options available back in 2005.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>ramps or jack stands;</li>
+    <li>13 mm socket or wrench: downpipe to turbo nuts, exhaust clamp bolts
+      (a 1/2" worked better in my case due to a tighter fit);</li>
+    <li>7/8" open end wrench: O2 sensors;</li>
+    <li>flat screwdriver: to release the tab on the O2 sensor connector;</li>
+    <li>a heavy tool or a length of pipe to bend exhaust hangers;</li>
+    <li>wire brush: to clean the joint between the flex pipe and the cat;</li>
+    <li>exhaust sealant: to seal the joint between the flex pipe and the cat;</li>
+    <li>torque wrench.</li>
+  </ul>
+  </description>
+
+  <picture name="20050119a.Downpipe.jpg" title="Downpipe" date="19.01.2005">
+    The pipe and the box it arrived in. It was carefully cushioned
+    by an immense amount of cardboard and other packing material ;).
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119b.Downpipe.jpg" title="Downpipe" date="19.01.2005">
+    Surprisingly, the pipe weights less than
+    you would expect from such a large piece of metal. It's actually lighter
+    than the stock part, despite the bigger size.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119c.Front_O2_sensor.jpg" title="Front O2 sensor" date="19.01.2005">
+    You need to raise the front of the car to do the job (I used ramps).
+    First, unscrew the front O2 sensor using an open ended 7/8" wrench.
+    A bit of solvent would not hurt first. You might try to attempt the rear
+    O2 sensor too, but there's very little clearance around it, so it's
+    easier to take care of it later.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119d.Exhaust_clamp.jpg" title="Exhaust clamp" date="19.01.2005">
+    Undo the bolts on the clamp that connects the intermediate flex pipe to the
+    catalitic converter. The bolts are 13 mm or 1/2". The joint would likely
+    be sealed, so you will have use a hammer to break the bond after the clamp
+    is off. Be careful not to put too much strain on the flex pipe.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119e.Front_pipe.jpg" title="Front pipe" date="19.01.2005">
+    Unbolt the front section of the downpipe from the turbo. Two nuts are
+    accessible from the top, and one from below. A 13 mm socket was a loose fit,
+    so I used a 1/2" to escape rounding the nuts off. Two were OK, one was
+    very tight, but a bit of solvent did the job.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119f.O2_sensor_wire.jpg" title="O2 sensor wire" date="19.01.2005">
+    Before lowering the pipe to the floor, unplug the rear O2 sensor (the middle
+    connector on this picture). Remove the lower part of the connector from the
+    housing and pull it down to let it hang free.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119g.Rear_O2_sensor.jpg" title="Rear O2 sensor" date="19.01.2005">
+    Lower the downpipe with the cat to the floor (the length of the rear O2
+    sensor wire will allow that) and remove the sensor using an open ended
+    socket or a 7/8" spanner. The pipe is free now.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119h.Old_and_new.jpg" title="Old and new" date="19.01.2005">
+    The old downpipe compared to the new one. The flex joint on the old pipe
+    rusted so much that it almost separated from the lower section (no wonder I
+    had such a leak), and it only took me a slight pull to tear it off
+    completely.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119i.Hangers.jpg" title="Hangers" date="19.01.2005">
+    The hangers were made too wide and took some time to adjust. This was the
+    biggest hassle: you need to put the pipe back on the car after each
+    adjustment to check if everything fits properly.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119j.Fitting.jpg" title="Fitting" date="19.01.2005">
+    Once you're happy with the position of the pipe, you can start putting
+    everything back together. This is a good time to clean the O2 sensor heads
+    with carb cleaner and check if the holes in the sensors are clogged with
+    soot. Fit the rear O2 sensor before putting the hangers on. Put some
+    antiseize on the threads to make the future removal
+    easier. Tightening torque for the sensor: 41 ft-lbs.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119k.Front_pipe.jpg" title="Front pipe" date="19.01.2005">
+    Once the hangers are on, fit the front end of the downpipe to the turbo.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119l.Front_pipe.jpg" title="Front pipe" date="19.01.2005">
+    Make sure the the nuts are on evenly, tighten at 18.5 ft-lbs.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119m.Exhaust_joint.jpg" title="Exhaust joint" date="19.01.2005">
+    Clean the end of the flex pipe with a wire brush and fit it to the
+    pipe from the catalitic converter.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119n.Sealant.jpg" title="Sealant" date="19.01.2005">
+    Apply some exhaust sealant on the joint.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119o.Exhaust_clamp.jpg" title="Exhaust clamp" date="19.01.2005">
+    Put the clamp on and tighten the bolts to 15 ft-lbs.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050119p.Front_O2_sensor.jpg" title="Front O2 sensor" date="19.01.2005">
+    Fit the front O2 sensor (also 41 ft-lbs, and don't forget the anti-seize),
+    clean up and take the car for a test drive.
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

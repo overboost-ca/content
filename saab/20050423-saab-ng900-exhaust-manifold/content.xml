@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Exhaust Manifold">
+
+  <description>
+  <p>Exhaust manifold removal and re-installation on the 
+  1996 Saab 900 (4 cylinder turbo).
+  A 9-3 or 9-5 would be very similar, except for a few minor details.
+  The manifold had to come off because there were two broken studs on the
+  driver side of the manifold. The gasket needed a replacement too.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>13 mm socket: manifold, turbo and steering pump nuts;</li>
+    <li>two 13 mm wrenches: manifold, turbo and steering pump nuts;</li>
+    <li>10 mm socket: air filter housing;</li>
+    <li>7 mm socket: hose clamps;</li>
+    <li>Torx T27 socket: PCV line;</li>
+    <li>ratchet handle;</li>
+    <li>torque wrench;</li>
+    <li>long 1/2" socket extension;</li>
+    <li>4 mm Allen key;</li>
+    <li>drill with cobalt bits and right angle attachment;</li>
+    <li>a piece of metal pipe or a hose coupler that fits the stud holes;</li>
+    <li>small mirror;</li>
+    <li>screw extractors;</li>
+    <li>tap wrench (optionally with a 8x1.25 mm tap);</li>
+    <li>car jacks and stands or ramps.</li>
+  </ul>
+  </description>
+
+  <picture name="20050423a.Manifold.jpg" title="Manifold" date="23.04.2005">
+    I had a misfortune of having a couple of studs go on the exhaust manifold.
+    One day they just disappeared, leaving two gaping holes in the manifold.
+    The studs were broken flush with the head.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423b.Broken_studs.jpg" title="Broken studs" date="23.04.2005">
+    A close-up of the problem area. In my case it was not enough to just drill
+    the studs out, because the gasket moved and was partially blocking the
+    port (and causing a leak too). Therefore the entire manifold had to come
+    off.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423c.Intake.jpg" title="Intake" date="23.04.2005">
+    The first step is to remove the intake. The airbox cover comes off
+    with the intake pipe and the return line from the bypass valve.
+    Plug the turbo inlet pipe immediately, you don't want any dirt to
+    get in there.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423d.Belt.jpg" title="Belt" date="23.04.2005">
+    Loosen the belt with a long 1/2" socket extension and lock the tensioner
+    with a thin Allen key. Remove the belt from the steering pump pulley.
+    This picture shows the airbox still in place, but it's actually better to
+    remove it before starting on the pump. The airbox is secured by three
+    10 mm nuts.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423e.Steering_pump.jpg" title="Steering pump" date="23.04.2005">
+    The steering pump bracket is attached to the head with two bolts on the top
+    and one under the pulley (use a 13 mm socket or wrench here). The lower
+    bolt is a bit of a pain to get to. Unbolting the metal PCV vent pipe from
+    the valve cover gives you some extra room.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423f.Turbo_studs.jpg" title="Turbo studs" date="23.04.2005">
+    The manifold to the turbo nuts are next (13 mm). You can see that all nuts
+    have been generously sprayed with rust solvent the night before. That helped!
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423g.Manifold_studs.jpg" title="Manifold studs" date="23.04.2005">
+    The nuts on the remaining manifold studs come next. The three studs in the
+    middle are short, while the outer ones are long and have cylindrical spacers
+    on them, designed to help with thermal expansion. 
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423h.Nuts_removed.jpg" title="Nuts removed" date="23.04.2005">
+    The leftmost nut took the stud with it, but the rest came off without
+    a fight. The WIS calls for complete turbo removal, otherwise there's not
+    enough room to get the manifold off the studs on both sides. We chose to
+    remove all manifold studs instead, since we planned to replace them
+    anyway.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423l.Turbo_stay.jpg" title="Turbo stay" date="23.04.2005">
+    An extra wiggle room is still required to remove the manifold. It can
+    achieved by unbolting the downpipe from the turbo, and the turbo
+    stay from the engine block.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423i.Hose_coupler.jpg" title="Hose coupler" date="23.04.2005">
+    This brass hose coupler has been found at the local hardware store. It was
+    a snug fit to the manifold and worked well as a guide for the drill bit,
+    helping to ensure that we start drilling at the centre of the stud. A small
+    mirror came handy to peek into the hole to observe the results.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423j.Drill.jpg" title="Drill" date="23.04.2005">
+    The right angle drill extension is needed since there is not enough room
+    to fit the drill in front of the head. I initially purchased a set of left
+    handed HSS drill bits, but they didn't last long enough as the studs were 
+    too hard for them. This set of cobalt bits was much better suited for the
+    job.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423k.Stud_removal.jpg" title="Stud removal" date="23.04.2005">
+    The remaining manifold studs were removed using an old trick with two
+    nuts tightened together. The short stud closest to the two previously
+    broken ones also broke after we attempted to remove it. Fortunately, it
+    left a piece long enough so we could grab it with vice grips and unscrew
+    the stud later when the manifold was off.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423m.Manifold.jpg" title="Manifold" date="23.04.2005">
+    Here's the manifold off the car. You can see than its mating surfaces
+    and the gasket are still clean where the nuts were tight, but the fourth
+    cylinder area is covered with soot on both sides.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423n.INP.jpg" title="I.N.P." date="23.04.2005">
+    My father happened to be visiting from overseas and didn't mind getting
+    his hands dirty. He helped a great deal and made the job much easier than
+    it would have been if I did it alone. Thanks, dad! ;)
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423o.First.jpg" title="First" date="23.04.2005">
+    With the manifold off, it was easy to drill the holes deeper. Then, after
+    some struggle with a screw extractor, the first stud came out.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423p.Second.jpg" title="Second" date="23.04.2005">
+    And then the other one.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423q.Extractor.jpg" title="Extractor" date="23.04.2005">
+    Here's the remaining part of the broken stud as it came out of the head.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050423r.Stud.jpg" title="Stud" date="23.04.2005">
+    You can see a close-up of the hole we drilled in one of the studs.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424a.New_parts.jpg" title="New parts" date="24.04.2005">
+    About $60 worth of parts: new gaskets, studs, nuts and washers. The big
+    gasket goes its metal side to the manifold, soft side to the head.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424b.Turbo_gasket.jpg" title="Turbo gasket" date="24.04.2005">
+    Time to clean the metal shavings and dirt, and pull the rug out of the
+    turbo housing. The gasket goes on.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424c.New_studs.jpg" title="New studs" date="24.04.2005">
+    The manifold slides onto the turbo side studs first, and then new studs
+    can be screwed into the head. Some were easy to put in, some requred the
+    two nut trick again.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424d.Nuts_and_washers.jpg" title="New studs" date="24.04.2005">
+    After all the studs are in, start putting the nuts on. Do not tighten them
+    yet, just put the nuts on both the head and the turbo side. Tighten the
+    turbo stay on the engine block.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424e.Tightening.jpg" title="Tightening" date="24.04.2005">
+    Tighten the nuts on the manifold and the turbo to 16 ft-lbs. Connect the
+    downpipe to the turbo.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424f.Steering_pump.jpg" title="Steering pump" date="24.04.2005">
+    The steering pump bolts are hard to reach, especially the bolt below.
+    There's only enough room to turn the wrench 1/12 of a turn.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424g.Belt.jpg" title="Belt" date="24.04.2005">
+    Put the belt on and attach the vent pipe to the valve cover.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050424h.Done.jpg" title="Done" date="24.04.2005">
+    Install the airbox and enjoy the job well done.
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

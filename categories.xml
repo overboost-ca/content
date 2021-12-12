@@ -8,4 +8,11 @@
     <directory name="20060119-saab-ng900-fan-speed-control-module" title="19.01.2006: NG900/9-3: Fan Speed Control Module" />
     <directory name="20060118-saab-ng900-cabin-filter" title="18.01.2006: NG900/9-3: Cabin Filter" />
   </category>
+  <category name="Saab: Exhaust">
+    <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />
+    <directory name="20050909-saab-ng900-sport-exhaust" title="09.09.2005: NG900/9-3: Saab Sport Exhaust" />
+    <directory name="20050423-saab-ng900-exhaust-manifold" title="23.04.2005: NG900/9-3: Exhaust Manifold" />
+    <directory name="20050119-saab-ng900-downpipe-with-sportcat" title="19.01.2005: NG900/9-3: Downpipe With Sport Cat" />
+    <directory name="20040817-saab-9-5-sport-exhaust" title="17.08.2004: 9-5: Remus Sport Exhaust" />
+  </category>
 </page>
