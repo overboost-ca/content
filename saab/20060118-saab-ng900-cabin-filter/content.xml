@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Cabin Filte">
+
+  <description>
+  Cabin filter replacement on a 1996 Saab 900 (also applies to 1999-2002 9-3).
+  </description>
+
+  <picture name="20060118a.Wipers.jpg" title="Wipers" date="18.01.2006">
+    Undo wiper arm nuts with a 13 mm socket.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118b.Wipers_off.jpg" title="Wipers off" date="18.01.2006">
+    Lift the arms and remove them from the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118c.First_cover.jpg" title="Outer cover" date="18.01.2006">
+    Raise the hood and pull the rubber strip from the top of the firewall.
+    Remove the top cover over the blower and wiper motor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118d.Second_cover.jpg" title="Inner cover" date="18.01.2006">
+    Remove the inner cover. Careful not to crack it as it's rather thin.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118e.Wiper_motor.jpg" title="Wiper motor" date="18.01.2006">
+    Unscrew the wiper motor and rods (three 10 mm bolts).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118f.Old_filter.jpg" title="Old filter" date="18.01.2006">
+    Clean the leaves and junk, pull the old filter.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118g.New_vs_old.jpg" title="New vs old" date="18.01.2006">
+    Look at them side by side. The old filter is filth incarnate!
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118h.New_filter.jpg" title="New filter" date="18.01.2006">
+    New filter installed.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118i.Wiper_motor.jpg" title="Wiper motor" date="18.01.2006">
+    Attach the wiper motor and connect the harness.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118j.Inner_cover.jpg" title="Inner cover" date="18.01.2006">
+    Fit the thin inner cover.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118k.Washer_hose.jpg" title="Washer hose" date="18.01.2006">
+    Connect the washer hose (there's a fitting that goes through the cover).
+    <thumbnail width="160" height="120" />
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060118l.Outer_cover.jpg" title="Outer cover" date="18.01.2006">
+    Attach the outer cover: it goes under the strip on the windshield and hooks
+    to the firewall on the other side. Fit the rubber band on the firewall.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
