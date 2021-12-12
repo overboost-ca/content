@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Bleeding Brakes">
+
+  <description>
+  <p>Bleeding the brakes on a 1999 Saab 9-5.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>DOT4 brake fluid: 900 ml or 1 quart;</li>
+    <li>brake bleeder;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>11 mm wrench: bleeder screws;</li>
+    <li>torque wrench;</li>
+    <li>car jack and stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20061109a.Jacked_up.jpg" title="Jacked up" date="09.11.2006">
+    Raise the car and secure it on jack stands.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061109b.Wheel_off.jpg" title="Wheel off" date="09.11.2006">
+    Take off the front left wheel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061109c.Old_fluid.jpg" title="Old fluid" date="09.11.2006">
+    Open the brake reservoir cap and extract the old fluid.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061109d.New_fluid.jpg" title="New fluid" date="09.11.2006">
+    Fill the reservoir with fresh fluid.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061109e.Bleeder.jpg" title="Bleeder" date="09.11.2006">
+    Pour the rest of the fluid into the bleeder and attach it to the reservoir.
+    Pump the bleeder to the desired pressure. Continue to monitor the pressure
+    during the bleeding process and pump more as needed. Also see that the
+    bleeded does not run out of fresh fluid.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061109f.Front.jpg" title="Front" date="09.11.2006">
+    Connect a tube to the bleeder nipple on the front left wheel and loosen
+    the nipple screw until the fluid starts to flow. The oil fluid will be
+    dark and murky. Drain until you see the fresh clean fluid coming out,
+    and there are no more bubbles in the stream. 200 ml is usually enough.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061109g.Rear.jpg" title="Rear" date="09.11.2006">
+    Tighten the nipple on the first caliper and move to the rear right wheel.
+    Then do the right front, and finally the rear left.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

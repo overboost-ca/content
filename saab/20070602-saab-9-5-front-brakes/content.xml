@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3/9-5: Front Pads and Rotors">
+
+  <description>
+  <p>Front brake pad and rotor replacement on a 1999 Saab 9-5. This guide will
+  also apply to NG900 and 9-3.
+  <a href="#/content/saab/20070809-saab-n900-308mm-front-brake-upgrade">Another
+  guide</a> is available if you're looking to upgrade your brakes with 308 mm
+  rotors and Aero calipers.</p>
+
+  <p>After the installation, an aggressive bed-in is recommended. Find a street
+  with low traffic and a high speed limit. Do a series of moderate intensity
+  stops to heat up your brakes (or roll with a brake pedal slightly engaged).
+  Then do a series of really hard stops from 100 km/h to 10 km/h. Brake as
+  hard as you can, almost to the point of locking the wheels, but never come
+  to a complete stop, always keep the car moving. Do it 8-10 times, you might
+  notice a strong burning smell and some brake fade by the end of the series -
+  this is normal. Drive the car for another 10 minutes to let the brakes cool
+  down.</p>
+
+  <h2>Tools and supplies:</h2>
+  <ul>
+    <li>Torx E20 socket: caliper bolts (2002+ 9-5);</li>
+    <li>18 mm socket: caliper bolts (1999-2001 9-5);</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>10 mm Allen socket: caliper bolts (NG900/9-3);</li>
+    <li>7 mm Allen socket: caliper guide pins;</li>
+    <li>5 mm Allen socket: rotor index screw;</li>
+    <li>impact driver, drill and screw extractor (optional);</li>
+    <li>wire brush;</li>
+    <li>torque wrench;</li>
+    <li>anti-seize grease;</li>
+    <li>car jack and stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20070602a.Jacked_up.jpg" title="Jacked up" date="02.06.2007">
+    Raise the car and secure it on jack stands. Take off the front wheel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602b.Rotor_screw.jpg" title="Rotor screw" date="02.06.2007">
+    Remove the caliper retaining spring and undo the rotor index screw. If the
+    screw is stuck, you might have to resort to
+    <a href="#/content/saab/20050709-saab-9-5-rear-brakes-fixed">more
+    serious measures</a>.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602c.Sliding_pins.jpg" title="Guide pins" date="02.06.2007">
+    Take the plastic caps off the guide pins and unscrew the pins using a
+    7 mm Allen wrench.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602d.Caliper.jpg" title="Caliper" date="02.06.2007">
+    Slide the caliper off the rotor and suspend it on the strut to prevent the
+    strain on the brake line.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602e.Bracket_bolts.jpg" title="Bracket bolts" date="02.06.2007">
+    Undo two caliper bracket bolts - 18 mm wrench on 1999-2001 9-5,
+    Torx E20 on 2002+ 9-5, 10 mm Allen on NG900 or 9-3.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602f.Rotor.jpg" title="Rotor" date="02.06.2007">
+    Remove the bracket and the rotor from the hub.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602g.Cleaning.jpg" title="Cleaning" date="02.06.2007">
+    Use a wire brush to clean the rotor surface thoroughly.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602h.Cleaning.jpg" title="Cleaning" date="02.06.2007">
+    Clean the calipers from dirt and caked-on brake dust.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602i.C-clamp.jpg" title="C-clamp" date="02.06.2007">
+    Use a C-clamp to slowly compress the piston back into the caliper. It's
+    easier to do while the old pad is still in. Consider
+    <a href="#/content/saab/20061109-saab-9-5-bleeding-brakes">bleeding the brakes</a>
+    afterwards.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602j.Reservoir.jpg" title="Reservoir" date="02.06.2007">
+    While compressing the piston, watch the brake fluid level - it will go up
+    and may overflow. You might need to extract some before you
+    put the cap back on.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602k.Pads.jpg" title="Pads" date="02.06.2007">
+    A new set of Hawk HPS brake pads.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602l.Rotor.jpg" title="Rotor" date="02.06.2007">
+    Brembo rotors slotted by <a href="http://www.genuinesaab.com/">Taliaferro</a>.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602m.Index_screw.jpg" title="Index screw" date="02.06.2007">
+    Install the new rotor, apply some anti-seize on the index screw and put
+    it in. Don't tighten the screw too hard if you don't want to fight it the
+    next time you're doing your brakes.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602n.Bracket.jpg" title="Bracket" date="02.06.2007">
+    Install the caliper support bracket. Apply some Loctite on the bolts and
+    tighten them to 86 ft-lbs. Lubricate the pad sliding grooves with
+    anti-seize to ensure smooth operation.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602o.Caliper.jpg" title="Caliper" date="02.06.2007">
+    Put the new pads in and slide the caliper on.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602p.Sliding_pins.jpg" title="Guide pins" date="02.06.2007">
+    Clean and lubricate the guide pins before inserting them. Tighten to 20 ft-lbs. Put the caps back on.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602q.Retaining_spring.jpg" title="Retaining spring" date="02.06.2007">
+    Install the retaining spring.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070602r.Done.jpg" title="Done" date="02.06.2007">
+    Tighten wheel bolts to 81 ft-lbs and lower the car to the ground.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

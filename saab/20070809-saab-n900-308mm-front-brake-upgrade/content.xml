@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3/9-5: 308 mm Front Brake Upgrade">
+
+  <description>
+  <p>Front brake upgrade on a 1995 Saab 900. The guide also applies to all
+  NG900 (1994-1998), 9-3 (1999-2002) and 9-5 Linear and Arc models with
+  288 mm front rotors (1999+). See the
+  <a href="#/content/saab/20070602-saab-9-5-front-brakes">regular brake service guide</a> for
+  general suggestions and bed-in procedures.</p>
+
+  <p>The upgrade is achieved by installing 308 mm rotors and matching calipers.
+  The rotors are readily available from many retailers, and the calipers can
+  be found from wreckers or purchased new from Saab. Suitable models to source
+  the calipers from include 1999-2002 9-3 Viggen and 2000-2001 9-5 Aero. If
+  you're upgrading a 2002+ 9-5 Linear, you need the calipers from a 2002+ Aero
+  or Arc.</p>
+
+  <p>Early 900s (1994-1996) will also benefit from a larger pad size, as the
+  original pads on these cars were smaller. Newer cars have the same calipers
+  and pads as the Aero, but will require wider support brackets to accommodate
+  larger rotors. Finding the brackets separately, however, might prove more
+  difficult than complete calipers.</p>
+
+  <p>Another word of caution concerns the hub size on the early 900s (1994-1996
+  again). These cars came with slightly larger hubs, which do not fit into
+  newer rotors. Measure your hubs and rotors before deciding on the upgrade.
+  The old rotors had an inner diameter of 5.5", while the newer ones
+  are 5.25". If your
+  hubs are too large, you can either cut 5 mm off the rim on a lathe or
+  find a pair of hubs from a newer car. Oddly enough, my 1995 900 had small
+  hubs that were a perfect fit for new style rotors.</p>
+
+  <h2>Tools and supplies:</h2>
+  <ul>
+    <li>Torx E20 socket: caliper bolts (2002+ 9-5);</li>
+    <li>18 mm socket: caliper bolts (1999-2001 9-5);</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>11 mm socket: brake line banjo bolt;</li>
+    <li>10 mm Allen socket: caliper bolts (NG900/9-3);</li>
+    <li>7 mm Allen socket: caliper guide pins;</li>
+    <li>5 mm Allen socket: rotor index screw;</li>
+    <li>Torx T25 socket: dust shield screws;</li>
+    <li>impact driver, drill and screw extractor (optional);</li>
+    <li>wire brush;</li>
+    <li>torque wrench;</li>
+    <li>anti-seize grease;</li>
+    <li>fresh brake fluid and bleeder;</li>
+    <li>car jack and stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20070809a.Wheel_off.jpg" title="Wheel off" date="09.08.2007">
+    Raise the car and secure it on jack stands. Take off the front wheel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809b.Index_screw_and_spring.jpg" title="Index screw and spring" date="09.08.2007">
+    Remove the caliper retaining spring and undo the rotor index screw.
+    If the screw is stuck, you might have to resort to
+    <a href="#/content/saab/20050709-saab-9-5-rear-brakes-fixed">more serious measures</a>.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809c.Guide_pins.jpg" title="Guide pins" date="09.08.2007">
+    Take the plastic caps off the guide pins and unscrew the pins using a 7 mm
+    Allen wrench.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809d.C-clamp.jpg" title="C-clamp" date="09.08.2007">
+    Suspend the caliper to prevent the strain on the brake line. 
+    Use a C-clamp to slowly push the piston back into the caliper.
+    It's easier to do while the old pad is still in.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809e.Fluid_level.jpg" title="Fluid level" date="09.08.2007">
+    While compressing the piston, watch the brake fluid level - it will go up
+    and may overflow. You might need to extract some before you put the cap
+    back on.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809f.Rotor.jpg" title="Rotor" date="09.08.2007">
+    The rotor should be ready to come off, with only the bracket preventing
+    its removal. If the rotor is rusted to the hub, hit it with a mallet
+    from behind until it comes loose.
+    <image width="797" height="600" />
+  </picture>
+  <picture name="20070809g.Caliper_brackets.jpg" title="Caliper brackets" date="09.08.2007">
+    Undo two caliper bracket bolts - 18 mm wrench on 1999-2001 9-5,
+    Torx E20 on 2002+ 9-5, 10 mm Allen on NG900 or 9-3.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809h.Dust_shield.jpg" title="Dust shield" date="09.08.2007">
+    The dust shields on older cars are too small for the bigger rotors.
+    You can either buy new ones, or bend (cut) the rim outward, or simply
+    remove them. The latter is cheaper and easier than anything else, and
+    you get better brake cooling as a bonus.
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20070809i.Pads.jpg" title="Pads" date="09.08.2007">
+    New style pads are noticeably taller, which results in larger surface
+    area. If your used calipers come with OEM pads that have a good portion of
+    material left, you might as well use them while they last. A new set of
+    pads will always be better though.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809j.Rotors.jpg" title="Rotors" date="09.08.2007">
+    A new 308 mm Aero rotor next to an old 284 mm version. A whole extra inch
+    of size offers more leverage for stopping power.
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20070809k.Calipers.jpg" title="Calipers" date="09.08.2007">
+    The calipers have a similar design, but the Aero version (on the right)
+    appears to have a beefier bracket.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809l.Hub.jpg" title="Hub" date="09.08.2007">
+    Ready for installation - the dust shield is removed, the hub is wirebrushed
+    and coated with anti-seize.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809m.New_rotor.jpg" title="New rotor" date="09.08.2007">
+    Install the new rotor. Put the index screw on anti-seize and
+    don't tighten it too hard if you don't want to fight it the
+    next time you're doing your brakes.
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20070809n.Caliper_bolts.jpg" title="Caliper bolts" date="09.08.2007">
+    Install the caliper support bracket. Apply some Loctite on the bolts and
+    tighten them to 86 ft-lbs. Lubricate the pad sliding grooves with
+    anti-seize to ensure smooth operation.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809o.Caliper.jpg" title="Caliper" date="09.08.2007">
+    Put the new pads in and slide the caliper on. Clean and lubricate the
+    guide pins before inserting them. 
+    Tighten to 20 ft-lbs, fit the caps. Install the retaining spring.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809p.Brake_line.jpg" title="Brake line" date="09.08.2007">
+    Undo the banjo on the old caliper and detach the brake line. Quickly
+    move the line to the new caliper to minimize the fluid loss.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809q.Banjo_bolt.jpg" title="Banjo bolt" date="09.08.2007">
+    Tighten the banjo on the new caliper. Use new copper washers if possible.
+    Make sure the line orientation is correct, there are no twists or sharp
+    bends.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809r.Pressure_bleeder.jpg" title="Pressure bleeder" date="09.08.2007">
+    Attach the bleeder to the brake reservoir and fill it with fresh fluid.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809s.Bleeding.jpg" title="Bleeding" date="09.08.2007">
+    Open the nipple on the caliper and bleed it until all the air bubbles come
+    out, and you see the fresh fluid flowing. Bleed the left side first,
+    then the right side.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070809t.Installed.jpg" title="Installed" date="09.08.2007">
+    Tighten wheel bolts to 81 ft-lbs and lower the car to the ground. Keep
+    in mind that you cannot fit wheels smaller than 16" anymore.
+    <image width="798" height="600" />
+  </picture>
+</picture-set>
