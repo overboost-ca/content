@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Fan Speed Control Module">
+
+  <description>
+  <p>Fan speed control module replacement on a 1996 Saab 900 (same applies
+  to 1999-2002 9-3). It is a relatively common problem on these cars -- the
+  control module burns out, causing the fan to die (or sometimes blow at high speed all the
+  time, even when the climate control is off).</p>
+  <p><b>Note:</b> the back of the module works as a radiator, and
+  attaches to the metal bracket under the dash, which helps further dissipate
+  the heat. It's not recommended to turn the fan on with the module hanging
+  loose as it might burn out again due to insufficient cooling.</p>
+  </description>
+
+  <picture name="20060119a.Glovebox.jpg" title="Glovebox" date="19.01.2006">
+    Remove the glove box (six T25 screws, one 10 mm bolt and one clip below).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060119b.Side_panels.jpg" title="Side panels" date="19.01.2006">
+    Remove the side panel and the cover over the control module.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060119c.Air_duct.jpg" title="Air duct" date="19.01.2006">
+    You might want to remove the air duct too, to make it easier to unplug
+    the harness.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060119d.Module_attached.jpg" title="Module attached" date="19.01.2006">
+    The speed control module is attached with two Torx T25 screws.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060119e.New_module.jpg" title="Unboxed" date="19.01.2006">
+    The replacement right out of the box.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060119f.New_module.jpg" title="New module" date="19.01.2006">
+    You can see the metal rear surface and the additional backing plate
+    that work as radiators. Re-installation is very straightforward.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
