@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3/9-5: Taliaferro Rear Camber Shims">
+
+  <description>
+  <p>Rear camber shim installation on a 1999 Saab 9-5. The procedure is similar
+  for 1994-1998 Saab 900 and 1999-2002 9-3.</p>
+  <p>Many 9-5 owners face the problem of the rear camber getting out of spec.
+  It's especially noticeable with lowered suspension, which increases the
+  negative camber to -2° or more, with no factory provision to adjust
+  it (the spec on the 9-5 is -1.1°±0.25° for the
+  sport chassis).</p>
+  <p>Luckily, <a href="http://genuinesaab.com/">Taliaferro Imports</a> make
+  camber adjustment shims that fit all 9-5, NG900 and OG9-3, allowing to
+  change the rear camber by up to 1.2°. My 9-5 had too much camber on
+  the left side, and I used these shims to even things out.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>15 mm socket: hub nuts;</li>
+    <li>socket extension with universal joint;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20080921a.Rear_camber.jpg" title="Rear camber" date="21.09.2008">
+    The rear left wheel of my car had -2.9° of negative camber.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080921b.Wheel_off.jpg" title="Wheel off" date="21.09.2008">
+    Secure the car on jack stands and take off the wheel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080921c.ABS_connector.jpg" title="ABS connector" date="21.09.2008">
+    Unplug the ABS connector on the back of the hub, so it doesn't get in the way.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080921d.Universal_joint.jpg" title="Universal joint" date="21.09.2008">
+    Loosen all four nuts holding the hub. Some of them can only be reached with
+    a U-joint.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080921e.Shims.jpg" title="Shims" date="21.09.2008">
+    These two 0.6mm shims will bring the camber down to -1.7° to
+    match the right side.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080921f.Hub_loose.jpg" title="Hub loose" date="21.09.2008">
+    Loosen the nuts several turns, so you can pry the hub out far enough to
+    fit the shims.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080921g.Shims_installed.jpg" title="Shims installed" date="21.09.2008">
+    Slide the shims over the two upper bolts and make sure they are seated
+    properly.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080921h.Done.jpg" title="Done" date="21.09.2008">
+    Tighten the hub to 37 ft-lbs +30°. Connect the ABS sensor.
+    Tighten the wheel to 81 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
