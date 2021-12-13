@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Transmission Mount">
+
+  <description>
+  <p>Transmission mount replacement on a 1999 Saab 9-5.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>18 mm socket (upper nut);</li>
+    <li>13 mm socket (battery clamps, mount bolt);</li>
+    <li>13 mm wrench (mount bolt);</li>
+    <li>12 mm socket (battery bracket);</li>
+    <li>10 mm socket (battery support);</li>
+    <li>Torx T40 socket (index screw);</li>
+    <li>socket extension;</li>
+    <li>torque wrench;</li>
+    <li>hydraulic jack.</li>
+  </ul>
+  </description>
+
+  <picture name="20090503a.Battery.jpg" title="Battery" date="03.05.2009">
+    Undo the nuts on the battery clamps and disconnect the leads.
+    Remove the bracket on the side and lift the battery.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503b.Battery_support.jpg" title="Battery support" date="03.05.2009">
+    Unscrew the battery support. It's usually held by 2 to 4 small bolts
+    (10 mm), and could be mounted straight or sideways.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503c.Mount.jpg" title="Mount" date="03.05.2009">
+    The mount is right under the battery, held by a couple of bolts.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503d.Jack.jpg" title="Jack" date="03.05.2009">
+    Before removing the mount, support the gearbox from below using a jack.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503e.Centre_nut.jpg" title="Centre nut" date="03.05.2009">
+    Undo the big nut in the middle. The engine might sag some more, make sure
+    the jack is holding up. Remove the Torx index screw.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503f.Mount_bolts.jpg" title="Mount bolts" date="03.05.2009">
+    Unbolt the mount from the frame. The front bolt is easy, the one in the
+    rear is blocked by some wires and hoses - use a spanner to reach it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503g.Removed.jpg" title="Removed" date="03.05.2009">
+    Remove the mount. The engine may shift suddenly after the mount is lifted,
+    watch your fingers!
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503h.Old_vs_new.jpg" title="Old vs new" date="03.05.2009">
+    You can see the crack on the left side of the old mount. The new version is
+    beefier, and has a provision for a third bolt used on later cars.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503i.New_mount.jpg" title="New mount" date="03.05.2009">
+    Insert the new mount. You may need to pump the jack up some more and
+    rock the engine back and forth to get the mount to seat properly.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503j.Index_screw.jpg" title="Index screw" date="03.05.2009">
+    First, fit the Torx index screw to make sure the mount is positioned 
+    correctly. Tighten the upper nut to 62 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503k.Mount_bolts.jpg" title="Mount bolts" date="03.05.2009">
+    Tighten both mount bolts to 35 ft-lbs. Remove the jack.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090503l.Battery_support.jpg" title="Battery support" date="03.05.2009">
+    Re-install the battery support, the battery itself, tighten the bracket
+    and connect the leads.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

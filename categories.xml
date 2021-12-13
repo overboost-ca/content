@@ -22,4 +22,10 @@
     <directory name="20050119-saab-ng900-downpipe-with-sportcat" title="19.01.2005: NG900/9-3: Downpipe With Sport Cat" />
     <directory name="20040817-saab-9-5-sport-exhaust" title="17.08.2004: 9-5: Remus Sport Exhaust" />
   </category>
+  <category name="Saab: Transmission and Driveshafts">
+    <directory name="20090503-saab-9-5-transmission-mount" title="03.05.2009: 9-5: Transmission Mount" />
+  </category>
+  <category name="Project Cars">
+    <directory name="20110312-engine-failure" title="12.03.2011: 1999 Saab 9-5: Engine Failure" />
+  </category>
 </page>
