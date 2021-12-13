@@ -16,8 +16,9 @@
     <directory name="20050709-saab-9-5-rear-brakes-fixed" title="09.07.2005: NG900/9-3/9-5: Rear Pads and Rotors (Fixed Calipers)" />
   </category>
   <category name="Saab: Electrical Equipment">
-    <directory name="20090313-trionic7-bdm-connection" title="13.03.2009: Trionic 7 BDM Connection" />
-    <directory name="20090306-trionic7-can-bus-connection" title="06.03.2009: Trionic 7 CAN Bus Connection" />
+    <directory name="20090313-trionic7-bdm-connection" title="13.03.2009: Trionic 7: BDM Connection" />
+    <directory name="20090306-trionic7-can-bus-connection" title="06.03.2009: Trionic 7: CAN Bus Connection" />
+    <directory name="20090208-saab-9-5-oil-pressure-gauge" title="08.02.2009: 9-5: Oil Pressure Gauge" />
   </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />
@@ -28,6 +29,9 @@
   </category>
   <category name="Saab: Transmission and Driveshafts">
     <directory name="20090503-saab-9-5-transmission-mount" title="03.05.2009: 9-5: Transmission Mount" />
+  </category>
+  <category name="Saab: Turbocharger and Intake">
+    <directory name="20040417-saab-9-5-boost-gauge-install" title="17.04.2004: 9-5: Boost Gauge" />
   </category>
   <category name="Project Cars">
     <directory name="20110312-engine-failure" title="12.03.2011: 1999 Saab 9-5: Engine Failure" />

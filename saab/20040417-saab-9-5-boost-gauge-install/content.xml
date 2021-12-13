@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Boost Gauge">
+
+  <description>
+  <p>A turbocharged car without a boost gauge is no fun. It's not that you
+  really need it, but knowing what's really happening with your engine
+  helps a bit, and the pressure surges when you mash the pedal sure are
+  entertaining.</p>
+  <p>My car was among those unfortunate Saabs that came without a boost gauge
+  (not that the standard one is very useful though), and I long wanted to fix
+  that. Here's a detailed (maybe too detailed) description of the installation
+  process. (And I did wash the engine a couple of days after performing
+  this work ;)</p>
+  <p>The measurements I'm getting from a 1999 Saab 9-5 2.3t with a low pressure
+  turbo are: the vacuum is 18-20 Hg at idle, 15 Hg while driving, up to 24 Hg
+  when coasting. With the stock engine the boost during the moderate
+  acceleration settled around 5 psi, the highest I've seen at WOT is 9 psi.
+  An ECU upgrade from BSR raised these numbers to 12-13 psi in second gear
+  and 14-15 psi in third.</p>
+  </description>
+
+  <picture name="20040417a0.The_kit.jpg" title="The kit" date="17.04.2004">
+    A Cyberdyne Ultragage boost/vacuum gauge kit (part #A213E061Y) bought
+    on eBay. It contains a gauge, a sender, some tubing and other stuff.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a1.The_gauge.jpg" title="The gauge" date="17.04.2004">
+    I know I could've gotten an analog gauge for half the price, but I'm a
+    digital freak, I like numbers and precision ;).
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a2.The_sending_unit.jpg" title="Sending unit" date="17.04.2004">
+    The sending unit is sealed for good, it has a nipple for the vacuum hose and
+    a signal wire for the gauge.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a3.The_hose.jpg" title="Vacuum line" date="17.04.2004">
+    The tees are a buck a piece from your favourite parts store. This one is
+    dirty as I've just tried to fit it on a car.    
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a4.The_engine.jpg" title="Engine" date="17.04.2004">
+    Our primary points of interest today would be the intake manifold and the
+    big fuse box. The engine is filthy, and I'm sorry for that. Should have
+    done the spring cleaning first.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a5.Disconnecting_the_battery.jpg" title="Disconnecting the battery" date="17.04.2004">
+    Always a good idea when you're planning to mess with wiring.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a6.The_lower_dash.jpg" title="Lower dash" date="17.04.2004">
+    To find a suitable place to get through the firewall, remove the lower
+    dash cover. There are three T25 torx screws holding it.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a7.OBD-II_connector.jpg" title="OBD-II connector" date="17.04.2004">
+    Remove two more screws, unless you want the cover hanging on the OBD-II
+    connector wires.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a8.Holes_in_the_firewall.jpg" title="Holes in the firewall" date="17.04.2004">
+    A sysadmin would be shocked by a title like this ;). In our case in only
+    means there are two clusters of wires coming through the firewall.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417a9.Fuse_boxes.jpg" title="Fuse boxes" date="17.04.2004">
+    Looking from the engine side, the access to one cluster is blocked by the
+    strut tower, and the fuse boxes are blocking the other. I pick the fuse boxes.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b0.Small_fuse_box.jpg" title="Small fuse box" date="17.04.2004">
+    First, remove the cover from the smaller box.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b1.Disconnecting_the_cables.jpg" title="Disconnecting the cables" date="17.04.2004">
+    Then unbolt the cables using a 10 mm socket.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b2.Removing_components.jpg" title="Removing components" date="17.04.2004">
+    Push the latches, and the smaller box pops right up. The bigger box is
+    secured with three nuts -- two are in the open, and the third one is under
+    the master brake cylinder.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b3.Almost_there.jpg" title="Almost there" date="17.04.2004">
+    Move the fuse boxes out of the way and remove another connector assembly
+    (lift the rubber trim to get it out).
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b4.The_cable_sleeve.jpg" title="The cable sleeve" date="17.04.2004">
+    The rubber sleeve around the cables is ziptied and wrapped with dirty
+    vinyl tape. We'll get rid of that.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b5.A_handy_pipe.jpg" title="A handy pipe" date="17.04.2004">
+    The sender cable is rather soft, so I will use this plastic pipe to get
+    the wire through the sleeve.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b6.The_engine_side.jpg" title="The engine side" date="17.04.2004">
+    After some pushing and wiggling the pipe comes out on the engine side.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b7.Inserting_the_wire.jpg" title="Inserting the wire" date="17.04.2004">
+    The wire goes in...
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b8.Coming_through.jpg" title="Coming through" date="17.04.2004">
+    ...and comes out under the dash.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417b9.Pipe_removed.jpg" title="Pipe removed" date="17.04.2004">
+    Find a good way to pass the cable to the top of the dash to the A-pillar
+    and fasten it.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c0.Engine_cover.jpg" title="Engine cover" date="17.04.2004">
+    Now we need to find a place to tap for the boost pressure. First, remove
+    the engine cover.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c1.Cover_removed.jpg" title="Cover removed" date="17.04.2004">
+    A nipple on top of the intake manifold looks very promising.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c2.Front_view.jpg" title="Front view" date="17.04.2004">
+    There are two hoses coming out of it, and the top one is so inviting!
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c3.Side_view.jpg" title="Side view" date="17.04.2004">
+    It usually is not a good idea to cut the hoses on a car, and fortunately
+    there's a conveniently placed tee we could tap into.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c4.Removing_the_hose.jpg" title="Removing the hose" date="17.04.2004">
+    First, remove one of the old hoses from the tee.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c5.Old_hose_to_new_tee.jpg" title="Old hose to new tee" date="17.04.2004">
+    Then connect it to the new tee we prepared during the step 4.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c6.New_hose_to_old_tee.jpg" title="New hose to old tee" date="17.04.2004">
+    And finally connect the short end of the hose to the original tee.
+    <image width="640" height="480" />
+    <thumbnail width="160" height="120" />
+  </picture>
+  <picture name="20040417c7.Lots_of_hoses.jpg" title="Lots of hoses" date="17.04.2004">
+    This piece would be easy to remove later in case you'd want to sell the car.
+    The long end in the right now runs to the sending unit.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c8.The_sending_unit.jpg" title="The sending unit" date="17.04.2004">
+    Time to connect it to the unit and secure the new hose so it doesn't rub
+    against anything.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417c9.Pulling_the_wire_in.jpg" title="Pulling the wire in" date="17.04.2004">
+    Pull the remaining cable through the sleeve leaving only a short end.
+    Seal the sleeve with a new ziptie and some tape.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d0.Securing_the_unit.jpg" title="Securing the unit" date="17.04.2004">
+    Fasten the sending unit well and bolt the fuse boxes back in place.
+    Check if everything is connected properly.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d1.Connecting_the_wires.jpg" title="Connecting the wires" date="17.04.2004">
+    The gauge needs the ground and the 12V power. The ground nut is right at
+    hand (10 mm again) and the cigarette lighter fuse would donor the power.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d2.Test_drive.jpg" title="Test drive" date="17.04.2004">
+    Out for a test drive. A healthy 20 Hg vacuum at idle is on display.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d3.Wiring_done.jpg" title="Wiring done" date="17.04.2004">
+    Everything is put back together, and the wires are coming out at the
+    base of the A-pillar.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d4.The_gauge.jpg" title="The gauge" date="17.04.2004">
+    The gauge comes with a memory button. Why haven't they just built it right
+    into the face plate?
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d5.Button_installed.jpg" title="Button installed" date="17.04.2004">
+    Ah, well, an aluminum bracket will do.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d6.Plastic_bottle.jpg" title="Plastic bottle" date="17.04.2004">
+    I didn't get a pod for the gauge, and now I didn't want it dangling on its
+    wires while I'm driving in search for one, so I cut the top of a plastic
+    bottle.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d7.Masking_tape.jpg" title="Masking tape" date="17.04.2004">
+    Painting it inside felt like a good idea.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d8.All_black.jpg" title="All black" date="17.04.2004">
+    Luckily, I had some black paint too.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417d9.Mounted.jpg" title="Mounted" date="17.04.2004">
+    The wires are connected, and the gauge sticks surprisingly tight between
+    the pillar and the dash. It should hold until I find a suitable pod
+    (or so I thought... then ended up using this bottle top pod for several years).
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040417e0.Night.jpg" title="Night" date="17.04.2004">
+    It's a bit too bright at night, but we'll adjust that.
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040418.Day.jpg" title="Day" date="18.04.2004">
+    Good visibility in the daylight.
+    <image width="640" height="480" />
+  </picture>
+</picture-set>
