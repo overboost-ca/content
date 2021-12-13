@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<picture-set title="Saab Trionic 7: BDM Connection">
+
+  <description>
+  <p>Here's a brief guide on how to connect a BDM interface to a Trionic7 ECU.</p>
+
+  <p>BDM (stands for Background Debug Mode) is an electronic interface for
+  debugging microcontrollers and other embedded systems. It allows direct
+  access to circuit components. In our case, we will be using it to 
+  overwrite the flash memory on the Trionic ECU. Normally,
+  <a href="#/content/saab/20090306-trionic7-can-bus-connection">connecting via the CAN 
+  bus</a> is a more convenient way to flash it, but if that process fails, you
+  end up with a dead ECU. The only way to revive it is by attaching a BDM
+  controller. Guess what happened to me ;].</p>
+
+  <p>See also:
+  <a href="https://txsuite.org/">Trionic Suite</a>,
+  <a href="https://www.trionictuning.com/forum/">Trionic Tuning Community</a>
+  </p>
+  </description>
+
+  <picture name="20090313a.BDM.jpg" title="BDM" date="13.03.2009">
+    There's a variety of BDM interfaces available on the market. However,
+    this one proved to be most reliable and cost effective. It looks like it's
+    made in someone's garage, but it works perfectly, and for EUR 9.50 you
+    can't really go wrong.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090313b.Connectors.jpg" title="Connectors" date="13.03.2009">
+    The BDM has a 10-pin connector, but not all pins are actually used, so
+    what you really need is a 2x4 connector. I found this old PC motherboard
+    and desoldered a couple of jumper bridges out of it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090313c.ECU.jpg" title="ECU" date="13.03.2009">
+    The ECU circuit has a clearly visible location for a BDM connector. Pins
+    1 (marked by the arrow) and 2 are not used, so you don't need to solder
+    anything there.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090313d.Soldered.jpg" title="Soldered" date="13.03.2009">
+    Take care while soldering, don't apply too much heat as not to damage the
+    leads or the coating. Once finished, check the connections with a tester
+    if you have one.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090313e.Connections.jpg" title="Connections" date="13.03.2009">
+    Connect the BDM to the parallel port of your computer. Attach the ribbon
+    cable to the ECU, making sure the polarity is correct. The ECU needs to be
+    powered up, see <a href="#/content/saab/20090306-trionic7-can-bus-connection">this 
+    guide</a> for DC power harness information.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090313f.In_progress.jpg" title="In progress" date="13.03.2009">
+    Finding a PC with a proper LPT port could be challenging these days. In my
+    household the only option was this headless Linux server. I had to create
+    a bootable USB stick with DOS and BD32 to flash the
+    ECU while watching the progress on a projector screen, no less ;]
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

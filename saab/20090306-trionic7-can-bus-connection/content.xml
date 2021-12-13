@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<picture-set title="Saab Trionic 7: Trionic 7 CAN Bus Connection">
+
+  <description>
+  <p>Here's a brief guide on how to connect to the CAN bus on a Trionic7 ECU.</p>
+
+  <p>CAN bus connection offers a fast and convenient way to read or flash the
+  firmware in the ECU. However, keep in mind that there's a slight chance it
+  may fail while writing the memory, especially if you're flashing in the car.
+  When that happens, you end up with a dead ECU, which no longer responds to
+  a CAN connection. The only way to revive it in this case is by using a
+  <a href="#/content/saab/20090306-trionic7-can-bus-connection">BDM interface</a>.</p>
+
+  <p>See also:
+  <a href="https://txsuite.org/">Trionic Suite</a>,
+  <a href="https://www.trionictuning.com/forum/">Trionic Tuning Community</a>
+  </p>
+  </description>
+
+  <picture name="20090306a.CANUSB.jpg" title="CANUSB" date="06.03.2009">
+    <a href="https://canusb.com/">Lawicel CANUSB</a> seems to remain as
+    the best (if not the only) CAN-USB adapter supported by the community
+    right now. You can also try RS-232 devices, but you may be
+    hard pressed to find a laptop with a serial port these days.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090306b.9-pin_adapter.jpg" title="9-pin adapter" date="06.03.2009">
+    Next, you need a female 9-pin D-sub connector. You're only interested in
+    two pins here: #2 (CAN low) and #7 (CAN high). I'm using white and
+    green wires to match the colors of CAN low and CAN high leads on the
+    instrumentation bus in the Saab.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090306c.Power_cable.jpg" title="Power cable" date="06.03.2009">
+    If you plan to connect to the ECU on the bench, you will also need to power
+    it up. There are three pins each where you need to apply ground
+    (#25, #47, #62) and +12V power (#1, #23, #43). I made this simple
+    harness with insulated alligator clips.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090306d.Bench_testing.jpg" title="Bench testing" date="06.03.2009">
+    Hook up both the power harness and the CAN harness (pin #19 is CAN low,
+    #66 is CAN high). Attach a power supply. It may not hurt to
+    have slighly more voltage - these 16V IBM ThinkPad AC adapters seem to work
+    great. Once it's powered up, start your software and proceed with
+    connecting to the ECU.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090306e.ACC_unit_harness.jpg" title="ACC unit harness" date="06.03.2009">
+    There is a number of locations in the car where you can access the
+    instrumentation bus: the SID, the stereo, the ACC, the CD changer, etc.
+    I chose to unplug the ACC panel since I can live without it while tuning.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20090306f.In-car_connection.jpg" title="In-car connection" date="06.03.2009">
+    <p>Connect your green "CAN high" wire to pin #33 on the ACC harness, and
+    your white "CAN low" wire to pin #34. Turn the ignition key, and enjoy
+    a live connection to your ECU.</p>
+    <p>P.S. Perhaps it's time to clean the screen on my laptop ;]</p>
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

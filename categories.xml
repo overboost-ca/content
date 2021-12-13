@@ -15,6 +15,10 @@
     <directory name="20060213-saab-ng900-stainless-brake-lines" title="13.02.2006: NG900/9-3: Stainless Brake Lines" />
     <directory name="20050709-saab-9-5-rear-brakes-fixed" title="09.07.2005: NG900/9-3/9-5: Rear Pads and Rotors (Fixed Calipers)" />
   </category>
+  <category name="Saab: Electrical Equipment">
+    <directory name="20090313-trionic7-bdm-connection" title="13.03.2009: Trionic 7 BDM Connection" />
+    <directory name="20090306-trionic7-can-bus-connection" title="06.03.2009: Trionic 7 CAN Bus Connection" />
+  </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />
     <directory name="20050909-saab-ng900-sport-exhaust" title="09.09.2005: NG900/9-3: Saab Sport Exhaust" />
