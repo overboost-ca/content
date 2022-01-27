@@ -27,6 +27,9 @@
     <directory name="20050119-saab-ng900-downpipe-with-sportcat" title="19.01.2005: NG900/9-3: Downpipe With Sport Cat" />
     <directory name="20040817-saab-9-5-sport-exhaust" title="17.08.2004: 9-5: Remus Sport Exhaust" />
   </category>
+  <category name="Saab: Interior and Accessories">
+    <directory name="20080914-saab-9-5-trunk-bag-holder" title="14.09.2008: 9-5: Trunk Bag Holder" />
+  </category>
   <category name="Saab: Suspension and Steering">
     <directory name="20080921-saab-9-5-genuinesaab-rear-camber-shims" title="21.09.2008: NG900/9-3/9-5: Rear Camber Shims" />
   </category>
