@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-3/9-5: Turbo Inlet Pipe">
+
+  <description>
+  <p>High flow turbo inlet pipe installation on a 1999 Saab 9-5 (also mostly applies to 2000-2002 9-3).
+  A shiny polished stainless piece of art by
+  <a href="http://www.genuinesaab.com/catalog/product_info.php?cPath=47_53&amp;products_id=170">Taliaferro</a>.
+  Prohibitively expensive and obsoleted by the Saab's own 2006+ cobra kit,
+  this inlet pipe is still a nice thing to have both for the performance
+  benefits it offers and the attention it grabs when you open the hood. It is a
+  recommended accessory for stage 3 and higher for those who prefer to stick
+  with the trusty old TD04 turbo, but wish to make it easier to breath
+  at the top end.</p>
+
+  <p>The installation takes under an hour. Let the car cool off, since you will
+  be working around the turbo - burning your hands is not fun. Be extra clean -
+  wipe the pipe thoroughly before installation and be careful not to introduce
+  any dirt into the intake or the turbo while it's open.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>13 mm socket and extention: heat shield, banjo and bracket bolts;</li>
+    <li>10 mm socket: return pipe screw;</li>
+    <li>Torx T30 socket: turbo clamp and PCV line screw;</li>
+    <li>flat screwdriver: screw-type hose clamps;</li>
+    <li>pliers: spring-type hose clamps.</li>
+  </ul>
+  </description>
+
+  <picture name="20080819a.Inlet_pipe.jpg" title="Inlet pipe" date="19.08.2008">
+    It is a good idea to have a fresh rubber O-ring and a new clamp when
+    replacing the inlet pipe.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819b.Return_pipe.jpg" title="Return pipe" date="19.08.2008">
+    Remove the clamp on the bypass valve, undo the screw on the lower end
+    of the return pipe and remove the pipe.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819c.Heat_shield.jpg" title="Heat shield" date="19.08.2008">
+    Undo the 13 mm nut on the heat shield overthe turbo and unlatch the spring
+    clamps grabbing onto the studs on the manifold.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819d.Clamp.jpg" title="Clamp" date="19.08.2008">
+    Reach down and loosen the Torx T30 bolt on the clamp holding the inlet
+    pipe to the turbo. If it's rusted - just break it, you have a replacement.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819e.Connector.jpg" title="Connector" date="19.08.2008">
+    Lift the protective sleeve and unplug the electrical connector on the
+    boost control valve (BPC).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819f.BPC.jpg" title="BPC" date="19.08.2008">
+    Slide the BPC from the guides and move it aside.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819g.Vent_pipe.jpg" title="Vent pipe" date="19.08.2008">
+    Unbolt the banjo bolt on the PCV pipe, detach the pipe from the valve cover.
+    Unscrew the inlet pipe from the bracket and loosen the intake hose clamp.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819h.Vacuum_line.jpg" title="Vacuum line" date="19.08.2008">
+    Pull the inlet pipe off the intake hose. Detach the vacuum line on the back.
+    Lift the pipe making sure the old O-ring did not get stuck on the turbo.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819i.Old_vs_new.jpg" title="Old vs new" date="19.08.2008">
+    The Taliaferro pipe is noticeably larger. Its turbo flange also has a wider
+    opening to accommodate upgraded turbos rebuilt to the 18T or 19T spec.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819j.Clamp.jpg" title="Clamp" date="19.08.2008">
+    Grease the O-ring, seat it on the pipe and connect the pipe to the
+    compressor housing on the turbo. Make sure that bolt holes on the bracket
+    are aligned before tightening the clamp.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819k.Intake_hose.jpg" title="Intake hose" date="19.08.2008">
+    Bolt the pipe to the bracket, insert the banjo bolt and connect the intake
+    hose. The vacuum nipple on the pipe was a bit larger than stock, so I had
+    to find a thicker elbow.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819l.Vent_pipe.jpg" title="Vent pipe" date="19.08.2008">
+    Screw the vent pipe to the valve cover.
+    Fit the BPC and plug in the connector.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819m.Heat_shield.jpg" title="Heat shield" date="19.08.2008">
+    Attach the heat shield over the turbo, tighten the nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20080819n.Return_hose.jpg" title="Return hose" date="19.08.2008">
+    The original aluminium return pipe doesn't fit anymore. Taliaferro offers
+    a pretty silicone piece to replace it. I had this rubber return line from
+    NG900, and it worked just fine.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
