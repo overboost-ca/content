@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<picture-set title="9-5: Steering Wheel">
+
+  <description>
+  <p>Steering wheel replacement on a Saab 9-5. The worn out original wheel gets
+  replaced with a perforated leather sport steering wheel from an Aero.</p>
+
+  <p>Use extra care while working with SRS components. Never drop the airbag.
+  Store it in a safe place at room temperature, away from explosive or
+  flammable materials. Always store it with the metal casing facing
+  downwards to avoid injury if something triggers it by accident.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>22 mm socket: steering wheel nut;</li>
+    <li>Torx T30 socket: airbag screws;</li>
+    <li>needle-nose pliers;</li>
+    <li>flat screwdriver.</li>
+  </ul>
+  </description>
+
+  <picture name="20071020a.Old_wheel.jpg" title="Old wheel" date="20.10.2007">
+    Set the wheel straight.
+    Make sure the ignition is off before starting the work.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020b.Covers.jpg" title="Screw caps" date="20.10.2007">
+    Pop the caps on both sides on the steering wheel and undo the Torx screws
+    holding the airbag.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020c.Airbag.jpg" title="Airbag" date="20.10.2007">
+    Tilt the airbag forward and unplug the connector. Use extra care when
+    working with SRS components.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020d.Connectors.jpg" title="Connectors" date="20.10.2007">
+    Unplug the two remaining connectors, lift the airbag and store it in
+    a safe place.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020e.Nut.jpg" title="Nut" date="20.10.2007">
+    Undo the 22 mm nut on the steering column and remove the rubber damper
+    with the metal bracket. The wires are fed through the bracket, so take
+    care while removing it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020f.Unbolted.jpg" title="Unbolted" date="20.10.2007">
+    Hit the steering wheel with a palm of your hand from behind to knock it
+    loose. Be careful not to damage the wires if the wheel suddenly comes off
+    the column shaft.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020g.Column.jpg" title="Column" date="20.10.2007">
+    To prevent any damage to the tilting/telescoping joint, make sure the
+    adjuster is locked before knocking the steering wheel off.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020h.Old_vs_new.jpg" title="Old vs new" date="20.10.2007">
+    The replacement steering wheel comes from a 2000 Aero.
+    It has perforated leather and nice grips at 10 and 2 o'clock.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020i.Fitted.jpg" title="Fitted" date="20.10.2007">
+    Place the new wheel onto the shaft, feed the wires through the opening.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020j.Nut.jpg" title="Nut" date="20.10.2007">
+    Install the bracket (pass the wires through the hole again) and
+    tighten the nut to 28 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020k.Damper.jpg" title="Damper" date="20.10.2007">
+    Fit the damper, use the pliers to pull the soft rubber grips through their
+    holes.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020l.Connectors.jpg" title="Connectors" date="20.10.2007">
+    Re-connect the horn and stereo control harnesses and attach them to the velcro
+    pad on the bottom of the housing. Plug the airbag connector in.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020m.Screws.jpg" title="Screws" date="20.10.2007">
+    Position the airbag so it matches the guiding holes and tighten the
+    screws on the sides.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020n.New_wheel.jpg" title="New wheel" date="20.10.2007">
+    Insert the screw caps and take a proud look at your new sport steering wheel.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
