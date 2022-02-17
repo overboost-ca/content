@@ -19,6 +19,7 @@
     <directory name="20090313-trionic7-bdm-connection" title="13.03.2009: Trionic 7: BDM Connection" />
     <directory name="20090306-trionic7-can-bus-connection" title="06.03.2009: Trionic 7: CAN Bus Connection" />
     <directory name="20090208-saab-9-5-oil-pressure-gauge" title="08.02.2009: 9-5: Oil Pressure Gauge" />
+    <directory name="20071020-saab-9-5-theft-alarm-module" title="20.10.2007: 9-5: Theft Alarm Module" />
   </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />

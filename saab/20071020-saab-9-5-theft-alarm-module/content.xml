@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Theft Alarm Module">
+
+  <description>
+  <p>Theft alarm repair on a Saab 9-5.</p>
+
+  <p>The theft alarm module on the 9-5 is equipped with its own power source,
+  so it can operate even when the main battery is disconnected. It uses two
+  Sanyo CR17335 3V Lithium batteries, which get recharged while the car
+  is running. However, the batteries lose their capacity with age, and
+  the current eventually drops below a certain value, which triggers a
+  warning in the self-diagnostic system.</p>
+
+  <p>If the batteries need replacement, you will start getting the following
+  message on the SID every once in a while:
+  <span style="background:#000;color:#FA0;font-family:Courier;font-weight:bold">
+   "SERVICE THEFT ALARM"
+  </span></p>
+
+  <p>Saab does not sell replacement batteries, you can only order a complete
+  new module, which is a waste of money. Fortunately, you can find the
+  batteries from an electronics supplier and replace them yourself, if you're
+  handy with a soldering iron. The batteries need to be of the exactly
+  the same type and model as the originals.</p>
+
+  <p>Do NOT solder the batteries directly! Direct contact with a soldering
+  iron might heat the battery up too much and cause it to explode. Instead,
+  make sure the batteries you buy come with external leads attached.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>10 mm socket: alarm module nuts, bumper lip screw;</li>
+    <li>8 mm socket: wheel lining screws;</li>
+    <li>Torx T25 socket: wheel lining screws;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>soldering iron;</li>
+    <li>Phillips screwdriver.</li>
+  </ul>
+  </description>
+
+  <picture name="20071020a.Wheel_off.jpg" title="Wheel off" date="20.10.2007">
+    Raise the left front corner of the car and secure it on jack stands.
+    Take the wheel off.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020b.Lining.jpg" title="Lining" date="20.10.2007">
+    Undo the screws on the wheel well lining. There are two Torx screws along
+    the bumper edge, two 8 mm on the inside, and one 10 mm under the lower lip.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020c.Nuts.jpg" title="Nuts" date="20.10.2007">
+    Bend the lining away and unbolt the alarm module located right next to
+    the washer fluid tank. There's a 10 mm nut at the top and a screw at the
+    bottom.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020d.Connector.jpg" title="Connector" date="20.10.2007">
+    Unplug the connector from the module. Make sure the car is unlocked at this
+    point, otherwise the alarm will go off if theft protection was active.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020e.Module.jpg" title="Module" date="20.10.2007">
+    The two halves of the module are held together by six Phillips screws.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020f.Open.jpg" title="Open" date="20.10.2007">
+    The cover is glued on with rubbery sealant, so you might need a knife
+    or a flat screwdriver to crack it open.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020g.Board.jpg" title="Board" date="20.10.2007">
+    Detach the board carefully - the batteries are glued to the bottom cover,
+    so you will need to pry them off. Pull the red jumper to cut the power
+    from the circuit.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020h.Desoldering.jpg" title="Desoldering" date="20.10.2007">
+    Desolder the old batteries. Be careful not to apply too much heat. Do not
+    solder the batteries directly. Instead, detach their leads from the board.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071020i.Batteries.jpg" title="Batteries" date="20.10.2007">
+    The old pair of batteries (orange) next to a new set (beige). It looks
+    like the batteries are good for about 5 years, accordings to the markings.
+    <image width="799" height="600" />
+  </picture>
+  <picture name="20071020j.Soldering.jpg" title="Soldering" date="20.10.2007">
+    Solder the new batteries on, follow the polarity marked on the board.
+    Fit the jumper, assemble the module and re-install in reverse order.
+    <image width="799" height="600" />
+  </picture>
+</picture-set>
