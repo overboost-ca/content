@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Control Arm Bushings">
+
+  <description>
+  <p>Lower control arm removal and bushing replacement on a 1999 Saab 9-5.
+  The original bushings were worn and cracked, the hydraulic rear
+  bushings went dry and lost most of the oil, so a fresh set was
+  needed.</p>
+
+  <p>Saab sells replacement rear bushings as a complete assembly with a new
+  aluminium housing, but we're installing a polyurethane insert, so the old
+  bushing needs to be pressed out of the housing.
+  A hydraulic press should greatly speed up the rear bushing removal, but
+  since it's not a common household appliance, we will be using a hacksaw
+  and a gear puller.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>18 mm socket: rear bushing retainer nut, ball joint nut (optional);</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>15 mm socket: control arm bolts;</li>
+    <li>13 mm socket: ball joint screws (optional);</li>
+    <li>8 mm socket: plastic shield screws;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>breaker bar;</li>
+    <li>gear puller;</li>
+    <li>hacksaw;</li>
+    <li>hammer and rubber mallet.</li>
+  </ul>
+  </description>
+
+  <picture name="20070926a.Wheel_off.jpg" title="Wheel off" date="26.09.2007">
+    Raise the car and secure it on jack stands. Take off the front wheel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926b.Plastic_shield.jpg" title="Plastic shield" date="26.09.2007">
+    Remove the plastic shield covering the belt and the front fender area.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926c.Ball_joint_nut.jpg" title="Ball joint nut" date="26.09.2007">
+    Undo the ball joint nut, pull the bolt and remove the ball joint out of
+    its socket. Alternatively, unscrew the ball joint from the control arm
+    (there won't be enough clearance to remove these bolts until the arm is
+    detached from the subframe though).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926d.Control_arm_bolts.jpg" title="Control arm bolts" date="26.09.2007">
+    Undo three bolts holding the control arm to the subframe. One is at the
+    front of the arm, and two more hold the aluminium housing of the big rear
+    bushing. It might also be a good idea to slacken the rear bushing retainer
+    nut - you have more leverage while it's still on the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926e.Front_bushing.jpg" title="Front bushing" date="26.09.2007">
+    The front bushing is easy to press out with a gear puller or a similar tool.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926f.Rear_bushing_nut.jpg" title="Rear bushing nut" date="26.09.2007">
+    The rear is more complicated. Start by removing the retainer nut and sliding
+    the busing off its pivot.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926g.Rim_cut.jpg" title="Rim cut" date="26.09.2007">
+    Cut the rolled rim of the big bushing - hacksaw works well, Dremel might
+    be faster. Pry out the metal cover that was held by the rim.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926h.Gear_puller.jpg" title="Gear puller" date="26.09.2007">
+    Use the gear puller to push out the inner part of the bushing, watch
+    for hydraulic fluid leaks (have a pan ready).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926i.Cutting_the_sleeve.jpg" title="Cutting the sleeve" date="26.09.2007">
+    Put the bushing housing in a vice, assemble a hacksaw with a blade inside 
+    the housing and cut through the metal sleeve.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926j.Inner_sleeve_removed.jpg" title="Inner sleeve removed" date="26.09.2007">
+    Turn the housing upside down and make another cut on the opposite side of
+    the sleeve. Chisel the sleeve out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926k.New_bushings.jpg" title="New bushings" date="26.09.2007">
+    I used polyurethane bushings by Powerflex. They are easy to install or
+    remove, all you need is a rubber mallet and some anti-seize (a small packet
+    of grease is usually supplied with the bushings).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926l.Bushings_installed.jpg" title="Bushings installed" date="26.09.2007">
+    Lubricate the bushings, slide them in, then insert the metal sleeves.
+    Put the big bushing back onto its pivot and tighten the nut to 77 ft-lbs.
+    <image width="800" height="587" />
+  </picture>
+  <picture name="20070926m.Ball_joint_bolts.jpg" title="Ball joint bolts" date="26.09.2007">
+    Fit the ball joint back in and tighten the bolt to 70 ft-lbs (or 36 ft-lbs on 2002+ cars).
+    Alternatively, install three small bolts holding the ball joint to the
+    control arm.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926n.Attached.jpg" title="Attached" date="26.09.2007">
+    Connect the control arm to the subframe. Slide the bolts in, but do not
+    tighten them yet. Tighten three small ball joint bolts to 22 ft-lbs
+    (if applicable).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926o.Leveled.jpg" title="Raised" date="26.09.2007">
+    Place a jack under a ball joint and raise it until it takes the weight
+    of the car, and the control arm is 1 degree below horizontal. Secure the
+    arm to the subframe at 70 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070926p.Done.jpg" title="Done" date="26.09.2007">
+    Remove the jack under the ball joint. Fit the plastic shield. Tighten the
+    wheel bolts to 81 ft-lbs and lower the car to the ground.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
