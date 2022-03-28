@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Front Suspension">
+
+  <description>
+  <p>Front suspension replacement on a 1999 Saab 9-5. The old and tired original
+  dampers and springs are being upgraded with Bilstein Sport dampers and
+  Eibach Pro Kit lowering springs. Strut mounts and bearings are also
+  getting replaced.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>22 mm socket: Bilstein retainer nut (optional);</li>
+    <li>21 mm socket: original retainer nut;</li>
+    <li>18 mm socket: knuckle housing bolts, anti-roll bar link nut;</li>
+    <li>18 mm wrench: new style anti-roll bar link nut;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>17 mm wrench: old style anti-roll bar link pin;</li>
+    <li>10 mm socket: strut mount bolts;</li>
+    <li>7 mm socket: new style anti-roll bar link pin;</li>
+    <li>7 mm Allen socket: damper rod;</li>
+    <li>torque wrench;</li>
+    <li>vice-grips;</li>
+    <li>car jack and axle stands;</li>
+    <li>spring compressor.</li>
+  </ul>
+  </description>
+
+  <picture name="20070929a.Jack_stands.jpg" title="Jack stands" date="29.09.2007">
+    Secure the car on jack stands, take the front wheel off. Both wheels need
+    to be in the air, otherwise it becomes difficult to align the anti-roll
+    bar link with its mounting hole on the strut. Spray the bolts with rust
+    solvent and wire brush the threads on the anti-roll bar link and knuckle
+    housing bolts.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929b.Link.jpg" title="Link" date="29.09.2007">
+    Unscrew the anti-roll bar link from the strut. The old version had a grip
+    behind the strut, so you could use a 17 mm spanner on it. The new version
+    has a smaller hex pin protruding in the front, which requires you to use
+    a spanner on the nut itself, while holding the pin with a small socket.
+    <image width="800" height="598" />
+  </picture>
+  <picture name="20070929c.Bracket.jpg" title="Bracket" date="29.09.2007">
+    Detach the brake line and the ABS sensor wire from the bracket on the
+    side of the strut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929d.Knuckle.jpg" title="Knuckle" date="29.09.2007">
+    Undo two bolts holding the strut to the knuckle housing. Remove the nuts
+    and pull the bolts out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929e.Disconnected.jpg" title="Disconnected" date="29.09.2007">
+    Detach the knuckle housing from the strut. It might be a good idea to
+    support the control arm from below so it doesn't strain the brake line with
+    its weight.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929f.Strut_tower.jpg" title="Strut tower" date="29.09.2007">
+    Undo three bolts holding the strut mount to the top of the tower.
+    While loosening the last bolt, catch the strut before it falls down and damages
+    the CV joint boot.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929g.Strut.jpg" title="Strut" date="29.09.2007">
+    Lower the strut to the ground.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929h.Spring_compressor.jpg" title="Spring compressor" date="29.09.2007">
+    Attach a spring compressor to relieve the load on the spring seat.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929i.Retainer_nut.jpg" title="Retainer nut" date="29.09.2007">
+    Grab the damper rod with vice-grips and undo the retainer nut on top
+    of the strut. You can use a regular ratchet, but the impact wrench makes
+    the job more satisfying and saves a lot of time.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929j.Apart.jpg" title="Apart" date="29.09.2007">
+    The strut apart (counter-clockwise): damper, spring, bump stop, 
+    dust cover with upper spring seat, thrust bearing, strut mount, retainer nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929k.New_vs_old.jpg" title="New vs old" date="29.09.2007">
+    The Bilstein monotube damper features it's famous massive rod, and the
+    "Sport" version is a bit shorter, being designed to match the ride height
+    with lowering springs. The Eibach spring has the same number of coils as
+    OEM, but is wound tighter, and has slightly thicker coils. It's obviously
+    shorter too, the posted lowering amount is 35 mm.
+    <image width="800" height="598" />
+  </picture>
+  <picture name="20070929l.Strut_mounts.jpg" title="Strut mounts" date="29.09.2007">
+    An aftermarket strut mount kit comes with everything you need to refresh
+    the mounts, including a new bearing and a set of bolts. It's made in India,
+    but looks reasonably solid. Unfortunately I could not use the 22 mm nut
+    supplied with Bilstein dampers, because my 22 mm socket did not fit into the
+    narrow opening in the strut mount, so I had to reuse the old 21 mm nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929m.Dust_shield.jpg" title="Dust shield" date="29.09.2007">
+    The old strut mount came with a little rubber skirt to protect the bearing from
+    dirt. It can be removed and transferred to the new mount.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929n.Thrust_bearings.jpg" title="Thrust bearings" date="29.09.2007">
+    The thrust bearing is tight, shiny and certainly more presentable than the
+    tired old one, although they came looking a little dry, so I added some
+    bearing grease just in case.
+    <image width="797" height="600" />
+  </picture>
+  <picture name="20070929o.Ready_for_assembly.jpg" title="Ready for assembly" date="29.09.2007">
+    Bilstein dampers come with integrated bump stops, so you don't need to
+    reuse your old one. The spring needs to be compressed, and the strut mount
+    is already assembled with the skirt and the bearing on.
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20070929p.Fit_together.jpg" title="Fit together" date="29.09.2007">
+    Slide the spring over the damper rod, making sure that it's not upside down,
+    and that the end of the last coil matches the little stop on the lower
+    spring support. Install the upper seat, the mount, and screw the nut on.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929q.Tightening.jpg" title="Tightening" date="29.09.2007">
+    This is how you are supposed to tighten the retainer nut - hold the damper
+    rod with a thin Allen wrench and tighten the nut. Unfortunately, the shallow
+    Allen socket is easy to strip, making the required 76 ft-lbs hard to achieve.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929r.Tightening.jpg" title="Tightening" date="29.09.2007">
+    Alternatively, you can grab the damper rod with vice-grips and use a good
+    sized torque wrench on the nut. Just wrap the rod with something so it
+    won't get scratched (I use a nylon belt). An impact wrench also works well on the top nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929s.Strut_tower.jpg" title="Strut tower" date="29.09.2007">
+    Lift the strut to the underside of the strut tower. Align the smallest hole
+    first, put the cover on and screw the bolt in. Fit the remaining two bolts
+    and tighten all three to 13 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929t.Knuckle_housing.jpg" title="Knuckle housing" date="29.09.2007">
+    Lift the knuckle housing to match the holes on the damper. You will have
+    to raise it higher than before, because the strut is shorter now.
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20070929u.Big_bolts.jpg" title="Big bolts" date="29.09.2007">
+    Insert the two bolts, don't forget to fit the brake line bracket.
+    Mind the camber setting if you use adjuster bolts. Tighten the nuts to 75
+    ft-lbs +45 degrees.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929v.Bracket.jpg" title="Bracket" date="29.09.2007">
+    Attach the ABS sensor cable and the brake line to the bracket.
+    <image width="800" height="598" />
+  </picture>
+  <picture name="20070929w.Link.jpg" title="Link" date="29.09.2007">
+    Fit the anti-roll bar link and tighten the nut to 62 ft-lbs.
+    <image width="799" height="600" />
+  </picture>
+  <picture name="20070929x.Lowered.jpg" title="Lowered" date="29.09.2007">
+    Install the wheels, tighten the lug bolts to 81 ft-lbs and lower the
+    car to the ground.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
