@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Rear Anti-Roll Bar">
+
+  <description>
+  <p>Rear anti-roll bar installation on a Saab 9-5. The thin original bar on this
+  Linear model gets replaced with a thicker and stiffer Aero anti-roll bar
+  to help reduce body roll and improve cornering.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>16 mm socket: link bolts;</li>
+    <li>15 mm wrench: bushing clamp nuts;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20070930a.Jack_stands.jpg" title="Jack stands" date="30.09.2007">
+    Raise the car, secure it on jack stands and take the wheels off. Both sides
+    need to be in the air, so the rear suspension is level.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930b.Link.jpg" title="Link" date="30.09.2007">
+    Detach the bolt holding the anti-roll bar link to the trailing arm. Unclip
+    the ABS sensor wire. Undo the nut on the bushing using a wrench (a socket
+    won't fit in there).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930c.Out.jpg" title="Out" date="30.09.2007">
+    Pull the anti-roll bar out through the right side of the car. See the tip
+    below on how to wiggle it through.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930d.Old_vs_new.jpg" title="Old vs new" date="30.09.2007">
+    The original bar on the 1999 Linear was 15 mm thick. The Aero bar is 17 mm.
+    It comes with new bushings and links attached.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930e.Tight_fit.jpg" title="Tight fit" date="30.09.2007">
+    Fit the new bar back in. Rotate the driver side bushing backwards so it
+    can squeeze between the exhaust pipe and the subframe. If it's not going
+    through, unhook the muffler hangers and lower the muffler to pass the
+    bar through.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930f.Installed.jpg" title="Installed" date="30.09.2007">
+    Re-connect the anti-roll bar to the suspension and tighten the bushing nuts
+    and the link bolts to 40 ft-lbs. Attach the cable clips. Fit the wheels,
+    tighten the lug bolts to 81 ft-lbs and lower the car to the ground.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
