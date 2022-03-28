@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Rear Suspension">
+
+  <description>
+  <p>Rear suspension replacement on a 1999 Saab 9-5. The old and tired original
+  shocks and springs are being upgraded with Bilstein Sport dampers and
+  Eibach Pro Kit lowering springs.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>21 mm socket: lower shock bolt;</li>
+    <li>17 mm socket: wheel bolts, Bilstein shock retainer nut;</li>
+    <li>16 mm socket: shock housing bolts, OEM shock retainer nut;</li>
+    <li>5 mm Allen socket: Bilstein damper rod;</li>
+    <li>torque wrench;</li>
+    <li>vice-grips;</li>
+    <li>breaker bar;</li>
+    <li>car jack and axle stands;</li>
+    <li>spring compressor.</li>
+  </ul>
+  </description>
+
+  <picture name="20070930a.Jack_stands.jpg" title="Jack stands" date="30.09.2007">
+    Raise the car and secure it on jack stands. Take the wheel off.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930b.Shock_bolt.jpg" title="Shock bolt" date="30.09.2007">
+    Undo the big bolt holding the bottom of the shock to the suspension arm.
+    You might need a long breaker bar to wrestle it loose.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930c.Housing_bolts.jpg" title="Housing bolts" date="30.09.2007">
+    Undo the two bottom housing bolts and slacken the two at the top, slide
+    the shock down.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930d.Shock_assembly.jpg" title="Shock assembly" date="30.09.2007">
+    Lower the shock to the ground, note if it has any shims installed - you
+    will need to reuse those.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930e.Wire_brush.jpg" title="Wire brush" date="30.09.2007">
+    There's a good chance that the retainer nut and the top of the shock will
+    be rusted beyond hope. Start by cleaning the threads with a wire wheel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930f.Thread_cleanup.jpg" title="Thread cleanup" date="30.09.2007">
+    If you have a die set, it could be a big help in restoring the threads.
+    The rod has a metric thread of M10x1.5mm.
+    <image width="798" height="600" />
+  </picture>
+  <picture name="20070930g.Retainer_nut.jpg" title="Retainer nut" date="30.09.2007">
+    Compress the spring and undo the retainer nut. If you don't have an impact
+    wrench, grab the top of the rod with vice-grips and use a 16 mm spanner
+    on the nut. Turn the nut back and forth if it gets stuck midway.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930h.Disassembled.jpg" title="Disassembled" date="30.09.2007">
+    The shock apart (counter-clockwise): damper, spring, dust shield with bump
+    stop, washer, lower bushing with a sleeve, spring seat, spring bracket,
+    upper bushing, washer, retainer nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930i.New_vs_old.jpg" title="New vs old" date="30.09.2007">
+    The Bilstein Sport damper has a slightly shorter rod, but looks similar
+    to OEM otherwise. The Eibach spring is actually slightly longer, but has a
+    number of "barrel" coils that are normally compressed together, while
+    the lower coils provide the springing action. The barrel coils are
+    thoughfully wrapped in a sleeve to prevent them from scratching each
+    other and developing rust. <a href="#/content/saab/20061014-saab-ng900-rear-springs-intrax-vs-eibach">See
+    what happens</a> when they're left unprotected.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930j.Ready_to_go.jpg" title="Ready to go" date="30.09.2007">
+    The damper comes with an aluminium lower spring support and a new spacer
+    ring that fit at the base of the rod. When you compress the spring, use
+    the working coils only, because the upper barrel coils will end up too
+    close to each other, so your spring compressor would get stuck. All the
+    other parts of the shock assembly are reused here. Make sure that the upper
+    coil of the spring matches the recess in the upper spring seat.
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20070930k.Top_nut.jpg" title="Top nut" date="30.09.2007">
+    Tighten the retainer nut to 15 ft-lbs. Use a 5 mm Allen key on the rod
+    while holding socket with vice-grips (or use a spanner on the nut).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930l.Housing_bolts.jpg" title="Housing bolts" date="30.09.2007">
+    Slide the housing up as far as it goes until it's propped against the top
+    bolts (use a jack if necessary). Insert the lower bolts and
+    tighten all four to 40 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930m.Lower_bolt.jpg" title="Lower bolt" date="30.09.2007">
+    Insert the lower bolt, rotate the damper if needed to align the holes.
+    Tighten to 140 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070929x.Lowered.jpg" title="Done" date="30.09.2007">
+    Install the wheels, tighten the lug bolts to 81 ft-lbs and lower the
+    car to the ground. Enjoy a 35 mm lower ride height.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
