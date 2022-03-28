@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Auto-Dimming Rear View Mirror">
+
+  <description>
+  <p>Auto-dimming mirror installation on a Saab 9-5.</p>
+
+  <p>Some cars came with it,
+  some without. You can find it in eBay, on scrap yards, or buy it from Saab.
+  It's a direct replacement, you just need to provide the power for the mirror.
+  Later cars have an accessory wiring harness to plug the mirror in. If
+  the harness is not there, you will need to do the wiring yourself.
+  The only tool required is a Torx/flat screwdriver from the trunk.</p>
+
+  <p>If you need to quickly test the mirror, power it up by applying 12V between
+  the red wire (pin 5) and the black wire (pin 8). Then cover the sensor on the
+  back of the mirror and point a flashlight or another source of the bright
+  light at the glass. It takes about 3-4 second to dim, giving the
+  image a greenish hue.</p>
+
+  <p>The wiring used in this guide is specified by the Saab manual for early
+  style mirrors with no compass and homelink device. It uses an non-switched
+  power source. Later style mirrors draw more current, so you need a switched
+  power source (e.g. a sunroof lead) to turn the mirror off with the car and
+  prevent it from draining your battery.</p>
+  </description>
+
+  <picture name="20071007a.Lamp_cover.jpg" title="Lamp cover" date="07.10.2007">
+    Use a flat screwdriver to pry off the lamp cover.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007b.Screw.jpg" title="Screw" date="07.10.2007">
+    Undo the Torx screw holding the housing.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007c.Connectors.jpg" title="Connectors" date="07.10.2007">
+    Unplug the connectors for the microphone and the temperature sensor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007d.Mirror.jpg" title="Mirror" date="07.10.2007">
+    Unscrew the mirror from the ceiling and remove it from the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007e.Mirrors.jpg" title="Mirrors" date="07.10.2007">
+    The auto-dimming mirror is slightly thicker, has a sensor on the back,
+    and a wiring harness coming out of it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007f.Wiring.jpg" title="Wiring" date="07.10.2007">
+    Attach a 12V power lead to the red wire (pin 5).
+    Attach a ground lead to the black wire (pin 8).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007g.Attached.jpg" title="Attached" date="07.10.2007">
+    Screw the new mirror to the ceiling. Hide the wires under the headliner.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007h.Harness.jpg" title="Harness" date="07.10.2007">
+    Unplug the grey harness in the centre of the housing, keep the new wires near.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007i.Connected.jpg" title="Connected" date="07.10.2007">
+    Tap the power lead into the red/white wire (pin 5), and the ground
+    lead into the black wire (pin 8). Re-connect the harness.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20071007j.Done.jpg" title="Done" date="07.10.2007">
+    Install the lamp cluster housing, tighten the screw and fit the lamp cover.
+    Wait until it gets dark and go for a drive to check your mirror on the road.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
