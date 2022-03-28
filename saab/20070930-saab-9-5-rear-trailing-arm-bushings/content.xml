@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Rear Trailing Arm Bushings">
+
+  <description>
+  <p>Rear trailing arm bushing replacement on a 1999 Saab 9-5. A set of polyurethane
+  bushings is being installed to replace the worn out old rubber pieces and
+  improve cornering stability.</p>
+
+  <p>Saab sells replacement bushings with aluminium sleeves and supplies a
+  set of tools to get them in and out. We're installing aftermarket
+  polyurethane inserts, which are much easier to get in, but the old
+  bushing still needs to be pressed out of the arm. With no Saab tools
+  handy, we will be using the trusty hacksaw and gear puller combo.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>21 mm socket: lower shock bolt (optional);</li>
+    <li>18 mm socket: bushing housing bolts;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>16 mm socket: anti-roll bar link bolts;</li>
+    <li>10 mm socket: brake line and cable bracket bolts;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>breaker bar;</li>
+    <li>gear puller;</li>
+    <li>hacksaw;</li>
+    <li>hammer and rubber mallet.</li>
+  </ul>
+  </description>
+
+  <picture name="20070930a.Jack_stands.jpg" title="Jack stands" date="30.09.2007">
+    Raise the car and secure it on jack stands. Take the wheels off. Both wheels
+    need to be in the air so the suspension is level.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930b.Link.jpg" title="Link" date="30.09.2007">
+    Detach the anti-roll bar link from the trailing arm.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930c.Bracket.jpg" title="Bracket" date="30.09.2007">
+    Unscrew the bracket supporting the brake line and handbrake cable.
+    There should be no tension in the handbrake, so don't forget to release
+    it when you raise the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930d.Shock.jpg" title="Shock" date="30.09.2007">
+    The Saab Workshop Manual does not mention unbolting the shock, but I
+    found that it allows for more freedom to move the arm around. Use a big
+    breaker bar to loosen this bolt.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930e.Jack.jpg" title="Jack" date="30.09.2007">
+    Support the trailing arm with a jack so it won't strain the brake line
+    when you unbolt it from the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930f.Housing.jpg" title="Housing" date="30.09.2007">
+    Undo three 18 mm bolts holding the bushing housing to the car. Carefully
+    lower the jack, support the brake line separately.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930g.Clamp.jpg" title="Clamp" date="30.09.2007">
+    Before taking on the bolt that goes through the bushing, clamp the housing
+    to the trailing arm. This will make it easier to loosen the nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930h.Bush.jpg" title="Bush" date="30.09.2007">
+    Pull the bolt out and slide the housing off the bushing. The housing is
+    tied to the handbrake cable, just let it hang off it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930i.Gear_puller.jpg" title="Gear puller" date="30.09.2007">
+    Push the rubber part of the bushing out using a gear puller or another suitable
+    tool.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930j.Hacksaw.jpg" title="Hacksaw" date="30.09.2007">
+    Assemble the hacksaw with a blade inside the bushing and cut through the
+    soft aluminium sleeve.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930k.Sleeve.jpg" title="Sleeve" date="30.09.2007">
+    Chisel the sleeve out and discard the old bushing. Clean the inside of the
+    hole and all the contact surfaces.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930l.New_bushings.jpg" title="New bushings" date="30.09.2007">
+    New polyurethane bushing from Powerflex. Comes with a stainless inner
+    sleeve and a bag of grease.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930m.Fitted.jpg" title="Fitted" date="30.09.2007">
+    Lubricate the bushing, slide in the polyurethane halves first, then the
+    inner sleeve.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930n.Housing.jpg" title="Housing" date="30.09.2007">
+    Fit the housing, clamp it to the arm and tighten the nut to 70 ft-lbs
+    +60 degrees.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930o.Lifted.jpg" title="Lifted" date="30.09.2007">
+    Lift the trailing arm using a jack until the bushing enters its socket
+    on the underside on the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930p.Bolted_on.jpg" title="Bolted on" date="30.09.2007">
+    Position the housing as close to the original location as possible and
+    tighten the bolts to 66 ft-lbs +30 degrees.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930q.Bracket.jpg" title="Bracket" date="30.09.2007">
+    Re-attach the brake line bracket. These thin M6 screws broke off on both
+    sides when I took them out, so I had to re-drill and tap the holes again.
+    Put the screws on anti-seize.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070930r.Link.jpg" title="Link" date="30.09.2007">
+    Tighten the anti-roll bar link bolt to 40 ft-lbs. Re-fit the lower shock
+    bolt if you unbolted it (140 ft-lbs). Tighten the wheels to 81 ft-lbs and
+    lower the car to the ground.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
