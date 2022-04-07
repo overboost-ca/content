@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900: Shifter Housing Removal">
+
+  <description>
+  <p>Manual gear shifter housing removal installation on 1994-1998 Saab 900
+  and 1999-2002 Saab 9-3. I removed the housing to fit a
+  <a href="#/content/saab/20070617-saab-ng900-short-shifter">short shifter</a>.</p>
+
+  <p>The installation is the reverse of removal.
+  <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">The shifter alignment
+  procedure</a> must be performed after re-installation.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>13 mm socket: linkage clamp;</li>
+    <li>10 mm socket: centre console and shifter housing;</li>
+    <li>long socket extension;</li>
+    <li>ratchet handle;</li>
+    <li>Torx T25 screwdriver;</li>
+    <li>L-shaped 3 mm Allen key: gearbox lock.</li>
+  </ul>
+  </description>
+
+  <picture name="20070617a.Passenger_side.jpg" title="Passenger side" date="17.06.2007">
+    Undo the screws and remove the footwell panel on the passenger side.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617b.Driver_side.jpg" title="Driver side" date="17.06.2007">
+    Remove the footwell panel on the driver side - two more Torx screws.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617c.ACC_and_switches.jpg" title="ACC and switches" date="17.06.2007">
+    Push the climate control panel and switches out from behind. Disconnect
+    the wires.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617d.Tabs.jpg" title="Tabs" date="17.06.2007">
+    Release the tabs by pressing on the locking pin in the centre, and pull
+    them out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617e.Ash_tray.jpg" title="Ash tray" date="17.06.2007">
+    Remove the ash tray in the back of the console and unscrew a Torx screw
+    in the middle.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617f.Nuts.jpg" title="Nuts" date="17.06.2007">
+    Undo two 10 mm nuts holding the console to the floor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617g.Switches.jpg" title="Switches" date="17.06.2007">
+    Pop the window switch block, disconnect the harness and move it away.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617h.Ignition_cover.jpg" title="Ignition cover" date="17.06.2007">
+    Gently pry out the cover over the ignition lock. The 9-3 has a small
+    circuit in it. Pop the big cover.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617i.Ignition_cover.jpg" title="Ignition cover" date="17.06.2007">
+    Undo the screws holding the console to the gearshift housing.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617j.Light_switch.jpg" title="Light switch" date="17.06.2007">
+    Pop the light switch and disconnect its wires.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617k.Console_removed.jpg" title="Console removed" date="17.06.2007">
+    List the rear half of the console, then the front half. Remove the
+    air duct.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617l.4th_gear.jpg" title="4th gear" date="17.06.2007">
+    Insert the key and move the shifter into 4th gear.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617m.Gearbox_lock.jpg" title="Gearbox lock" date="17.06.2007">
+    Under the hood, pull the plug out of the gearbox locking hole and insert
+    a long 3 mm Allen key to lock the transmission in 4th gear.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617n.Linkage_nut.jpg" title="Linkage nut" date="17.06.2007">
+    Slacken the 13 mm nut on the linkage rod and move the shifter into 3rd
+    gear position to pull the rod out of the linkage.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617o.Housing_bolts.jpg" title="Housing bolts" date="17.06.2007">
+    Undo the four 10 mm bolts holding the housing to the floor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617p.Ignition_harness.jpg" title="Ignition harness" date="17.06.2007">
+    Turn the housing onto its side and disconnect the ignition harness.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617q.Removed.jpg" title="Removed" date="17.06.2007">
+    Remove the housing from the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617r.Shifter_housing.jpg" title="Shifter housing" date="17.06.2007">
+    The gearshift housing on the ground.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

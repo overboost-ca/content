@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900: DIY Short Shifter">
+
+  <description>
+  <p>Short shifter modification on the 1995 Saab 900. This was done on a budget
+  using a leftover scrap piece of an exhaust pipe, but proved surprisingly effective.
+  The procedure also works on all 1994-1998 900, 1999-2002 9-3 and most 9-5 models.</p>
+
+  <p>The shifter housing
+  has to be removed from the car to perform the modification. For removal
+  instructions on NG900 and 9-3, refer to
+  <a href="#/content/saab/20070617-saab-ng900-shifter-housing-removal/">this guide</a>.
+  A careful <a href="#/content/saab/20050325-saab-ng900-shifter-alignment/">alignment</a>
+  has to be performed after re-installation, so it's perfectly centered and
+  does not rub inside the housing. The reverse lock remains fully
+  functional with this modification.</p>
+
+  <p>The main idea is to raise the fulcrum point of the shifter by moving the
+  ball up on the stalk and lifting the ball socket on the housing. This
+  results in a noticeably shorter longtitudinal throw and "meatier" shifter
+  feel. If overdone, however, the shifter becomes too heavy to operate
+  comfortably (at least when you're used to the feel of the stock shifter).
+  Use care and consideration when choosing the adjustment amount.</p>
+
+  <p>The biggest amount you can raise the ball by is 30 mm. This will shorten
+  the throw almost by half. I measured the knob travel between the 3rd and
+  4th gear at 6" in stock configuration and 3.25" when shortened
+  to the max. This much adjustment already pushes the limits of the shifter
+  housing, so it needs to be trimmed some, and the action becomes quite heavy.
+  The recommended adjustment for most people would be about 20 mm.</p>
+  </description>
+
+  <picture name="20070617a.Reverse_lock.jpg" title="Reverse lock" date="17.06.2007">
+    Undo the screw holding the reverse lock plate (Torx T30). Detach the
+    plastic lever leading to the ignition lock from its ball socket and
+    remove the plate.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617b.Linkage_rod.jpg" title="Linkage rod" date="17.06.2007">
+    Undo the bolt holding the long linkage rod to the bottom of the shifter.
+    Older cars use a bolt with a Torx T30 head, newer bolts come with a 13 mm
+    hex head.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617c.Spring.jpg" title="Spring" date="17.06.2007">
+    Use needle nose pliers to unhook the spring from the plastic housing.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617d.Stick.jpg" title="Stick" date="17.06.2007">
+    Turn the plastic retainer that holds the ball and lift the shifter rod out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617e.Knob.jpg" title="Knob" date="17.06.2007">
+    Pulling the knob off the rod takes considerable force, be careful not to
+    break it. In most cases you won't even need to do that. Just cut 20-30 mm
+    off the bottom of the plastic sleeve.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617f.Ball.jpg" title="Ball" date="17.06.2007">
+    The ball is secured with two snap rings. Unseat the snap rings from
+    their grooves, and you can push the ball back and forth along the rod.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617g.Relocating.jpg" title="Relocating" date="17.06.2007">
+    One option is to cut a new groove 30 mm away from the old upper groove.
+    This is the limit the shifter can be adjusted to. 30 mm will already be
+    pushing the limits of the shifter housing, and the shifter will be very
+    heavy.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617h.Cutting.jpg" title="Cutting" date="17.06.2007">
+    The better option would be to cut TWO new grooves about 20-25 mm up from the
+    old ones. This way you will have more clearance inside the housing,
+    and the shifter will feel a bit lighter. A rotary cutter does the job here.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617i.New_position.jpg" title="New position" date="17.06.2007">
+    Move the ball into the new position and secure the snap rings in their
+    grooves.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617i2.MP_shifter.jpg" title="MP shifter" date="17.06.2007">
+    A third option would be to use an adjustable shifter rod from MP Performance
+    if you still can source one - they don't make those anymore.
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20070617j.Pipe.jpg" title="Pipe" date="17.06.2007">
+    This 2.75" O.D. piece of pipe will serve to raise the fulcrum point.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617k.Marking_up.jpg" title="Marking up" date="17.06.2007">
+    Mark the pipe to make the flaps that will extend above the plastic latches.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617l.First_cut.jpg" title="First cut" date="17.06.2007">
+    Cut away excess metal. Try to be precise, the flaps must closely match
+    the width of the grooves they go into for a tighter fit.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617m.Cut_off_line.jpg" title="Cut off line" date="17.06.2007">
+    Mark the bottom flaps and rectangular slots for plastic latches. Take
+    precise measurements, so there won't be any slack with the latches
+    locked. The height of the extender should be equal to the distance you
+    moved the ball, i.e. 20-25 mm.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617n.Cutting_finished.jpg" title="Cutting finished" date="17.06.2007">
+    Cutting a fancy profile in a thick mild steel pipe is not a lot of fun.
+    I used up a dozen cut-off wheels and switched to the old good hack saw for
+    the final horizontal cut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617o.Deburring.jpg" title="Deburring" date="17.06.2007">
+    Take your time cleaning and deburring the extender. Check the fit with the
+    plastic ball socket and adjust if needed.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617p.Ready_to_fit.jpg" title="Ready to fit" date="17.06.2007">
+    The lower flaps should be cut a bit deeper into the body of the extender
+    so they can be bent inward in the middle.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617q.In_position.jpg" title="In position" date="17.06.2007">
+    Position the extender in the shifter housing so the lower flaps fit the holes
+    previously occupied by plastic latches.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617r.Flaps_bent.jpg" title="Flaps bent" date="17.06.2007">
+    Bend the flaps outward to secure the extender in place. If you need extra
+    strength, you can make the flaps longer, drill through and screw them onto
+    the housing, but I've found they hold pretty well when bent like this.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070701a.Screws.jpg" title="Screws" date="01.07.2007">
+    Here's an alternative version where the extender is secured by four screws.
+    The opening in the shifter housing is trimmed to allow for extra movement.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617s.Plastic_socket.jpg" title="Plastic socket" date="17.06.2007">
+    Slide the plastic ball socket in until the latches click. It should fit
+    tightly if you followed the measurements. Again, you can drill through the
+    flaps and secure them to the plastic housing with small screws. 
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617u.Trimming.jpg" title="Trimming" date="17.06.2007">
+    If you went to the full 30 mm on the shifter rod, you might have to not
+    only trim the housing, but also grind the lower bolt so it's flush
+    with the surface of the nut on the linkage rod.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617t.Old_vs_new.jpg" title="Old vs new" date="17.06.2007">
+    I had a luxury of having an extra housing to experiment with. Here's the
+    original housing next to the modified version.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617v.New_handle.jpg" title="New handle" date="17.06.2007">
+    My wooden knob is transferred to the new housing. The plastic sleeve is cut
+    about 25 mm shorter at the bottom.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617w.Ignition_lock.jpg" title="Ignition lock" date="17.06.2007">
+    The ignition lock is installed into the modified housing.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617x.Reverse_lock.jpg" title="Reverse lock" date="17.06.2007">
+    Next, the reverse locking plate goes in. Check if it works correctly
+    before installing the shifter back into the car.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070617z.5th_gear_catch.jpg" title="5th gear catch" date="17.06.2007">
+    The bottom part of the plastic stalk sleeve can be re-attached using glue or
+    a small hose clamp. And the flimsy 5th gear catch needs to be reinforced so 
+    you don't bend it every time you shift into 5th.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070701b.New_version.jpg" title="New version" date="01.07.2007">
+    An updated version of the modified housing with a metal 5th gear catch.
+    The plastic ball socket is bolted to the extender for extra strength.
+    <image width="800" height="599" />
+  </picture>
+</picture-set>
