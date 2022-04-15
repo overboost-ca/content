@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Dashboard and Instrument Cluster">
+
+  <description>
+  <p>Dashboard and instrument cluster removal on a 1999 Saab 9-5. One of the
+  bulbs illuminating the speedometer went out, and I needed to replace it.</p>
+  </description>
+
+  <picture name="20070511a.Dashboard.jpg" title="Dashboard" date="11.05.2007">
+    The only tool needed for the dash removal is a Torx T25 screwdriver from
+    the toolbox in the trunk.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511b.Steering_column_cover_screw.jpg" title="Steering column cover screw" date="11.05.2007">
+    Turn the steering wheel to the left and undo the screw in the steering
+    column cover.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511c.Steering_column_cover_screw.jpg" title="Steering column cover screw" date="11.05.2007">
+    Undo another screw on the right of the steering wheel, and then a third
+    at the bottom of the cover.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511d.Steering_column_cover.jpg" title="Steering column cover" date="11.05.2007">
+    Pull the two halves of the cover off.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511e.Turn_signal_stalk.jpg" title="Turn signal stalk" date="11.05.2007">
+    Unlatch the turn signal stalk. Unplug the connector and remove the stalk.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511f.Right_side.jpg" title="Right side" date="11.05.2007">
+    Move to the right side and remove the windshield wiper stalk.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511g.Stereo.jpg" title="Stereo" date="11.05.2007">
+    Insert the stereo removal tool (or knitting needles, or long nails)
+    and pull the stereo out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511h.SID_and_AC_panel.jpg" title="SID and A/C panel" date="11.05.2007">
+    Push the SID out from behind and unplug the connector. Do the same with the
+    climate control panel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511i.Stereo_cage.jpg" title="Stereo cage" date="11.05.2007">
+    Pull the stereo mounting cage and detach the wires from the back of it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511j.Hazard_switch.jpg" title="Hazard switch" date="11.05.2007">
+    Remove the hazard light switch.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511k.Right_side_screws.jpg" title="Right side screws" date="11.05.2007">
+    Undo four screws holding the dash panel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511l.Left_side.jpg" title="Left side" date="11.05.2007">
+    Move over to the left side and remove all the switches - they just pop out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511m.Left_side_screws.jpg" title="Left side screws" date="11.05.2007">
+    Undo two more screws in the headlight switch socket.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511n.Panel_out.jpg" title="Panel out" date="11.05.2007">
+    Remove the panel by carefully prying it out along the perimeter.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511o.Instrument_cluster.jpg" title="Instrument cluster" date="11.05.2007">
+    Unscrew the instrument cluster.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511p.Connectors.jpg" title="Connectors" date="11.05.2007">
+    Pull the cluster out and disconnect the wires.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511q.Back_side.jpg" title="Back side" date="11.05.2007">
+    The back cover of the instrument cluster is held by eight Phillips
+    screws.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511r.Cover_off.jpg" title="Cover off" date="11.05.2007">
+    Take the cover off, then unplug the ribbon cable on the top of the unit.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511s.Circuit_board.jpg" title="Circuit board" date="11.05.2007">
+    Swing the upper circuit board down, and you get to the light bulbs. They
+    are all labeled and easy to locate.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511t.Installation.jpg" title="Installation" date="11.05.2007">
+    Installation is the reverse of removal, naturally.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
