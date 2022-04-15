@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900: Eibach Front Springs From a 9-3">
+
+  <description>
+  <p>This guide describes installing a set of Eibach front springs made for a 1999-2002 Saab 9-3 onto
+  a 1995 900. I decided to install these to match the rear Eibachs that were
+  <a href="#/content/saab/20061014-saab-ng900-rear-springs-intrax-vs-eibach/">installed
+  on my car earlier</a> as my old Intrax springs did not work well on the
+  convertible. This document can also be used as a general guide for fitting
+  9-3 front springs to an NG900. One possible reason to do this is better
+  availability and wider product choice of 9-3 suspension parts compared to
+  the aging NG900.</p>
+
+  <p>While the front suspension on the 9-3 is mostly identical to NG900, they
+  use different strut mounts and spring seats. As the result, the spring design
+  differs too: 9-3 springs have a constant coil radius along the entire length,
+  while NG900 springs have their end coils tapered to a smaller radius. It
+  turns out, however, that it's still possible to use 9-3 springs on a NG900
+  with minor modifications and part exchange. You need upper spring
+  seats from a 9-3, new or used, part 4779310.</p>
+
+  <h2>Tools and supplies:</h2>
+  <ul>
+    <li>32 mm (1.25") socket: axle nut;</li>
+    <li>24 mm wrench: retainer nut on top of the strut;</li>
+    <li>18 mm socket: tie rod nut;</li>
+    <li>18 mm wrench: ball joint nut;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>16 mm socket: stanchion arm to subframe bolt (optional);</li>
+    <li>15 mm socket: control arm to subframe bolt (optional);</li>
+    <li>13 mm socket: lower sway bar link nut, strut mount nuts;</li>
+    <li>11 mm socket: top of the OEM damper rod;</li>
+    <li>11 mm open wrench: upper part of sway bar link;</li>
+    <li>10 mm Allen key: caliper bolts;</li>
+    <li>7 mm Allen key: top of the Bilstein damper rod;</li>
+    <li>5 mm Allen key: rotor index screw;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>ball joint separator;</li>
+    <li>spring compressor;</li>
+    <li>C-clamp: for tightening tie rod ends;</li>
+    <li>breaker bar;</li>
+    <li>vice-grips;</li>
+    <li>large screw extractor (6 mm);</li>
+    <li>hammer and rubber mallet;</li>
+    <li>loctite, anti-seize, rust solvent.</li>
+  </ul>
+  </description>
+
+  <picture name="20070511a.Axle_nut.jpg" title="Axle nut" date="11.05.2007">
+    While the car is still on the ground, pop the cover in the middle of the
+    wheel and loosen the axle nut using a 32 mm socket on a large breaker bar.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511b.Jacked_up.jpg" title="Jacked up" date="11.05.2007">
+    Raise the car and remove the wheels. Take your time spraying the fasteners
+    with a rust solvent.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511c.Axle_nut.jpg" title="Axle nut" date="11.05.2007">
+    Remove the axle nut completely. If you find the rotor spinning, block it
+    with a screwdriver inserted through the caliper bracket.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511d.ABS_sensor.jpg" title="ABS sensor" date="11.05.2007">
+    Unplug the ABS sensor from the connector on the fender wall. Take extra
+    care as the brackets get brittle with age.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511e.Caliper_spring.jpg" title="Caliper spring" date="11.05.2007">
+    Remove the caliper spring and the rotor screw. Those are notorious for
+    getting stuck, you might need a screw extractor.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511f.Caliper_bolts.jpg" title="Caliper bolts" date="11.05.2007">
+    Unbolt the caliper (10 mm Allen socket) and suspend it on a wire so there's
+    no strain on the brake line.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511g.Brake_rotor.jpg" title="Brake rotor" date="11.05.2007">
+    Remove the rotor and undo the tie rod end nut (18 mm socket).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511h.Tie_rod_end.jpg" title="Tie rod end" date="11.05.2007">
+    Use a ball joint separator on the tie rod end.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511i.Sway_bar_link.jpg" title="Sway bar link" date="11.05.2007">
+    Unbolt the sway bar link from the control arm. Hold the upper part with an
+    11 mm wrench and undo the nut with a 13 mm socket.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511j.Ball_joint_nut.jpg" title="Ball joint nut" date="11.05.2007">
+    Loosen the ball joint nut (18 mm wrench). If you pull the axle out slightly,
+    it might give you more room for the wrench.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511k.Ball_joint_separator.jpg" title="Ball joint separator" date="11.05.2007">
+    Split the joint using a ball joint separator.
+    Don't use fork type separators - that would damage the rubber boot.
+    Sometimes striking the outer lip with a heavy mallet would release the joint.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511l.Suspension_arms.jpg" title="Suspension arms" date="11.05.2007">
+    If the ball joint won't budge, or if you don't have a proper separator,
+    proceed with unbolting the arms from the subframe.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511m.Axle.jpg" title="Axle" date="11.05.2007">
+    The lower end of the strut is now free, so you can swing it sideways and
+    pull the axle out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511n.Strut_mount.jpg" title="Strut mount" date="11.05.2007">
+    Unbolt the final three nuts on top of the strut mount and lower the
+    strut to the ground. Be careful - it's quite heavy.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511o.Strut.jpg" title="Strut" date="11.05.2007">
+    The strut on the ground, ready for disassembly.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511p.Spring_compressor.jpg" title="Spring compressor" date="11.05.2007">
+    Attach a spring compressor and tighten it until the spring releases the
+    tension on the strut mount.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511q.Top_nut.jpg" title="Top nut" date="11.05.2007">
+    This is a proper way to undo the damper rod nut on top of the strut mount.
+    The big nut needs a 24 mm wrench, while the rod itself has an 11 mm hex
+    head on the top (my Bilstein dampers call for a 7 mm Allen instead).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511r.Impact_wrench.jpg" title="Impact wrench" date="11.05.2007">
+    However, in real life the top of the rod will be rusted, and attempting
+    to use a small wrench on it will likely end up with a stripped head. The
+    solution is to grab the rod with vice-grips and use an impact wrench
+    on the nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511s.Strut_mount.jpg" title="Strut mount" date="11.05.2007">
+    The spring support, thrust bearing, strut mount and related hardware.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511t.Upper_spring_seat.jpg" title="Upper spring seat" date="11.05.2007">
+    The 9-3 upper spring seat is integral with the dust cover. On the NG900
+    they were separate.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511u.9-3_spring support.jpg" title="9-3 spring support" date="11.05.2007">
+    The old rubber spring seat is detached from the support plate. The plate is
+    the right size to match the seat from the 9-3, but the inner rim diameter is
+    too small.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511v.Spacer.jpg" title="Spacer" date="11.05.2007">
+    A solid rubber spacer will solve the problem of keeping the upper spring
+    seat centered. These silicone rings I had were just the right size. A piece
+    of used accessory belt could be a good fit too.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511w.Lower_seat.jpg" title="Lower seat" date="11.05.2007">
+    The lower spring seat needs adjustment too. The coil stop is too narrow and
+    close to the center to hold a wider 9-3 spring.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070520a.Coil_stop.jpg" title="Coil stop" date="20.05.2007">
+    The lowest point of the spring seat is in the back, so that's where the new
+    spring stop should be. Insert a short bolt into one of the drain holes and
+    secure it with a nut.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070520b.Spacer.jpg" title="Spacer" date="20.05.2007">
+    The shape of the lower spring seat does not quite match the spring profile,
+    so a spacer is needed to gradually raise the first coil. I used an old
+    rubber piece of the top mount.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511z1.Springs.jpg" title="Springs" date="11.05.2007">
+    A stock NG900 spring vs Eibach 9-3 spring vs Intrax NG900 spring. You
+    can see the differnce in length, as well as tapered vs full size ends on
+    NG900 vs 9-3.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511z2.Spring_compressor.jpg" title="Spring compressor" date="11.05.2007">
+    Compress the spring to prepare it for installation.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070520c.Spring.jpg" title="Spring" date="20.05.2007">
+    Place the spring onto the strut so the last coil rests against the modified
+    stop. I put an old piece of hose on it so the spring doesn't rub against
+    the seat metal. This should protect the spring coating and keep it from
+    developing rust.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511z4.Upper_seat.jpg" title="Upper seat" date="11.05.2007">
+    Insert the upper spring seat with a dust cover, install the bump stop if
+    applicable and slide the metal support plate over the rubber piece.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511z5.Strut_mount.jpg" title="Strut mount" date="11.05.2007">
+    Install the strut mount and tighten the upper nut on the damper rod.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511z6.Assembled.jpg" title="Assembled" date="11.05.2007">
+    Here's a finished strut with a 9-3 spring. The installation is the reverse
+    of removal, see <A HREF="/Auto/20050210.Saab_NG900_Front_Suspension/">this
+    document</A> for additional details and torque specs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070511z7.Finished.jpg" title="Finished" date="11.05.2007">
+    The car on the ground. The right height is about 1" lower that stock, the
+    old Intrax springs were even lower than that.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
