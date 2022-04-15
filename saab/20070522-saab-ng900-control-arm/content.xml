@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Control Arm">
+
+  <description>
+  <p>Lower control arm replacement on a 1996-1998 Saab 900 and 1999-2002 Saab 9-3.
+  The guide also covers polyurethane bushings and ball joint boots. It's not
+  necessary to unbolt the caliper (some pictures show it removed), but it gives
+  you some extra room around the ball joint.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>32 mm (1.25") socket: axle nut;</li>
+    <li>24 mm socket: outer poly bushing nut;</li>
+    <li>24 mm wrench: outer poly busing bolt;</li>
+    <li>18 mm wrench: ball joint nut;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>15 mm socket: control arm to subframe bolt;</li>
+    <li>13 mm socket: lower sway bar link nut, strut mount nuts;</li>
+    <li>11 mm wrench: upper part of sway bar link;</li>
+    <li>10 mm Allen key: caliper bolts (optional);</li>
+    <li>Torx T55 key: original outer bushing bolt;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>ball joint separator;</li>
+    <li>breaker bar;</li>
+    <li>two pairs of long nose pliers;</li>
+    <li>hacksaw;</li>
+    <li>hammer and rubber mallet.</li>
+  </ul>
+  </description>
+
+  <picture name="20070522a.Axle_nut.jpg" title="Axle nut" date="22.05.2007">
+    While the car is still on the ground, pop the cover in the middle of the
+    wheel and loosen the axle nut using a 32 mm socket on a large breaker bar.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522b.Wheel.jpg" title="Wheel" date="22.05.2007">
+    Raise the car, secure it on jack stands and remove the front wheel.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522c.Nuts.jpg" title="Nuts" date="22.05.2007">
+    Undo the nuts on the sway bar link, outer bushing and the ball joint.
+    If you have OEM outer bushings, you won't be able to undo the bolt just
+    yet since the CV joint it blocking it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522d.Ball_joint.jpg" title="Ball joint" date="22.05.2007">
+    Separate the ball joint using a proper separator. On the other hand, if
+    you're planning to replace the arm anyway, you can go ahead and use the
+    fork separator.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522e.Subframe_bolt.jpg" title="Subframe bolt" date="22.05.2007">
+    Unbolt the control arm from the subframe. You can see that the 6-point
+    brace mounting bar severily limits the access to the control arm bolt.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522f.Detached.jpg" title="Detached" date="22.05.2007">
+    Detach the control arm from the subframe. If you have OEM outer
+    bushing bolts, you should have enough clearance to unbolt it now.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522g.Used_replacement.jpg" title="Used replacement" date="22.05.2007">
+    I'm using a replacement from a junk yard - it comes with a tight ball joint.
+    The bushings aren't as good, but they will have to go anyway.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522h.Bad_boot.jpg" title="Bad boot" date="22.05.2007">
+    This is what happens when the ball joint boot cracks and runs out of grease.
+    The whole arm is junk now.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522i.Inner_bushing.jpg" title="Inner bushing" date="22.05.2007">
+    I need to transfer poly bushings from the old arm, so the rubber ones have
+    to go. A small gear puller easily takes care of the inner one.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522j.Outer_bushing.jpg" title="Outer bushing" date="22.05.2007">
+    The bigger outer bushing can also be pressed out with a gear puller, at least
+    the rubber part of it. Use a pan to catch the hydraulic oil that will leak
+    out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522k.Hacksaw.jpg" title="Hacksaw" date="22.05.2007">
+    The metal sleeve of the outer bushing is a tougher task. Start by assembling
+    a hacksaw inside the bushing and cutting through the sleeve.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522l.Sleeve_cut.jpg" title="Sleeve cut" date="22.05.2007">
+    Then flip the arm around and cut the sleeve on the opposite side. After
+    that you can chisel out the two halves of the sleeve.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522m.Poly_bushings.jpg" title="Poly bushings" date="22.05.2007">
+    Spread some lubricant on the poly bushings and use a rubber mallet to
+    drive them in. Discard the old ball joint boot.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522n.New_boot.jpg" title="New boot" date="22.05.2007">
+    Pack the joint with fresh grease and slide a new boot on.
+    Make sure the boot is seated correctly on the rim and use a pair of long
+    nose pliers to fit the retaining ring. Take extra care not to rip the boot.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522o.Back_in.jpg" title="Back in" date="22.05.2007">
+    Tighten the subframe bolt to 85 ft-lbs and the outer bolt to 120 ft-lbs
+    (68 ft-lbs if you have an OEM bolt).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070522p.Ball_joint.jpg" title="Ball joint" date="22.05.2007">
+    Connect the ball joint and tighten the nut to 55 ft-lbs, sway bar link to
+    7 ft-lbs, wheels bolt to 81 ft-lbs and axle nut to 214 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
