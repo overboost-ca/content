@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Line Input">
+
+  <description>
+  <p>Head unit modification on a 1999-2005 Saab 9-5 to add a line input for
+  external media player connectivity.</p>
+
+  <p><b>NOTE: parts of this guide are outdated, there are much better ways of adding a line input
+  to a 9-5 nowadays, without the twin switch hack. Please search Saab forums for more recent
+  solutions.</b> You can still use this as a general guide on taking the stereo apart.</p>
+
+  <p>A digital music player is an attractive and convenient source of music in
+  the car, but the
+  stock head unit does not have a line input. Many people end up using an FM
+  modulator or a cassette adapter, which inevitably sacrifices the sound
+  quality. Not everyone agrees to this compromise, especally if you have
+  a premium Harman Kardon stereo in your car, or a custom upgraded system.</p>
+
+  <p>There are several alternative solutions for direct MP3 player connectivity.
+  This guide shows how to do it
+  yourself by using the tape deck inputs of the internal amplifier. It is
+  a relatively easy and inexpensive way to add a direct line input to your
+  stock head unit without sacrificing any existing functionality.</p>
+
+  <p>Thanks to Daniel Giertz of Saabradio fame and all the Saab forum members who did the research and
+  contributed to the installation guide.</p>
+  </description>
+
+  <picture name="20061126a.Stereo_removal.jpg" title="Stereo removal" date="26.11.2006">
+    Remove the head unit from the car. If you don't have a stereo removal tool,
+    use a set of knitting needles, or just four long nails. Stick them in and
+    pull the stereo out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126b.Mounting_case.jpg" title="Mounting case" date="26.11.2006">
+    Press the sides of the mounting cage inward to release the latches and pull
+    the cage out. Detaching the wiring harness from the back of the cage will
+    make it easier to test the unit later.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126c.Head_unit.jpg" title="Head unit" date="26.11.2006">
+    The face panel of the head unit is held by four Philips screws (two
+    on each side) and hald a dozen plastic latches.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126d.Front_panel_removed.jpg" title="Front panel removed" date="26.11.2006">
+    Unplug the front panel. The top cover of the CD player module is not
+    necessary to remove, but it's easy to pop if you're curious what's inside.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126e.CD_player_screws.jpg" title="CD player screws" date="26.11.2006">
+    The CD module is secured by three Philips screws.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126f.CD_cable.jpg" title="CD cable" date="26.11.2006">
+    Before removing the CD module, unhook the ribbon cable from the main board.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126g.CD_module.jpg" title="CD module" date="26.11.2006">
+    Lift the CD player module and store it away.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126h.Tape_module.jpg" title="Tape module" date="26.11.2006">
+    Unscrew the tape player module (4 more screws). The little vertical
+    board on the right side of the module is plugged into the main board.
+    Unplug it with care.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126i.Head_board.jpg" title="Head board" date="26.11.2006">
+    These two green jumpers lead to the stereo signals from the magnetic head.
+    I haven't noticed any feedback or distortion with the circuit uninterrupted,
+    but it's highly recommended to unsolder these jumpers to disconnect the
+    tape signal amplifier or install a switch to alternate between the deck
+    and the aux input.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126j.Stereo_signal.jpg" title="Stereo signal" date="26.11.2006">
+    Connect the external stereo wires to the connector leading to the main
+    board. Ground is pin #1, right channel (red) is pin #2, and left channel
+    (white) is pin #3. Some head units (AS2 vs AS3) have a different board
+    layout, but the pin-out of the connector is always the same.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126k.Tape_control_board.jpg" title="Tape control board" date="26.11.2006">
+    The tape control board carries the signals from various tape sensors. The
+    load switch ("LOADSW") in the top right is a switch that gets pushed when
+    the cassette goes in. The front and rear reel signals ("FRS" and "RRS") are
+    the rotation ticks from the tape spindles. And the "INT" signal initiates
+    the head engagement.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126l.Signal_taps.jpg" title="Signal taps" date="26.11.2006">
+    First, tap into the load switch line. Grounding it tells the deck to load
+    the cassette tray. Shorting the front and rear reel signals will fool the
+    control logic into thinking that both reels are spinning (the downside is
+    that it will effectively disable the tape jam protection). Finally, solder
+    a wire to the resistor leading to the "INT" pin.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126m.Switches.jpg" title="Switches" date="26.11.2006">
+    You can opt for an external switch, but I chose to install these two for a
+    completely stealthy setup. Note that the one on the right engages
+    first, and the left one only clicks when the tape door is at the end
+    of its travel. Both switches are normally open, closing them shorts
+    to ground (find a local ground source on the face panel board).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126n.Assembled.jpg" title="Assembled" date="26.11.2006">
+    Connect the first switch to the "LOADSW" signal, and the second switch
+    to the "INT" signal. If you're careful enough, you can even position the
+    switches so they are not engaged when a regular cassette hits the door,
+    to preserve the cassette playback functionality (sans the jam protection).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126o.Testing.jpg" title="Testing" date="26.11.2006">
+    Connect the MP3 player and turn the stereo on. Push the cassette door
+    inward to hit the first switch. The stereo will switch to the tape mode.
+    Usually, the deck will start right on and show "TAPE PLAY A>" (or "B"),
+    playing the music from your MP3 player. If you only see "TAPE" on the
+    SID, push the door further to press the second switch for a second or
+    two, then release it. The deck will engage the playback and you'll see
+    "TAPE PLAY A>".
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126p.Complete.jpg" title="Complete" date="26.11.2006">
+    Re-install the CD player module and put the head unit back into the car.
+    Route the auxillary cable to a convenient location of your choice. Enjoy
+    the music. If you find the tape suddenly switching to "FAST FORWARD" after
+    a few seconds of playback, disable the fast seek feature by pressing the
+    middle of the "SEEK" button on the head unit.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126q.Cable.jpg" title="Cable" date="26.11.2006">
+    I attached the stereo plug to one of the dashboard blanks.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061126r.mobiBLU.jpg" title="mobiBLU" date="26.11.2006">
+    The tiny <b>mobiBLU</b> player fits
+    directly onto the stereo jack and looks right at home at this location.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
