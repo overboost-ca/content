@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900: Rear Springs, Intrax vs Eibach">
+
+  <description>
+  <p>A comparison of Intrax and Eibach rear springs on the 1995 Saab 900 
+  convertible.</p>
+
+  <p>Intrax springs have a barrel design, where it has a number of softer coils
+  which are always fully compressed to compensate for a shorter length and
+  provide some preload when the car is up in the air. The downside is that
+  there's only a couple of coils left uncompressed, which limits the suspension
+  travel, and the ride suffers a lot. Eibach, on the other hand, uses a
+  progressive design, where the thickess and stiffness of the coils varies
+  through the spring length. It employs all of the coils at various stages of
+  the suspension travel, which allows for a much more comfortable ride without
+  having to make the spring too soft to sacrifice the handling.</p>
+  </description>
+
+  <picture name="20061014a.Intrax.jpg" title="Intrax" date="14.10.2006">
+    You can see how the spring is almost fully tight under the weight of the
+    car, except for the last coil. There's virtually no room for the spring to
+    compress further, which means the car will bottom out on every bump.
+    I also had to use a thickness spacer to make up for lost ride height.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061014b.Bump_stop.jpg" title="Bump stop" date="14.10.2006">
+    Here's a new trick for removing the bump stop, suggested by Jose De Jesus.
+    Compress the rubber piece with a hose clamp, spray it with some soap
+    water, and it pops right out.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061014c.Off_the_car.jpg" title="Off the car" date="14.10.2006">
+    The differences in the spring design are apparent from this picture. The
+    quality differs a lot too - both springs were on the car for about a year.
+    The Intrax is all rusted and peeling, while the Eibach still looks like new.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061014d.Eibach.jpg" title="Eibach" date="14.10.2006">
+    A new spring installed (the installation procedure is described in
+    <A HREF="#/content/saab/20070511-saab-ng900-eibach-springs-from-a-9-3">this article</A>).
+    From the looks of it, it appears that the ride
+    is going to be much more comfortable.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061014e.Completed.jpg" title="Completed" date="14.10.2006">
+    Installation complete. The ride height looks just perfect.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20061014f.Intrax_vs_Eibach.jpg" title="Intrax vs Eibach" date="14.10.2006">
+    Here's a direct comparison of both springs installed in the same corner.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
