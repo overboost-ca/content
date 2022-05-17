@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<picture-set title="Saab Trionic 5 BPC Dissection">
+
+  <description>
+  <p>The boost pressure control valve (BPC), also known as the APC
+  solenoid valve, is used on most Saab engines to control the turbo
+  charging pressure. The valves on Trionic5 models are often prone to
+  failure. In some cases it just needs a good cleaning, but sometimes it
+  becomes permanently stuck in one position, causing the car to either stay
+  on base boost, or go into overboost until it hits the fuel cut. This
+  article provides an insight on what could be casing these permanent faliures.</p>
+  </description>
+
+  <picture name="20070416a.BPC.jpg" title="BPC" date="16.04.2007">
+    The middle outlet (marked "W") is connected to the
+    wastegate, the top ("C") goes to the compressor housing of the turbo,
+    and the bottom ("R") to the intake. The boost is adjusted by
+    alternatively supplying the wastegate actuator with the pressure from
+    the turbo or venting it to the intake, thus allowing the wastegate to
+    stay closed at pressure levels exceeding the base boost.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070416b.Tester.jpg" title="Tester" date="16.04.2007">
+    The valve contains two solenoid coils.
+    Sometimes these coils burn out, so testing them is always a good
+    first step. It's easy to do right on the car, just unplug the connector.
+    The resistance for each
+    coil should be 3 Ohm (+/- 1 Ohm) between the
+    middle and either of the outer pins. The combined resistance of both
+    should be about 6 Ohm between the outer pins.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070416c.Seam.jpg" title="Seam" date="16.04.2007">
+    The valve is glued together, you can still see traces of adhesive in the
+    seam. You can scrape it off if you're patient. I just used a hack saw.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070416d.Apart.jpg" title="Apart" date="16.04.2007">
+    Inside, you will find the solenoid pair with fragile wires leading to
+    the harness connector. The top and bottom receiving outlets are sealed
+    with rubber O-rings.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070416e.Solenoid.jpg" title="Solenoid" date="16.04.2007">
+    The solenoid unit has two electromagnets with a membrane in the middle.
+    The ECU pulses the current at 90Hz (or 70 Hz above 2500 RPM), alternating
+    between the coils and pulling the membrane to one side or another. This
+    allows for precise control of boost pressure.
+    <image width="725" height="600" />
+  </picture>
+  <picture name="20070416f.Membrane.jpg" title="Membrane" date="16.04.2007">
+    In this BPC, the membrane cracked from stress. A piece of it was jammed
+    on the pressure side of the valve, keeping it open. As the result, the
+    wastegate actuator was permanently connected to the compressor, so the
+    wastegate always opened when it reached the base boost.
+    <image width="799" height="600" />
+  </picture>
+  <picture name="20070422a.Clamped.jpg" title="Clamped" date="22.04.2007">
+    The remaining part of the membrane was still large enough to cover
+    the valve opening, so I decided to give it a try. The BPC was assembled,
+    glued back together and sealed with automotive adhesive.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20070422b.Finished.jpg" title="Finished" date="22.04.2007">
+    After the sealant dried up, I installed the valve on the car and found
+    it fully functional! This proves that at least some BPCs can
+    be repaired.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
