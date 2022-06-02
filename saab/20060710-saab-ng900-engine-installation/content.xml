@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Engine Installation">
+
+  <description>
+  <p>Engine installation on a 1995 Saab 900 turbo. This would apply to 1994-1998 900 and 1999 9-3.</p>
+
+  <p>Some find it easier to install the engine with the gearbox already attached,
+  but it requires a load leveler so you could tilt the assembly, and I didn't
+  have it that week. Having tried both, I still find it easier to install the engine separately.
+  The room to fit them both is rather tight on the NG900/9-3 compared to a 9-5.</p>
+
+  <p>The transmission can then be bolted on right after the engine is in, and this
+  guide actually mixes engine installation with transmission installation
+  steps. It is advised that you study the
+  <a href="#/content/saab/20060211-saab-ng900-manual-transmission-installation">gearbox
+  install guide</a> beforehand.</p>
+
+  <p>When the job is complete, do not start the engine right away. Unplug the 
+  direct ignition cassette harness, pull the fuel pump fuse and crank
+  the engine with the starter to build up sufficient oil pressure. You need
+  a good battery charge for that. Then plug everything back in and start
+  the engine.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>22 mm wrench: oil cooler lines;</li>
+    <li>19 mm wrench: brake booster hose;</li>
+    <li>16 mm socket: A/C compressor;</li>
+    <li>15 mm socket: side engine mounts;</li>
+    <li>13 mm wrench: steering pump bolts, delivery pipe;</li>
+    <li>10 mm socket: cruise control unit;</li>
+    <li>8 mm socket: MAP sensor;</li>
+    <li>7 mm socket: hose clamps;</li>
+    <li>Torx T25 screwdriver: BPC;</li>
+    <li>long 1/2" extension: belt tensioner release;</li>
+    <li>engine support beam;</li>
+    <li>shop crane;</li>
+    <li>car jacks and axle stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20060710a.Lowering.jpg" title="Lowering" date="10.07.2006">
+    Carefully lower the engine into the engine bay. Make sure it clears
+    everything sticking out on its way down.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710b.Engine_mount.jpg" title="Engine mount" date="10.07.2006">
+    Align the engine so the passenger side mount can be attached to the body
+    and tighten the bolts to 54 ft-lbs.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710c.Support_bar.jpg" title="Support bar" date="10.07.2006">
+    Install the support bar across the fenders and take the weight off the
+    crane. The engine will now rest on the passenger side mount and the
+    support bar.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710d.Transmission.jpg" title="Transmission" date="10.07.2006">
+    Now is the good time to
+    <a href="#/content/saab/20060211-saab-ng900-manual-transmission-installation">install the transmission</a>.
+    It can be done at a later stage, but it's easier without having coolant
+    hoses and wires in the way. It also allows to install the subframe right
+    away and get rid of the support bar.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710e.Steering_pump.jpg" title="Steering pump" date="10.07.2006">
+    Attach the steering pump with three 13 mm bolts. The bolt location is rather
+    awkward, and in most cases there's only enough room for a 1/6 or even 1/12
+    turn of a spanner at a time.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710f.AC_compressor.jpg" title="A/C compressor" date="10.07.2006">
+    Bolt the A/C compressor to the engine (three long 16 mm bolts). Plug
+    the A/C clutch wire into its connector on the radiator. Attach oil cooler
+    lines to the oil filter housing (22 mm wrench).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710g.Belt.jpg" title="Belt" date="10.07.2006">
+    Lock the tensioner using a long 1/2" extension and a 2 mm pin
+    and fit the accessory belt. The picture shows a short belt configuration
+    with the middle idler pulley bypassed.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710h.Airbox.jpg" title="Airbox" date="10.07.2006">
+    Install the airbox and connect the ribbed hose to the turbo inlet pipe.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710i.BPC.jpg" title="BPC" date="10.07.2006">
+    Attach the boost pressure control valve to its proper location (two T25
+    screws) and route the cable around the airbox.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710j.ECU_harness.jpg" title="ECU harness" date="10.07.2006">
+    Feed the ECU harness back through the hole in the firewall and plug it
+    with the rubber grommet.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710k.ECU.jpg" title="ECU" date="10.07.2006">
+    Here's a custom Nordic stage4 ECU I'm using with my freshly built 2.3L
+    engine.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710l.ECU_harness.jpg" title="ECU harness" date="10.07.2006">
+    Install the ECU (if you had it removed) and connect the wiring harnesses.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710m.Fuel_lines.jpg" title="Fuel lines" date="10.07.2006">
+    Re-connect the fuel lines, the fuel tank vent line to the throttle body
+    and the EVAP valve harness.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710n.Cruise_control.jpg" title="Cruise control" date="10.07.2006">
+    Install the cruise control unit (two plastic 10 mm nuts).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710o.Throttle_cable.jpg" title="Throttle cable" date="10.07.2006">
+    Attach the cruise control and accelerator cables to the arm on the throttle
+    body. Bolt on the brake booster vacuum line.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710p.MAP.jpg" title="MAP" date="10.07.2006">
+    Connect the vacuum hose and the cable to the manifold pressure sensor
+    (this picture shows the strut bar installed already).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710q.Lower_rad_hose.jpg" title="Lower rad hose" date="10.07.2006">
+    Install the lower radiator hose. I'm using a newer style nose here,
+    since it needs to clear the turbo hose to the cross-flow intercooler.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710r.Radiator_hoses.jpg" title="Radiator hoses" date="10.07.2006">
+    Attach the remaining coolant hoses: two heater core hoses, upper radiator
+    hose, upper and lower expansion tank hoses.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710s.Intercooler_hose.jpg" title="Intercooler hose" date="10.07.2006">
+    Connect the intercooler inlet hose to the compressor housing on the turbo.
+    Tighten the clamps well.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710t.Delivery_pipe.jpg" title="Delivery pipe" date="10.07.2006">
+    Install the delivery pipe from the intercooler to the throttle body.
+    Tighten the 13 mm bolt that holds it to the engine head.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710u.Downpipe.jpg" title="Downpipe" date="10.07.2006">
+    Bolt the downpipe to the turbo and screw in the O2 sensor (or both if you
+    have an OBD II car).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060710v.Finished.jpg" title="Finished" date="10.07.2006">
+    Complete the
+    <a href="#/content/saab/20060211-saab-ng900-manual-transmission-installation">transmission-related
+    steps</a>, fill the fluids and install the battery.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
