@@ -26,6 +26,9 @@
     <directory name="20060924-saab-ng900-line-input" title="26.09.2006: NG900: Line Input" />
     <directory name="20060806-saab-ng900-audio-upgrade" title="06.08.2006: NG900: Audio Upgrade" />
   </category>
+  <category name="Saab: Engine">
+    <directory name="20060711-saab-ng900-fuel-filter" title="11.07.2006: NG900/9-3: Fuel Filter" />
+  </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />
     <directory name="20050909-saab-ng900-sport-exhaust" title="09.09.2005: NG900/9-3: Saab Sport Exhaust" />

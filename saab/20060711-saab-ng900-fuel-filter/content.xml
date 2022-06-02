@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Fuel Filter">
+
+  <description>
+  <p>Fuel filter replacement on a 1995 Saab 900. The procedure is the same for
+  all 1994-1998 900 and 1999-2002 9-3. 9-5s are also very similar, except that
+  the filter is covered by a plastic shield.</p>
+
+  <p>Before starting the work, start the engine and pull the fuel pump fuse.
+  The engine will eventually use up all fuel in the lines, choke and stall.
+  This is needed to release the fuel pressure and prevent the petrol from
+  fountaining from the banjo fittings when you unscrew the filter.</p>
+  
+  <h2>Tools:</h2>
+  <ul>
+    <li>27 mm wrench: inlet side of the filter;</li>
+    <li>22 mm wrench: exit side of the filter;</li>
+    <li>19 mm socket: inlet banjo bolt;</li>
+    <li>17 mm socket: exit banjo bolt;</li>
+    <li>Torx T30 socket: clamp screw;</li>
+    <li>car ramps or jack and stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20060711a.Under_the_car.jpg" title="Under the car" date="11.07.2006">
+    Jack up the right side of the car and locate the filter under the rear door,
+    next to the fuel tank. After 11 years and 156K km of
+    operation the original filter doesn't look particularly attractive.
+    Prepare a pan to catch the fuel that will leak out after you unbolt
+    the filter.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060711b.Old_filter.jpg" title="Old filter" date="11.07.2006">
+    There's a banjo bolt on each side of the filter. To undo these bolts,
+    hold the filter with a spanner wrench and turn the banjo head with a
+    ratchet. The fuel will start dripping right after you release the tension,
+    a total of 200 ml or more may come out. Unscrew the clamp and remove
+    the filter.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060711c.New_filter.jpg" title="New filter" date="11.07.2006">
+    A new Bosch filter comes with plastic plugs on both ends to prevent the
+    dirt from getting in during shipping. Often when you remove the bolts,
+    tiny rubber pieces of old washers get stuck to them. Clean them well -
+    you don't want this stuff in your injectors. Get new washers too, you
+    need four in total.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060711d.Installed.jpg" title="Installed" date="11.07.2006">
+    Install the new filter, fit the clamp and tighten both banjo bolts to 16
+    ft-lbs. The engine might take a bit longer to start for the first time,
+    but should be fine afterwards.
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
