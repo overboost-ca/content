@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900: Line Input">
+
+  <description>
+  <p>Head unit modification on a 1994-1998 Saab 900 to add a line input for
+  external media player connectivity.</p>
+
+  <p>If you have any kind of suspension modifications, or simply if you drive
+  your car hard, you will eventually get tired of your CD changer skipping
+  on bumps. Worse even, it does the same with stock suspension.
+  An MP3 player sounds like a good alternative, but the stock head unit does
+  not have a line input, so you end up using an FM modulator or a cassette
+  adapter, which inevitably sacrifices the sound quality. And you probably
+  don't want to do that, especially if you just spent a good deal of money
+  upgrading the audio components in the car.</p>
+
+  <p>Here's the solution, a relatively easy way to add a direct line input to your
+  stock head unit without sacrificing any existing functionality. There is
+  a couple of alternative ways, this guide shows how to do it by using the
+  tape deck inputs of the internal amplifier.</p>
+
+  <p>Thanks to all SaabCentral forum members who did the research and
+  contributed to the installation guide.</p>
+  </description>
+
+  <picture name="20060924a.Head_unit.jpg" title="Head unit" date="24.09.2006">
+    Remove the head unit from a car. Use a stereo removal tool, or simply
+    pop the SID and push the stereo from behind. Make sure you have the
+    security code before unplugging the wires!
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924b.Top_cover.jpg" title="Top cover" date="24.09.2006">
+    Start the disassembly by removing the top cover. It's held by two screws
+    (you need a small Philips screwdriver).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924c.Radiator.jpg" title="Radiator" date="24.09.2006">
+    Five more screws, and you can take off the radiator in the rear.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924d.Face_panel.jpg" title="Face panel" date="24.09.2006">
+    The face panel is secured by four latches (two on each side). Unlock
+    those and detach the panel - it's plugged into the connector on the
+    main board.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924e.Open.jpg" title="Open" date="24.09.2006">
+    Unscrew the top board and pull it up - it's plugged into two small
+    connectors at the rear of the stereo.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924g.Cassette_unit.jpg" title="Cassette unit" date="24.09.2006">
+    Take out the screws that hold the cassette mechanism and lift the whole
+    unit (its connector is soldered to the bottom of the small vertical board).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924i.Rear_board.jpg" title="Rear board" date="24.09.2006">
+    Remove the last screws on the rear of the unit, twist the lock in the
+    middle of the board and remove the main board out of the case.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924j.Out_of_the_case.jpg" title="Out of the case" date="24.09.2006">
+    The big vertical board can be also detached from the main board. Be
+    careful around electric parts, they don't like static electricity.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924k.Main_board.jpg" title="Main board" date="24.09.2006">
+    The underside of the main board has the inputs clearly marked on the
+    tape unit connector. You can tap right here, to the "SIGGND", "L" and "R"
+    (pins 2-4).
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924l.Cassette_unit.jpg" title="Cassette unit" date="24.09.2006">
+    Alternatively, you can use the tape unit itself - same signals are
+    marked on the upper connector ("G", "L", "R", pins 2-4), and the vertical
+    board offers lots of room and good soldering spots. Take a note of the
+    small switch on the far side, you will need it later.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924m.Cable.jpg" title="Cable" date="24.09.2006">
+    Pull a shielded stereo cable through the holes in the back of the
+    case and install the main board.
+    <image width="785" height="600" />
+  </picture>
+  <picture name="20060924n.Soldered.jpg" title="Soldered" date="24.09.2006">
+    Solder the stereo cable to the vertical board on the tape unit and secure
+    the cable with a zip-tie to protect it from vibration.
+    If you're worried about possible interference with the signal from the
+    actual ape unit, you can unplug the tape board from the connector
+    in the upper left corner (see the previous picture), but I haven't noticed
+    any feedback on my unit.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924o.Circuit_cut.jpg" title="Circuit cut" date="24.09.2006">
+    Cut the top lead from the switch and solder a wire on each side of the cut.
+    The switch is normally closed (short to ground) when the tape deck is empty
+    and open when a cassette is playing. We want to fool the player
+    into thinking there's a cassette inside.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924p.Switch.jpg" title="Switch" date="24.09.2006">
+    Install the tape deck and the top board back in place. Connect
+    the wires from the cut lead to a momentary switch and fit it between the
+    knobs right above the cassette door. The circuit should be normally closed,
+    and pressing the switch would interrupt it.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924q.Assembled.jpg" title="Assembled" date="24.09.2006">
+    Assemble the head unit. You will now have a stereo jack sticking out in the
+    back. Check the cassette door operation - it should activate the hidden
+    switch when you push the door inward.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924r.Testing.jpg" title="Testing" date="24.09.2006">
+    Test the operation in the car. Push the cassette door in to hit the switch.
+    The head unit will load the empty tray and activate the cassette input. You
+    should hear the sound from your MP3 player connected to the stereo jack in
+    the back.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924s.Installation.jpg" title="Installation" date="24.09.2006">
+    Connect the stereo cable and feed it through the centre console into the
+    location of your choice. For instance, there's a gap under the left lower
+    corner of the ashtray, just wide enough to pull the cable through.
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060924t.In_action.jpg" title="In action" date="24.09.2006">
+    The line input will be always on now, so you can simply switch from the
+    CD or radio to "TAPE" and instantly have your MP3 music on. If you ever need
+    to reset the deck (e.g. to play an actual cassette), just press "eject".
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

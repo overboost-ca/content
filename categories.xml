@@ -23,6 +23,7 @@
     <directory name="20071007-saab-9-5-auto-dimming-rear-view-mirror" title="07.10.2007: 9-5: Auto-Dimming Rear View Mirror" />
     <directory name="20070416-saab-trionic5-bpc-dissection" title="16.04.2007: Trionic 5: BPC Dissection" />
     <directory name="20061126-saab-9-5-line-input" title="26.11.2006: 9-5: Line Input" />
+    <directory name="20060924-saab-ng900-line-input" title="26.09.2006: NG900: Line Input" />
   </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />
@@ -62,5 +63,8 @@
   </category>
   <category name="Project Cars">
     <directory name="20110312-engine-failure" title="12.03.2011: 1999 Saab 9-5: Engine Failure" />
+  </category>
+  <category name="Events">
+    <directory name="20060825-saab-aero-x-broken-at-soc06" title="25.08.2006: Saab Aero-X: Broken at SOC06" />
   </category>
 </page>
