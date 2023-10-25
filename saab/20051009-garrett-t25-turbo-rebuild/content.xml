@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Garrett T25 Turbo Rebuild">
+
+  <description>
+  <p>This Garrett T25 turbo is found on 1991-1998 Saab 9000, 1994-1998 Saab 900
+  and 1999 Saab 9-3. There are certain differences between the models, but the
+  cores are almost identical, so you might find this useful even if your unit
+  is somehow different from those pictured. The goal here was to rebuild
+  a turbocharger using new seals and bearings from a service kit.</p>
+
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>14 mm six-point socket (turbine end nut);</li>
+    <li>13 mm spanner wrench (exhaust housing bolts);</li>
+    <li>10 mm wrench (wastegate actuator);</li>
+    <li>8 mm twelve-point socket, did without it (compressor wheel nut);</li>
+    <li>Torx T15 screwdriver (thrust bearing);</li>
+    <li>small torque wrench with an inch-lbs scale;</li>
+    <li>large and small snap ring pliers;</li>
+    <li>gear puller;</li>
+    <li>engine oil;</li>
+    <li>degreaser and cleaning supplies.</li>
+  </ul>
+  </description>
+
+  <picture name="200510090.Two_turbos.jpg" title="Two turbos" date="09.10.2005">
+    These are the two turbos I'm going to use. One has damaged wheels and
+    incredibly worn seals, while another has a cracked exhaust housing but
+    good internals. I'm hoping to combine them into one working unit.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510091.Donor_No_1.jpg" title="Donor No 1" date="09.10.2005">
+    A close-up of one of the turbos. This one came from a 1999 9-3. The
+    wastegate actuator has been removed earlier.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510092.Bolts.jpg" title="Bolts" date="09.10.2005">
+    Undo the bolts on the exhaust housing using a 13 mm spanner. The bolts
+    are conveniently located so they can be used to press the housing off
+    the turbo.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510093.Exhaust_housing.jpg" title="Exhaust housing" date="09.10.2005">
+    When using the bolts to force the housing off, do it very carefully, half
+    a turn at a time. Make sure it is coming off evenly and not jamming the
+    turbine wheel.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510094.Snap_ring.jpg" title="Snap ring" date="09.10.2005">
+    The compressor housing is secured with a big snap ring, you need large
+    pliers for that.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510095.Compressor_housing.jpg" title="Compressor housing" date="09.10.2005">
+    The snap ring takes a few moments to wrestle, and then you can remove
+    the compressor housing... carefully.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510096.Shaft_play.jpg" title="Shaft play" date="09.10.2005">
+    This shot illustrates the enormous amount of shaft play on one of the
+    turbos. The thrust bearing was completely destroyed, so the turbine ate
+    into the backing plate and ground itself down over 2 mm.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510097.Nut.jpg" title="Nut" date="09.10.2005">
+    Grab the shaft nut with vise-grips and use a six-point 14 mm wrench on
+    the turbine end to undo the nut. Remember, the nut has a LEFT HAND thread.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510098.Gear_puller.jpg" title="Gear puller" date="09.10.2005">
+    The compressor wheel might just come off, but most likely you'll have to
+    use a gear puller to press it off.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="200510099.Wheels_removed.jpg" title="Wheels removed" date="09.10.2005">
+    Before pulling the wheels off, even before touching the nut on the shaft,
+    mark the position of the wheels relative to each other. You'll have to
+    assemble them in the exact same position later to preserve the balance.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009a.Sealplate.jpg" title="Sealplate" date="09.10.2005">
+    The sealplate is held by another snap ring, and there's a rubber ring
+    underneath.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009b.Thrust_bearing.jpg" title="Thrust bearing" date="09.10.2005">
+    The thrust bearing is held by three Torx T15 screws. The thrust collar is
+    the part mainly responsible for shaft play.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009c.Snap_ring.jpg" title="Snap ring" date="09.10.2005">
+    The journal bearings are held in place by small snap rings. You can remove
+    them with tiny needle-nose pliers or just a sharp pick.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009d.Journal_bearings.jpg" title="Journal bearings" date="09.10.2005">
+    The intake side journal bearing has only one snap ring inside the turbo
+    (the outer side is propped by the thrust bearing), while the exhaust side
+    bearing has two snap rings.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009e.Cleaning.jpg" title="Cleaning" date="09.10.2005">
+    Time to clean all the grime and oil from the turbo. Check for sludge in the
+    oil passages. Keep all parts free from contaminants from now on.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009f.Wheels.jpg" title="Wheels" date="09.10.2005">
+    Clean the wheels. Make sure you did not wipe your position marks if
+    you used a marker or paint. Remove the old seal ring from the turbine.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009g.The_kit.jpg" title="The kit" date="09.10.2005">
+    A typical T25 service kit from eBay
+    would contain a full set of new bearings, seals, snap rings and fasteners.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009h.Journal_bearings.jpg" title="Journal bearings" date="09.10.2005">
+    Prepare journal bearings and snap rings. Some kits come with bearings in
+    two sizes to suit different trims of the turbo, so pick the right size.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009i.Snap_rings.jpg" title="Snap rings" date="09.10.2005">
+    Install the inner snap rings on both sides of the central oil passage.
+    Make sure they fully fit into their grooves.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009j.Turbine_side.jpg" title="Turbine side" date="09.10.2005">
+    Dip one of the journal bearings in engine oil and insert it on the
+    exhaust side of the turbo. Fit the outer snap ring.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009k.Compressor_side.jpg" title="Compressor side" date="09.10.2005">
+    Turn the turbo around, dip the second journal bearing in oil and slide
+    it in place.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009l.Thrust_bearing.jpg" title="Thrust bearing" date="09.10.2005">
+    Fit the seal ring on the thrust collar, dip the parts in oil and screw
+    on the thrust bearing.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009m.Sealplate.jpg" title="Sealplate" date="09.10.2005">
+    Install a fresh rubber ring under the sealplate, press the sealplate in
+    and secure it with a snap ring.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009n.Turbine.jpg" title="Turbine" date="09.10.2005">
+    Prepare the seals that go on the turbine end of the shaft.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009o.Turbine_seals.jpg" title="Turbine seals" date="09.10.2005">
+    The middle retaining ring was completely missing on both turbos. Its
+    groove was filled flush with cooked oil, so I had to dig through it.
+    The installation of the shaft is a bit awkward since you have the back
+    cover plate blocking the view, but sooner or later it snaps in. Just don't
+    force it too much.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009p.Compressor_wheel.jpg" title="Compressor wheel" date="09.10.2005">
+    Slide the compressor wheel on and line up the marks carefully to restore
+    the balance. Put on the nut. The torque varies from 20 to 40 in-lbs in
+    various sources, plus extra 90-120 degrees. Ideally, you need a small
+    12-pt socket for the nut, I just clamped it between two wooden blocks and
+    used a torque wrench on the turbine end.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009q.Compressor_housing.jpg" title="Compressor housing" date="09.10.2005">
+    Fit new rubber ring, put the housing on, and secure that huge snap ring.
+    Check the orientation: if you hold the housing so that the intake is facing down, the part
+    number plate on the cartridge body (or the stud that's left of it) should
+    be facing up.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009r.Exhaust_housing.jpg" title="Exhaust housing" date="09.10.2005">
+    Fit the exhaust housing, new brackets and tighten the bolts. As usual, make
+    sure the turbine spins free.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009s.Wastegate_actuator.jpg" title="Wastegate actuator" date="09.10.2005">
+    The wastegate actuator has been
+    <a href="#/content/saab/20051003-saab-ng900-wastegate-actuator-spring">rebuilt
+    and prepared earler</a>, with an upgraded spring from Nordic.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051009t.Finished.jpg" title="Finished" date="09.10.2005">
+    Bolt the actuator to the housing and screw on the arm so it slides
+    onto the wastegate arm in the closed position. Shorten the rod an extra 2-3
+    turns to obtain a pre-load of 2-3 mm, and tighten the lock nut.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

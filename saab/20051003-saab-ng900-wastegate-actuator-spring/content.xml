@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Wastegate Actuator Spring">
+
+  <description>
+  A wastegate actuator spring upgrade. The higher upgrade stages from
+  Nordic for cars equipped with
+  a Garrett T25 turbo come with a stiffer wastegate actuator spring.
+  The following is the procedure of the spring replacement. The actuator has
+  to be removed from the car first (parts from
+  <a href="https://www.genuinesaab.com/">Taliaferro Imports</a>).
+  </description>
+
+  <picture name="20051003a.Wastegate_actuator.jpg" title="Wastegate actuator" date="03.10.2005">
+    The actuator consists of a vacuum box and a rod that pulls the wastegate
+    arm.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051003b.Vacuum_box.jpg" title="Vacuum box" date="03.10.2005">
+    The spring is inside the vacuum box. The box is a round can with a rolled
+    rim.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051003c.Opening_the_can.jpg" title="Opening the can" date="03.10.2005">
+    Use your favourite tool to pry off the edge of the rim. Be careful not
+    to bend it too much as the rim has to be rolled back in later.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051003d.Almost_there.jpg" title="Almost there" date="03.10.2005">
+    Continue around the entire perimeter. Medium sized vice-grips work well.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051003e.Pop.jpg" title="Pop" date="03.10.2005">
+    Sooner or later, the can pops open. The spring is not that strong, so don't
+    worry about it shooting away and crashing your china.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051003f.Apart.jpg" title="Apart" date="03.10.2005">
+    The wastegate actuator apart. You can see the can, the spring, the
+    rod with a piston attached, and the rubber membrane.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004a.Wire_brush.jpg" title="Wire brush" date="04.10.2005">
+    This might be a good time to clean the rust and dirt accumulated on the can.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004b.Membrane.jpg" title="Membrane" date="04.10.2005">
+    Clean the membrane, inspect it for cracks and lubricate with your favourite
+    rubber treatment for longevity.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004c.Springs.jpg" title="Springs" date="04.10.2005">
+    The spring supplied by Nordic is noticeably beefier.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004d.Clamped_together.jpg" title="Clamped together" date="04.10.2005">
+    Put the actuator back together and clamp it. Make sure the edges of the
+    membrane are evently centered around the rim.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004e.Rolling_back.jpg" title="Rolling back" date="04.10.2005">
+    Roll the rim back in. Be careful not to crack the metal. I don't think
+    it will withstand one more operation like this.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004f.Crimping.jpg" title="Crimping" date="04.10.2005">
+    Press the edges tightly with vice-grips or another suitable tool. Check
+    the box for vacuum leaks.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004g.Ready_to_paint.jpg" title="Ready to paint" date="04.10.2005">
+    I decided to paint the actuator while I have it off the car. Don't forget
+    to mask the inlet and the threads.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051004h.Finished.jpg" title="Finished" date="04.10.2005">
+    Primed, painted and ready to go back on the car.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

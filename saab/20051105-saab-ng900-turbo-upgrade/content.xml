@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3/9-5: Turbo Upgrade to TD04">
+
+  <description>
+  <p>Turbocharger upgrade on a 1996 Saab 900. The stock Garrett T25 turbo is
+  being replaced with a Mitsubishi TD04HL-15T turbo found on Aero and Viggen models.
+  The procedure will be more or less similar for all Saabs using the B204-B235
+  engine family. This article describes the installation only, for turbo
+  removal instructions and more information refer to
+  <a href="#/content/saab/20051010-saab-ng900-turbo-replacement">this document</a>.</p>
+
+  <p>If you're impatient, here's the answer everyone keeps asking about:</p>
+
+  <h2>YOU DO NOT NEED NEW OIL OR COOLANT LINES!</h2>
+  
+    <p>That's right, you can reuse your existing oil and coolant lines as long
+    as they are in a good condition: not plugged, bent or cracked.
+    If your replacement turbo comes with new lines - good for you.
+    If not, don't bother
+    trying to source OEM lines or waste the money on the custom ones. All
+    you need is two M12 banjos and four copper washers with 1/2"
+    inner diameter hole.</p>
+
+  <p>If you want details, here's a more detailed explanation on oil and coolant line
+  compatibility.</p>
+
+   There are four
+  lines between the engine and the turbo -- two oil and two coolant passages.
+  <ol>
+    <li>The oil feed line goes from the oil filter housing to the top of the
+    turbo. The banjo bolts have an M14 thread on the engine side and M12 thread
+    on the turbo. Ideally, you should use a new line when installing a turbo,
+    or at least clean the old one from sludge and deposits.</li>
+    <li>The silicone oil return hose goes from the bottom of the turbo to the
+    oil pan. Both turbo and the engine side ports are noticeably narrower on the
+    TD04/GT17 compared to T25, and the T25 pipe doesn't bolt onto the TD04.
+    However, if you're upgrading to TD04, it's possible to find a smaller-sized
+    hose that would fit tightly on the thicker stock oil pan port and hold onto
+    the smaller pipe coming out of the TD04 with a help of a good clamp. A
+    stock hose that comes with TD04 is stretchy enough to fit on the thicker
+    pipe on B204L.</li>
+    <li>The lower coolant line goes from the front of the turbo to the water
+    pump, except for B204L where it's connected to a port under the 4th cylinder.
+    The former version uses a banjo with an M12 thread on the engine side, the
+    latter has M14. The turbos are an ever bigger mess: the TD04 has an M12
+    thread, the T25/GT17 have M14, and the older T25 from the 1990-1993 9000s
+    have an odd thread of M16.</li>
+    <li>The upper coolant line goes from the rear of the turbo to the upper
+    left side of the engine, near the upper radiator hose. The banjo
+    bolts have an M14 thead on the engine, M14 thread on T25/GT17, and M12
+    on TD04. If you're upgrading to TD04 and don't have matching lines, you can
+    use your stock lines with a 14 mm hole, just find a pair of wider copper
+    washers and put them on 12 mm banjo bolts that go into TD04.</li>
+  </ol>
+
+  <p>Once again, a summary on the lines. If you're upgrading to TD04 from a T25 or GT17,
+  your life will be easier if you get two M12 banjo bolts and proper coolant
+  lines with 12 mm holes on the turbo side. These parts exist for B205/B235
+  (upper #9182460, lower #9174947), but with B204L you're out of luck, because
+  you need a lower line that goes to the port under the fourth cylinder, and a
+  version of such line with a 12 mm hole does not exist. Either way, if you
+  find yourself missing the lines, use your old ones with wider washers on M12
+  banjos, just tighten them well. The oil feed line will fit as is (although
+  it's often recommended to use a new one). The silicone oil return line from
+  GT17 fits fine, a car with T25 will need a narrower hose to replace the
+  stock one.</p>
+
+  <p>When upgrading from T25, you also need a new turbo inlet pipe and a manifold
+  stay. On a Trionic7 car with a GT17, the stock inlet pipe will fit, but the
+  car would still benefit from an upgraded high flow pipe.</p>
+
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>13 mm wrench and socket (downpipe and turbo nuts);</li>
+    <li>12 mm wrench and socket (banjo bolts);</li>
+    <li>Torx T30 socket (turbo inlet pipe);</li>
+    <li>8 mm socket (shield screws);</li>
+    <li>7 mm socket (hose clamps), or flat screwdriver;</li>
+    <li>large pliers (oil return hose clamps);</li>
+    <li>torque wrench;</li>
+    <li>ratchet handle;</li>
+    <li>ramps or jacks and stands;</li>
+    <li>new copper washers for all banjo bolts;</li>
+    <li>new turbo to manifold gasket;</li>
+    <li>turbo inlet pipe (when upgrading from a T25);</li>
+    <li>inlet pipe clamp (when upgrading from a T25);</li>
+    <li>manifold stay (when upgrading from a T25);</li>
+    <li>thinner oil return hose (when upgrading from a T25);</li>
+    <li>four 1/2" copper washers (if using T25/GT17 lines);</li>
+    <li>two M12 banjo bolts;</li>
+    <li>fresh oil and coolant.</li>
+  </ul>
+  </description>
+
+  <picture name="20051105a.Inlet_pipe.jpg" title="Inlet pipe" date="05.11.2005">
+    A beautiful stainless high-flow turbo inlet pipe custom made by 
+    <a href="https://www.genuinesaab.com">genuinesaab.com</a>. In fact, they
+    now have <a href="https://genuinesaab.com/catalog/product_info.php?cPath=56_60&amp;products_id=349">a part named after this guide</a>.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105b.Supplies.jpg" title="Supplies" date="05.11.2005">
+    New seals, washers, clamps and a new turbo stay (my new turbo
+    was missing it).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105c.Turbo.jpg" title="Turbo" date="05.11.2005">
+    The replacement turbo.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105d.Turbo.jpg" title="Turbo" date="05.11.2005">
+    It came from a 2002 Viggen.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105e.Turbo.jpg" title="Turbo" date="05.11.2005">
+    The full designation is TD04HL-15T.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105f.Turbo.jpg" title="Turbo" date="05.11.2005">
+    The exhaust manifold and downpipe flanges are the same as on T25, so
+    the turbo will bolt right on.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105g.Exhaust_manifold.jpg" title="Exhaust manifold" date="05.11.2005">
+    Put the turbo on the car with a new manifold gasket, and secure it with
+    a nut or two. Don't tighten it yet to allow some movement until you connect
+    all the lines.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105h.Oil_return_hose.jpg" title="Oil return hose" date="05.11.2005">
+    Install and clamp the oil return hose. If you're lucky to have the hose
+    that comes with TD04, it should stretch to fit onto the thicker pipe on
+    the B204L engine.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105i.Oil.jpg" title="Oil" date="05.11.2005">
+    Fill the turbo with engine oil and make sure it spins freely.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105j.Oil_line.jpg" title="Oil line" date="05.11.2005">
+    Install the oil feed line.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105k.Washers.jpg" title="Washers" date="05.11.2005">
+    12 mm TD04 banjo bolts are too small for 14 mm holes in stock coolant lines.
+    If you can't get proper lines, you can work around using oversize copper
+    washers. 1/2" drain plug washers will do.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105l.Lines.jpg" title="Lines" date="05.11.2005">
+    Put bigger washers on both sides of the line fitting. When tightening those
+    later, apply enough torque to crush both washers. Take extra care to make
+    sure the bolts are centered inside their holes.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105m.Coolant_line.jpg" title="Coolant line" date="05.11.2005">
+    Attach the lower coolant line.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105n.Coolant_line.jpg" title="Coolant line" date="05.11.2005">
+    Attach the upper coolant line.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105o.Manifold_nuts.jpg" title="Manifold nuts" date="05.11.2005">
+    Bolt the turbo to the exhaust manifold (18.5 ft-lbs). Tighten all
+    banjo bolts.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105p.Turbo_stay.jpg" title="Turbo stay" date="05.11.2005">
+    Install the turbo stay bar. Do not forget to attach the O2 sensor clamp.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105q.Downpipe.jpg" title="Downpipe" date="05.11.2005">
+    Connect the downpipe to the turbo and tighten the nuts.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105r.Intercooler_hose.jpg" title="Intercooler hose" date="05.11.2005">
+    Attach the intercooler hose to the compressor housing outlet.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105s.BPC_line.jpg" title="BPC line" date="05.11.2005">
+    Install the turbo inlet pipe, tighten the clamp and fit BPC hoses.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105t.Intake_pipe.jpg" title="Intake pipe" date="05.11.2005">
+    Install the rubber elbow between the air box and the turbo inlet pipe.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105u.Vent_hose.jpg" title="Vent hose" date="05.11.2005">
+    Fit the crankcase vent hose. Some installations will have a barb for it,
+    I had to improvise.  On this picture, the hose appears to be rather close
+    to the manifold, while there's actually quite a bit of distance. Still, a
+    heat resistant hose wouldn't hurt.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105v.Bypass_valve.jpg" title="Bypass valve" date="05.11.2005">
+    Attach the bypass or dump valve, whichever your car has. Fit the oil filter,
+    fill oil and coolant, check for leaks from the banjo bolts on the turbo.
+    Before starting the car, crank it with a DI cassette plug disconnected and
+    fuel pump fuse out to ensure some oil flow through the turbo.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Boost Gauge">
+
+  <description>
+  Boost gauge installation on a 1996 Saab 900. This should work for
+  most T5 cars. For T7, see
+  <a href="#/content/saab/20040417-saab-9-5-boost-gauge-install">this guide</a>.
+  </description>
+
+  <picture name="20040417a0.The_kit.jpg" title="The kit" date="17.04.2004">
+    A Cyberdyne Ultragage boost/vacuum gauge kit (part #A213E061Y) bought on
+    eBay. It contains a gauge, a sender, some tubing and other supplies. 
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105a.Vacuum_line.jpg" title="Vacuum line" date="05.11.2005">
+    Locate the vacuum line going from the throttle body to the bypass valve.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105b.Tap.jpg" title="Tap" date="05.11.2005">
+    Tap into the line (or replace the hose to keep a spare handy) and insert
+    a tee.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105c.Sender.jpg" title="Sender" date="05.11.2005">
+    Connect the sender unit and attach it into a secure spot. Tie the cable
+    so it doesn't dangle around.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105d.Fuse_box.jpg" title="Fuse box" date="05.11.2005">
+    Undo the 10 mm nut holding the fuse box. Lift the box and move it aside.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105e.Firewall.jpg" title="Firewall" date="05.11.2005">
+    Locate the wire cluster going throught the firewall next to the clutch
+    cable (or the clutch line). Unwrap the tape and cut the zip tie around it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105f.Lower_panel.jpg" title="Lower panel" date="05.11.2005">
+    Undo Torx T25 screws on the lower panel. Unscrew the OBD II connector.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105g.Fuse_box.jpg" title="Fuse box" date="05.11.2005">
+    More screws around the fuses. Finally, a 10 mm bolt at the bottom,
+    and the trim panel comes off.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105h.Fuse_box.jpg" title="Fuse box" date="05.11.2005">
+    Removing the fuze box is not absolutely necessary, but it gives you more
+    room to do the wiring. Three Torx T25 screws.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105i.Wire_cluster.jpg" title="Wire cluster" date="05.11.2005">
+    The rubber gaiter securing the wire cluster is found next to the clutch
+    pedal.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105j.Pipe.jpg" title="Pipe" date="05.11.2005">
+    Push a piece of PVC pipe between the wires and the rubber sleeve so
+    it comes out on the engine side.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105k.Wire.jpg" title="Wire" date="05.11.2005">
+    Slide the sender unit signal wire through and remove the pipe. Zip-tie
+    and wrap the rubber sleeve on the engine side.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105l.More_wires.jpg" title="More wires" date="05.11.2005">
+    Connect a piece of wire to the ground nut under the dash. Connect another
+    wire to the cigarette lighter fuse for a source of switched power. It is
+    a good idea to have the battery disconnected prior to this.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105m.Dash.jpg" title="Dash" date="05.11.2005">
+    Many 2"1/16 gauges will fit right in, but you will need to cut the plastic
+    inside the headlight switch socket. I decided to pop the dashboard to
+    attach the display from the rear. Follow
+    <a href="#/content/saab/20051105-saab-ng900-dashboard-and-instrument-cluster">this 
+    guide</a> for dashboard removal.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105n.Wiring.jpg" title="Wiring" date="05.11.2005">
+    Trim and crimp the wires from the sender, as well as your power and ground
+    lines.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105o.Gauge.jpg" title="Gauge" date="05.11.2005">
+    Attach mating connectors to the gauge display unit.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105p.Test_run.jpg" title="Test run" date="05.11.2005">
+    Connect the wires, double check everything and do a test run. After
+    you start the car, you should see 15-16 Hg of vacuum at idle.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105q.Headlight_switch.jpg" title="Headlight switch" date="05.11.2005">
+    The headlight switch will rest inside the dashboard set to the
+    "headlights on" position. Saab DRLs run the headlights full on anyway, so
+    it won't make much difference.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105r.Wrapped.jpg" title="Wrapped" date="05.11.2005">
+    Wrap the switch into something so it doesn't rattle inside the dash.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105s.Finished.jpg" title="Finished" date="05.11.2005">
+    Job complete. The gauge is nicely illuminated at night.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20060307a.On.jpg" title="On" date="07.03.2006">
+    It's clearly visible in the bright sun.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060307a.Off.jpg" title="Off" date="07.03.2006">
+    Nice and stealthy when the car is shut off.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

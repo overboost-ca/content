@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Dashboard and Instrument Cluster">
+
+  <description>
+  Dashboard and instrument cluster removal on a 1996 Saab 900 (the same
+  applies to 1999-2002 9-3). My "Check Engine" light was not working, and I
+  needed to replace the bulb. The pictures show the lower dash panel removed
+  and the fuse box out -- this was a part of another job, and is not needed
+  for dashboard removal. The only tool needed for the job is a Torx T25
+  screwdriver. Installation is the reverse of removal.
+  </description>
+
+  <picture name="20051105a.SID.jpg" title="SID" date="05.11.2005">
+    Carefully pry out the SID. Disconnect the cable.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105b.Stereo.jpg" title="Stereo" date="05.11.2005">
+    Remove the stereo. Normally, you need a stereo removal tool for that.
+    On my car, it just pops out if you push from behind.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105c.Stereo_frame.jpg" title="Stereo frame" date="05.11.2005">
+    Remove the metal frame that holds the stereo. There are two latches on
+    top of it, and two at the bottom.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105d.Switches.jpg" title="Switches" date="05.11.2005">
+    Pop the switches on the left and unplug the wires. My car has a boost gauge
+    where the headlight switch normally is. That switch pops out too.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105e.Upper_cover.jpg" title="Upper cover" date="05.11.2005">
+    Tilt the steering wheel and unscrew the steering column cover (there's
+    a second screw on another side). Remove the upper cover.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105f.Lower_cover.jpg" title="Lower cover" date="05.11.2005">
+    Unscrew the lower cover. Release the steering lock lever and remove
+    the cover.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105g.Stalks.jpg" title="Stalks" date="05.11.2005">
+    Unhook the turn signal and wiper stalks. You may just let them hang
+    freely, or unplug and put away.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105h.Left_side.jpg" title="Left side" date="05.11.2005">
+    Start removing the screws holding the dash. There's one under the headlight
+    switch, another under the TCS or instrument brightess switch.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105i.Hazard_switch.jpg" title="Hazard switch" date="05.11.2005">
+    Unplug the wires from the hazard light switch and the "fasten belts" light.
+    There's one screw above the SID slot, and two under the stereo.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105j.Right_side.jpg" title="Right side" date="05.11.2005">
+    Four more screws -- one on each side of the steering column, and two in the
+    upper surface above the speedometer.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105k.Dash_insert.jpg" title="Dash insert" date="05.11.2005">
+    Pop and remove the dashboard trim insert. It comes out with ACC vents
+    attached to it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105l.Instruments.jpg" title="Instruments" date="05.11.2005">
+    The instrument cluster is attached with four screws located in the corners
+    of the assembly.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105m.Back_cover.jpg" title="Back cover" date="05.11.2005">
+    The back cover of the instrument cluster is held by six more screws.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105n.Bulbs.jpg" title="Bulbs" date="05.11.2005">
+    There's a couple dozen bulbs inside. All of them are clearly marked
+    so it's easy to locate the one you need.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

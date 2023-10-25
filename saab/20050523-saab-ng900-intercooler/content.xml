@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Intercooler Upgrade">
+
+  <description>
+  <p>Crossflow intercooler upgrade on the 1996 Saab 900 (applies to all 1994-1998 900 and 1999-2002 9-3).
+  Parts from long gone MP Performance, notorious for bargain prices and questionable quality.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>16 mm socket: bumper bolts;</li>
+    <li>10 mm socket: old intercooler bolts;</li>
+    <li>8 mm socket: headlight wiper nuts and lower shield screws;</li>
+    <li>7 mm socket: hose clamp screws;</li>
+    <li>long socket extensions;</li>
+    <li>ratchet handle;</li>
+    <li>flat screwdriver;</li>
+    <li>Torx T25 screwdriver;</li>
+    <li>hacksaw and files;</li>
+    <li>sharp knife;</li>
+    <li>measuring tools;</li>
+    <li>car jacks and stands or ramps.</li>
+  </ul>
+  </description>
+
+  <picture name="2005052328.Grille.jpg" title="Grille" date="23.05.2005">
+    Raise the front of the car and open the hood. Remove the grille by
+    detaching two tabs on top.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052329.Blinker.jpg" title="Blinker" date="23.05.2005">
+    Undo the Torx T25 screw on the turn signal assembly, remove the housing and
+    unplug the wires.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052331.Headlight.jpg" title="Headlight" date="23.05.2005">
+    Remove the headlights (three Torx T25 screws). Unplug the wires, use a flat
+    screwdriver to release the locking tab on the harness.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052332.Wiper.jpg" title="Wiper" date="23.05.2005">
+    Lift the covers over the nuts on the headlight wiper arms and
+    remove the arms (8 mm socket). Detach the washer fluid hose from the bumper (there is
+    a couple of metal tabs holding it).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052340.Lower_shields.jpg" title="Lower shields" date="23.05.2005">
+    Remove the plastic shields from below. Each side is held by half a dozen
+    screws with a 8 mm hex head.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052334.Foglight.jpg" title="Foglight" date="23.05.2005">
+    Unplug the wires from the foglights.        
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052339.Sensor.jpg" title="Sensor" date="23.05.2005">
+    Detach the temperature sensor under the bumper. That horrible rusty thing
+    is the license plate holder.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052342.Screw.jpg" title="Screw" date="23.05.2005">
+    Remove the Torx T25 screw under the fender (one on each side).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052345.Bumper_bolts.jpg" title="Bumper bolts" date="23.05.2005">
+    Undo two long bumper bolts located next to the headlight wipers (16 mm
+    socket).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052347.Bumper.jpg" title="Bumper" date="23.05.2005">
+    Pull the bumper forward and remove it from the car. Mind the sides of the
+    bumper cover while pulling: they are latched to the fenders on each side.
+    You need to pry it outwards slightly.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052349.Intercooler.jpg" title="Intercooler" date="23.05.2005">
+    The intercooler is held by two long (and likely rusty) bolts. Use a
+    10 mm socket to remove those. If you have an old style non-crossflow intercooler,
+    then both hoses would be attached on the driver's side,
+    the clamps can be released through the headlight opening with either
+    a 7 mm socket or a flat screwdriver (and a lot of rust solvent).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052354.Old_intercooler.jpg" title="Old intercooler" date="23.05.2005">
+    Remove the intercooler from the car. Detach the hoses from the delivery
+    pipe and the turbo.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052355.Old_vs_new.jpg" title="Old vs new" date="23.05.2005">
+    The old intercooler was a two-pass design, the new one is a cross-flow.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052356.Old_vs_new.jpg" title="Old vs new" date="23.05.2005">
+    The upgraded intercooler core is made by Spearco and has a 3"x7" cross
+    section with a flow area of 5.30 square inches. This is 60% more than a
+    cross-flow Viggen intercooler has, and 4 times more than my base unit.
+    There are also 5 times more fins for a much greater cooling capacity.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052359.Old_vs_new.jpg" title="Old vs new" date="23.05.2005">
+    The end tanks are made by MP. You can see an extra weld spot: this was
+    a discounted defective unit. I had to take it to an alloy welder for
+    repair first. We found four pinholes in the welds. Quality units
+    should not have these problems, but it never hurts to do a pressure test.
+    Also check for metal shavings in the end tanks: I had a lot of those.
+    You don't want any in your intake manifold.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052358.Old_vs_new.jpg" title="Old vs new" date="23.05.2005">
+    Better intercoolers will have additional grooves machined on
+    the inlet pipes to help secure the hoses better. Mine didn't have that,
+    and the pipes were unequal length, but then again, I knew what I was
+    getting, and it's hard to complain considering the discount they offered.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052366.Lower_radiator_hose.jpg" title="Lower radiator hose" date="23.05.2005">
+    Saab 900 models have an older lower radiator hose that gets in the way of
+    the intercooler inlet hose. It has to be replaced by a new 9-3 design (Saab
+    part #4963872).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052362.Draining_coolant.jpg" title="Draining coolant" date="23.05.2005">
+    With the intercooler removed, you now have the access to the radiator
+    drain plug. Use a PVC tube or fold piece of aluminium foil and
+    drain the coolant into a clean bucket so you can reuse it later (assuming
+    your coolant does not require replacement yet).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052367.900_vs_9-3.jpg" title="900 vs 9-3" date="23.05.2005">
+    Here's the old hose next to the new style. MP used to
+    source hoses from a junk yard, and unfortunately this one had a crack on the back.
+    I've noticed it too late and had to reinstall the old hose since it was
+    a holiday and the dealership was closed.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052363.Coolant_tank.jpg" title="Coolant tank" date="23.05.2005">
+    To not make my coolant drain a total waste of time, I cleaned the coolant
+    expansion tank (it looks rather dirty on this picture). A quarter cup of
+    rice, some soap water and 10 minutes of vigorous shaking made it shine like
+    new! If you do that, wash it well: you don't want any rice in your coolant
+    pipes ;).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052370.Old_inlet_pipe.jpg" title="Old inlet pipe" date="23.05.2005">
+    Normally, the intercooler kit includes Viggen inlet hoses which are almost
+    a direct fit. Some custom made piping would've been even better.
+    Unfortunately I had neither - my cheap intercooler didn't come with any,
+    and the stores were closed. So I decided to make the most of the stuff
+    I had.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052372.Test_fit.jpg" title="Test fit" date="23.05.2005">
+    I had one extra elbow that helped to form the inlet section.
+    The test fit looks promising.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052375.Inlet_hose.jpg" title="Inlet hose" date="23.05.2005">
+    The intercooler is put in place and the turbo hose is attached. This
+    actually looks better than the Viggen hose, as the Viggen elbow forms
+    a nasty bend on the T25 turbo because the T25 is angled differently.
+    And there's enough clearance even with the original radiator hose.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052377.Radiator_fan.jpg" title="Radiator fan" date="23.05.2005">
+    The new hose did not fit with the radiator fan frame, so I had to hack
+    a nasty chunk of the frame off. This should not be necessary if you have
+    OEM crossflow hoses and a TD04.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052379.Fan_installed.jpg" title="Fan installed" date="23.05.2005">
+    The fan is attached with two screws at the top. Everything seems to
+    fit well. Make sure all clamps are very tight, especially if you used soap
+    or silicone to put them on. You don't want any of those coming
+    off on the road.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052380.Hose.jpg" title="Hose" date="23.05.2005">
+    This is the hose from the intercooler to the delivery pipe. It had to
+    be extended an inch and a half. The clamps are easier to reach from under
+    the car.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105a.New_hoses.jpg" title="New hoses" date="05.11.2005">
+    This is an updated hose arrangement used with a Mitsubishi TD04 turbo
+    (aka "Viggen turbo").
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105b.Turbo_pipes.jpg" title="Turbo pipes" date="05.11.2005">
+    The compressor outlet on TD04 is angled differently, which allows
+    for a shorter hose.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052381.Zip_ties.jpg" title="Zip ties" date="23.05.2005">
+    The intercooler is not bolted on like the old unit, but it's held by the
+    hoses quite firmly and is not going anywhere. I added giant zip ties on
+    each side, as well as a couple of rubber strips to prevent it from rubbing
+    against the radiator.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105c.No_bumper.jpg" title="No bumper" date="05.11.2005">
+    A view of the intercooler with the bumper removed.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051105d.Bumper_on.jpg" title="Bumper on" date="05.11.2005">
+    The bumper is a rather close fit. Leave the intercooler sticking out
+    too far, and it will rub against the bumper rail.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052383.Coolant.jpg" title="Coolant" date="23.05.2005">
+    Time to fill the coolant.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052386.Installed.jpg" title="Installed" date="23.05.2005">
+    Install the lower shields, headlights and grille. The only
+    sore spot left is my rusty license plate holder, which also blocks the
+    intercooler.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="2005052386.License_plate.jpg" title="License plate" date="23.05.2005">
+    A final touch, the license plate is moved higher,
+    the intercooler can be seen through the bumper opening.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

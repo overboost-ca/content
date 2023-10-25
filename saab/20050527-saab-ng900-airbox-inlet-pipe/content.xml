@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Airbox Inlet Funnel">
+
+  <description>
+  An airbox modification performed on a 1996 Saab 900 (applies to all
+  1994-1998 900 and 1999-2002 9-3). The alleged goal of this
+  silly upgrade was to enlarge the airbox inlet pipe and reduce the airflow
+  restriction caused by the narrow original pipe. In reality, it does not
+  offer much performance benefit, but amplifies the intake sound just enough
+  so you can enjoy it (yet not as loud as an open intake would).
+  </description>
+
+  <picture name="20050527a.Airbox.jpg" title="Airbox" date="27.05.2005">
+    Locate the airbox, take off the cover and remove the air filter insert.
+    Unbolt the bottom half of the airbox (three 10 mm nuts) and pull it out of
+    the car.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050527b.Pipe_removed.jpg" title="Pipe removed" date="27.05.2005">
+    The original inlet pipe just snaps into its base. Once you unlock the
+    two latches, the pipe just slides out.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050527c.Soldering_iron.jpg" title="Soldering iron" date="27.05.2005">
+    Cut the base of the pipe. If you don't have a Dremel, a thin soldering
+    iron does a great job of melting the plastic...
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050527d.Hole.jpg" title="Hole" date="27.05.2005">
+    ...and the base falls out leaving a gaping hole. Use a round file to
+    make the edge smoother.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050527e.Funnel.jpg" title="Funnel" date="27.05.2005">
+    This $3 funnel from a hardware store will serve as replacement for
+    the stock pipe.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050527f.Funnel_cut.jpg" title="Funnel cut" date="27.05.2005">
+    The funnel cut to the size. Inner diameter 3", outer 4.5". This is
+    the biggest size you can fit between the fender and the headlight.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050527g.Finished.jpg" title="Finished" date="27.05.2005">
+    The same soldering iron can be used to "weld" the funnel to the airbox.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050527h.Inside.jpg" title="Inside" date="27.05.2005">
+    A thick bead of glue/sealant completes the job from the inside.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051018.Airbox_inlet.jpg" title="Airbox inlet" date="18.10.2005">
+    A close-up of the modified inlet pipe with a headlight removed.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

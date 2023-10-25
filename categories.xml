@@ -9,7 +9,7 @@
     <directory name="20060118-saab-ng900-cabin-filter" title="18.01.2006: NG900/9-3: Cabin Filter" />
   </category>
   <category name="Saab: Brakes">
-    <directory name="20070809-saab-n900-308mm-front-brake-upgrade" title="17.10.2006: NG900/9-3/9-5: 308 mm Front Brake Upgrade" />
+    <directory name="20070809-saab-n900-308mm-front-brake-upgrade" title="09.08.2007: NG900/9-3/9-5: 308 mm Front Brake Upgrade" />
     <directory name="20070602-saab-9-5-front-brakes" title="02.06.2007: NG900/9-3/9-5: Front Pads and Rotors" />
     <directory name="20061109-saab-9-5-bleeding-brakes" title="09.11.2006: 9-5: Bleeding Brakes" />
     <directory name="20060213-saab-ng900-stainless-brake-lines" title="13.02.2006: NG900/9-3: Stainless Brake Lines" />
@@ -21,11 +21,11 @@
     <directory name="20090208-saab-9-5-oil-pressure-gauge" title="08.02.2009: 9-5: Oil Pressure Gauge" />
     <directory name="20071020-saab-9-5-theft-alarm-module" title="20.10.2007: 9-5: Theft Alarm Module" />
     <directory name="20071007-saab-9-5-auto-dimming-rear-view-mirror" title="07.10.2007: 9-5: Auto-Dimming Rear View Mirror" />
-    <directory name="20070416-saab-trionic5-bpc-dissection" title="16.04.2007: Trionic 5: BPC Dissection" />
     <directory name="20061126-saab-9-5-line-input" title="26.11.2006: 9-5: Line Input" />
     <directory name="20060924-saab-ng900-line-input" title="26.09.2006: NG900: Line Input" />
     <directory name="20060806-saab-ng900-audio-upgrade" title="06.08.2006: NG900: Audio Upgrade" />
     <directory name="20060329-saab-9-5-0-cd-changer" title="29.03.2006: 9-5: CD Changer" />
+    <directory name="20050914-saab-ng900-ecu-replacement" title="14.09.2005: NG900/9-3: ECU Replacement" />
   </category>
   <category name="Saab: Engine">
     <directory name="20060711-saab-ng900-fuel-filter" title="11.07.2006: NG900/9-3: Fuel Filter" />
@@ -50,6 +50,7 @@
     <directory name="20070513-saab-9-5-dashboard-and-instrument-cluster" title="13.05.2007: 9-5: Dashboard and Instrument Cluster" />
     <directory name="20070420-saab-ng900-convertible-roll-bar" title="20.04.2007: NG900: Convertible Roll Bar" />
     <directory name="20060315-saab-9-5-seat-heater-switch-bulbs" title="15.03.2006: 9-5: Seat Heater Switch Bulbs" />
+    <directory name="20051105-saab-ng900-dashboard-and-instrument-cluster" title="05.11.2005: NG900/9-3: Dashboard and Instrument Cluster" />
   </category>
   <category name="Saab: Suspension and Steering">
     <directory name="20080921-saab-9-5-genuinesaab-rear-camber-shims" title="21.09.2008: NG900/9-3/9-5: Rear Camber Shims" />
@@ -74,8 +75,16 @@
   <category name="Saab: Turbocharger and Intake">
     <directory name="20080719-saab-9-5-turbo-inlet-pipe" title="19.07.2008: 9-3/9-5: Turbo Inlet Pipe" />
     <directory name="20070520-saab-9-5-high-flow-intake" title="20.05.2007: 9-5: High Flow Intake" />
+    <directory name="20070416-saab-trionic5-bpc-dissection" title="16.04.2007: Trionic 5: BPC Dissection" />
     <directory name="20061109-saab-9-5-airbox-inlet-pipe" title="09.11.2006: 9-5: Airbox Inlet Pipe" />
     <directory name="20060521-saab-ng900-throttle-body-inlet-pipe" title="21.05.2006: NG900/9-3: Throttle Body Inlet Pipe" />
+    <directory name="20051105-saab-ng900-turbo-upgrade" title="05.11.2005: NG900/9-3/9-5: Turbo Upgrade to TD04" />
+    <directory name="20051105-saab-ng900-boost-gauge" title="05.11.2005: NG900/9-3: Boost Gauge" />
+    <directory name="20051010-saab-ng900-turbo-replacement" title="10.10.2005: NG900/9-3: T25 Turbo Replacement" />
+    <directory name="20051009-garrett-t25-turbo-rebuild" title="09.10.2005: NG900/9-3: Garrett T25 Turbo Rebuild" />
+    <directory name="20051003-saab-ng900-wastegate-actuator-spring" title="03.10.2005: NG900/9-3: Wastegate Actuator Spring" />
+    <directory name="20050527-saab-ng900-airbox-inlet-pipe" title="27.05.2005: NG900/9-3: Airbox Inlet Funnel" />
+    <directory name="20050523-saab-ng900-intercooler" title="23.05.2005: NG900/9-3: Intercooler Upgrade" />
     <directory name="20040417-saab-9-5-boost-gauge-install" title="17.04.2004: 9-5: Boost Gauge" />
   </category>
   <category name="Project Cars">

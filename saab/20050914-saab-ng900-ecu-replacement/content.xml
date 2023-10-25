@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: ECU Replacement">
+
+  <description>
+  <p>ECU (engine control unit) replacement on a 1996 900 turbo.
+  Applies to all 1994-1998 900 and 1999-2002 9-3. The original
+  ECU is being replaced with an upgraded unit from Nordic.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>10 mm socket: bolt under the glovebox;</li>
+    <li>Torx T25 screwdriver: glovebox and ECU screws.</li>
+  </ul>
+  </description>
+
+  <picture name="20050914a.Glovebox.jpg" title="Glovebox" date="14.09.2005">
+    Remove the glovebox -- six screws around the perimeter and one 10 mm bolt
+    below by the door.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20050914b.Connector.jpg" title="Connector" date="14.09.2005">
+    Pull the glovebox out, unplug the bulb connector.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20050914c.Harness.jpg" title="Harness" date="14.09.2005">
+    Before removing the ECU, disconnect the battery or pull the "Trionic" fuse
+    (#28).
+    Move the carpeting away.
+    Unlock ECU harness by pulling the lever and unplug it. Undo a screw
+    in the lower right corner. The ECU slides down.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20050914d.ECUs.jpg" title="ECUs" date="14.09.2005">
+    The new ECU plugs right in. After the installation, perform an
+    adaptation run by doing a series
+    of full throttle accelerations in high gear from 2000 to 4500 RPM.
+    It helps if you can find a long road going uphill.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: T25 Turbo Replacement">
+
+  <description>
+  <p>Garrett T25 turbocharger replacement performed on a 1996 Saab 900. The
+  procedure is more or less similar for all Saabs using the B204-B235 engine families.
+  Use new copper crush washers for all banjo bolts. It is also a good idea to
+  get a new oil feed line, or at least clean the old one from sludge and
+  deposits.</p>
+
+  <p>This article describes replacing a stock turbocharger with another OEM
+  unit. For upgrade information, refer to
+  <a href="#/content/saab/20051105-saab-ng900-turbo-upgrade">this document</a>.</p>
+
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>13 mm wrench and socket (downpipe and turbo nuts);</li>
+    <li>12 mm wrench and socket (banjo bolts);</li>
+    <li>10 mm wrench (turbo inlet pipe);</li>
+    <li>8 mm socket (shield screws);</li>
+    <li>7 mm socket (hose clamps), or flat screwdriver;</li>
+    <li>large pliers (oil return hose clamps);</li>
+    <li>torque wrench;</li>
+    <li>ratchet handle;</li>
+    <li>ramps or jacks and stands;</li>
+    <li>fresh oil and coolant.</li>
+  </ul>
+  </description>
+
+  <picture name="20051010a.Shields_down.jpg" title="Shields down" date="10.10.2005">
+    Raise the car and remove the lower shields (8 mm hex screws). If you
+    have a 9-3, you might be able to access the radiator drain plug without
+    removing the shield.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010b.Drained_fluids.jpg" title="Drained fluids" date="10.10.2005">
+    Drain coolant, engine oil, and remove the oil filter.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010c.Downpipe.jpg" title="Downpipe" date="10.10.2005">
+    Disconnect the downpipe from the turbo (three 13 mm nuts). If you have a
+    subframe brace, you might need to remove that too to allow more room to
+    move the downpipe aside.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010d.Intake_hose.jpg" title="Intake hose" date="10.10.2005">
+    Disconnect the return hose from the bypass valve if you have it (my car
+    has a BOV). Remove the rubber elbow between the airbox and the turbo inlet
+    pipe.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010e.Oil_lines.jpg" title="Oil lines" date="10.10.2005">
+    Unbolt the turbo oil feed line from the filter housing (12 mm socket),
+    remove the oil return hose and undo the bolt that holds the turbo stay
+    to the engine.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010f.Coolant_line.jpg" title="Coolant line" date="10.10.2005">
+    Undo the banjo bolt on the lower coolant line (12 mm socket). On newer
+    cars the line goes to the water pump instead of the block. Put a catch pan
+    under the car as there will be coolant dripping.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010g.Coolant_line.jpg" title="Coolant line" date="10.10.2005">
+    Undo the banjo bolt on the upper coolant line (12 mm socket) on the left
+    side of the engine. Don't forget the pan again.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010h.Banjo_bolts.jpg" title="Banjo bolts" date="10.10.2005">
+    Disconnect all three lines from the turbo (more coolant drips) and remove
+    the lines if you can. On my car, I was unable to unbolt the upper coolant
+    line.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010i.Turbo_hoses.jpg" title="Turbo hoses" date="10.10.2005">
+    Remove the intercooler hose from the compressor housing. Unhook the BPC
+    hoses. Unbolt the turbo inlet pipe. On T25+B204L, you might need to remove
+    the brass BPC hose nipple to gain the access to an inlet pipe bolt.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010j.Inlet_pipe.jpg" title="Inlet pipe" date="10.10.2005">
+    Remove the turbo inlet pipe together with the metal PCV line (there are
+    newer versions that allow you to unbolt the PCV line from the inlet pipe
+    instead). Undo the nuts connecting the turbo to the exhaust manifold
+    and pull the turbo down.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010k.Old_turbo.jpg" title="Old turbo" date="10.10.2005">
+    The turbo is removed from the car. You can see some of the lines still
+    attached to it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010l.New_vs_old.jpg" title="New vs old" date="10.10.2005">
+    The turbo is being replaced with a
+    <a href="#/content/saab/20051009-garrett-t25-turbo-rebuild">recently rebuilt unit</a>.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010m.Old_vs_new.jpg" title="Old vs new" date="10.10.2005">
+    Compare my old style inlet pipe to the new style (this one came from
+    a 1999 9-3), which allows an easy access to the PCV pipe bolt.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010n.Inlet_pipe.jpg" title="Inlet pipe" date="10.10.2005">
+    With my new upgraded inlet pipe, I can bolt it to the turbo prior to
+    installation and save myself some hassle. From this moment on, be extra
+    clean, as even a tiny grain of sand can ruin your new turbo.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010o.Back_in.jpg" title="Back in" date="10.10.2005">
+    Put the new turbo back in, and don't forget a new gasket for the exhaust
+    manifold flange.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010q.Oil_lines.jpg" title="Oil lines" date="10.10.2005">
+    Install the oil return hose. Pour some oil into the turbo and install the
+    oil feed line.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010p.Banjos.jpg" title="Banjos" date="10.10.2005">
+    Start connecting the lines to the turbo. Consider new copper washers for
+    all banjo bolts.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010r.Coolant_line.jpg" title="Coolant line" date="10.10.2005">
+    Connect coolant lines to the engine and tighten all six banjo bolts to
+    16 ft-lbs.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010s.Manifold.jpg" title="Manifold" date="10.10.2005">
+    Tighten the nuts on the exhaust manifold (18.5 ft-lbs).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010t.Downpipe.jpg" title="Downpipe" date="10.10.2005">
+    Connect the downpipe to the turbo, and re-install the subframe brace if
+    you had to remove it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010u.Intercooler_hose.jpg" title="Intercooler hose" date="10.10.2005">
+    Fit the intercooler hose on the turbo, intake elbow and the BPC hoses.
+    Connect the bypass valve return hose, as well as the PCV line.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051010v.Oil_filter.jpg" title="Oil filter" date="10.10.2005">
+    Refit the oil filter, fill engine oil and coolant. Before starting the car,
+    crank it with the ignition cassette harness unplugged to ensure there's
+    enough oil in the turbo.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>
