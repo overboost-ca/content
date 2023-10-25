@@ -29,6 +29,10 @@
   <category name="Saab: Engine">
     <directory name="20060711-saab-ng900-fuel-filter" title="11.07.2006: NG900/9-3: Fuel Filter" />
     <directory name="20060710-saab-ng900-engine-installation" title="10.07.2006: NG900/9-3: Engine Installation" />
+    <directory name="20060709-saab-ng900-engine-accessories" title="09.07.2006: NG900/9-3: Engine Accessories" />
+    <directory name="20060704-saab-b204-b234-engine-assembly" title="04.07.2006: B204/B234: Engine Assembly" />
+    <directory name="20060621-saab-b204-b234-crankshaft-and-pistons" title="21.06.2006: B204/B234: Crankshaft and Pistons" />
+    <directory name="20060618-saab-b204-b234-cylinder-head" title="18.06.2006: B204/B234: Cylinder Head" />
   </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />

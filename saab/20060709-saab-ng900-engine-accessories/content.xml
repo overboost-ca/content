@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="koi8-r"?>
+<picture-set title="Saab NG900/9-3: Engine Accessories">
+
+  <description>
+  <p>Manifolds, pumps and other accessories on a Saab B204/B234
+  family engine. The work was done on a 1995 Saab 900SE turbo, but will also
+  apply to any four cylinder 1994-1998 900 turbo and 1999 9-3. Newer cars
+  using the B205/B235 engine family are also quite similar.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>22 mm wrench: oil thermostat cap, oil pressure sensor;</li>
+    <li>19 mm wrench: intake manifold coolant nipple;</li>
+    <li>17 mm socket: temperature sender;</li>
+    <li>16 mm socket: engine mount, starter;</li>
+    <li>13 mm socket: oil filter housing, coolant pump, alternator, exhaust manifold, turbo;</li>
+    <li>12 mm socket: thermostat, intake manifold, banjo bolts;</li>
+    <li>10 mm socket: coolant pipes;</li>
+    <li>8 mm Allen socket: alternator bolts, belt tensioner;</li>
+    <li>torque wrench;</li>
+  </ul>
+  </description>
+
+  <picture name="20060709a.Engine.jpg" title="Engine" date="09.07.2006">
+    A freshly rebuilt engine just waiting to go back into the car.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709b.Engine.jpg" title="Engine" date="09.07.2006">
+    Refer to
+    <a href="#/content/saab/20060704-saab-b204-b234-engine-assembly">this document</a> for
+    more detail on the base engine assembly.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709c.Oil_filter_housing.jpg" title="Oil filter housing" date="09.07.2006">
+    Clean the oil filter housing, the oil thermostat, and get a new filter ready.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709d.Oil_filter.jpg" title="Oil filter" date="09.07.2006">
+    Install the filter housing (13 mm socket), tighten the thermostat cap
+    (22 mm). Lubricate the O-ring on the filter and screw it on.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709e.Thermostat.jpg" title="Thermostat" date="09.07.2006">
+    Fit a new seal on the thermostat and clean the thermostat housing.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709f.Thermostat_housing.jpg" title="Thermostat housing" date="09.07.2006">
+    Attach the thermostat housing (12 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709g.Coolant_pump.jpg" title="Coolant pump" date="09.07.2006">
+    The coolant pump is next. Coat new O-rings with vaseline and put them
+    on the coolant inlet pipe.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709h.Coolant_inlet.jpg" title="Coolant inlet" date="09.07.2006">
+    Fit the inlet into the slot in front of cylinder #1. Make sure the flap
+    on the inlet matches the cut-out on the right.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709i.Pump_installed.jpg" title="Pump installed" date="09.07.2006">
+    Install the coolant pump, check that the outer O-ring on the inlet is not
+    jammed. Tighten the bolts.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709j.Coolant_pipes.jpg" title="Coolant pipes" date="09.07.2006">
+    Attach the pipes leading to the heat exchanger and expansion tank. Renew
+    the O-ring and the short rubber U-bend if needed. Tighten the 10 mm screw
+    on the pump.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709k.Coolant_pipes.jpg" title="Coolant pipes" date="09.07.2006">
+    Secure the pipes on the far side of the engine -- one screw at the
+    corner, and two more on the thermostat housing.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709l.Manifold_studs.jpg" title="Manifold studs" date="09.07.2006">
+    Screw in exhaust manifold studs. The factory configuration has longer studs
+    in the outer holes, but the benefit of those is debatable since they are
+    always the first to break, so I'm using short studs instead.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709m.Exhaust_gasket.jpg" title="Exhaust gasket" date="09.07.2006">
+    Position a new gasket on the studs -- soft side to the head,
+    flat side to the manifold.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709n.Exhaust_manifold.jpg" title="Exhaust manifold" date="09.07.2006">
+    Install the manifold, fit the washers and tighten the nuts to 18.5 ft-lbs
+    (13 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709o.Turbocharger.jpg" title="Turbocharger" date="09.07.2006">
+    Bolt the turbocharger to the exhaust manifold, use a fresh gasket.
+    Install the lower support bar. Connect all coolant and
+    oil lines before tightening the banjo bolts. Renew all banjo bolt washers.
+    More detail on turbo fitting in <a href="#/content/saab/20051105-saab-ng900-turbo-upgrade">this article</a>.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709p.Mount_bracket.jpg" title="Mount bracket" date="09.07.2006">
+    Install the passenger side engine mount bracket (two 16 mm bolts).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709q.Inlet_pipe.jpg" title="Inlet pipe" date="09.07.2006">
+    Bolt the inlet pipe to the turbocharger and fit three hoses from
+    the boost pressure control valve (BPC). Attach the crankcase vent pipe.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709r.Lifting_eyes.jpg" title="Lifting eyes" date="09.07.2006">
+    Connect the crankcase vent nipple to the valve cover. Install the lifting
+    eyes and the wiring harness bracket above the thermostat housing.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709s.Intake_gasket.jpg" title="Intake gasket" date="09.07.2006">
+    Fit the lower part of the oil dipstick tube.
+    Insert two studs into the intake manifold mounting holes (you'll be replacing
+    them with regular bolts later) and position the gasket on them.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709t.Intake_manifold.jpg" title="Intake manifold" date="09.07.2006">
+    Install the intake manifold and tighten the bolts to 16 ft-lbs (12 mm socket).
+    Fit the coolant temperature sensor and the hose nipple if
+    you took them out previously.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709u.Injectors.jpg" title="Injectors" date="09.07.2006">
+    Slide the injectors into their sockets and secure the fuel rail with two
+    screws.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709v.Oil_tube.jpg" title="Oil tube" date="09.07.2006">
+    Screw in the oil pressure sensor (22 mm wrench), the upper part of the
+    dipstick tube and bolt on the intake manifold stay.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709w.Throttle_body.jpg" title="Throttle body" date="09.07.2006">
+    Lubricate the rubber gasket and install the throttle body.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709x.Hoses.jpg" title="Hoses" date="09.07.2006">
+    Fit the vacuum hose to the fuel pressure regulator, and a hose with a check
+    valve from the vent nipple (the arrow on the valve should point to the
+    throttle body). Attach the throttle body warm-up coolant hoses.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709y.IAC_valve.jpg" title="IAC valve" date="09.07.2006">
+    Install the idle air control valve (IAC) and connect its hoses to
+    the throttle body.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709z0.Wiring_harness.jpg" title="Wiring harness" date="09.07.2006">
+    The wiring harness is held by two screws to the fuel rail. Take your time
+    fitting all the connectors. Luckily, they are colored, indexed and rather
+    hard to plug in incorrectly.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709z1.Temperature_sender.jpg" title="Temperature sender" date="09.07.2006">
+    Attach the temperature sender and the crankshaft position sensor. Plug
+    them into the remaining connectors on the harness.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709z2.Alternator.jpg" title="Alternator" date="09.07.2006">
+    Install the intermediate shaft bracket, the alternator
+    bracket (13 mm socket) and then two long bolts holding the alternator
+    (8 mm Allen).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709z3.Starter.jpg" title="Starter" date="09.07.2006">
+    Attach the starter motor to the stud on the endplate. Connect the control
+    wires and the positive line from the battery.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060709z4.Pulleys.jpg" title="Pulleys" date="09.07.2006">
+    Install the belt tensioner (8 mm Allen) and the idler pulleys. The upper
+    idler pulley on this picture is the aluminium pulley by Wazee.
+    Proceed with engine installation.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

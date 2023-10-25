@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="koi8-r"?>
+<picture-set title="Saab B204/B234: Engine Assembly">
+
+  <description>
+  <p>Saab B204/B234 engine assembly. This engine is found in all four-cylinder
+  Saab 900 and 9000 from 1994 to 1998, as well as 1999 9-3. Newer cars with
+  B205/B235 engines have certain differences, but the procedure is largely
+  the same.</p>
+
+  <h2>Tools and supplies:</h2>
+  <ul>
+    <li>27 mm socket: crankshaft pulley, timing chain tensioner;</li>
+    <li>19 mm socket: flywheel;</li>
+    <li>19 mm wrench: to hold camshafts when tightening;</li>
+    <li>16 mm socket: spark plugs;</li>
+    <li>14 mm socket: camshaft sprocket bolts;</li>
+    <li>13 mm socket: drain plug;</li>
+    <li>12 mm socket; chain tensioner plug, upper timing cover bolts;</li>
+    <li>Torx E16 socket: head bolts;</li>
+    <li>Torx T40 socket: timing cover, oil pan, valve cover;</li>
+    <li>Torx T30 socket: endplate, DI cassette, timing and balance chain gear;</li>
+    <li>torque wrench (or two - for high and low torque fasteners);</li>
+    <li>large snap ring pliers: oil pump cover;</li>
+    <li>rubber mallet;</li>
+    <li>gasket maker.</li>
+  </ul>
+  </description>
+
+  <picture name="20060702a.Crankshaft_seals.jpg" title="Crankshaft seals" date="02.07.2006">
+    Before starting the assembly, make sure you have all spare parts needed.
+    This picture shows the endplate and oil pump cover with a pack of fresh
+    seals for them.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060702b.Suspended.jpg" title="Suspended" date="02.07.2006">
+    If you are using an engine stand that bolts on to the gearbox mounting
+    points, you won't be able to attach the endplate. In this case, suspending
+    the engine on a hoist does the job.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060702c.Endplate.jpg" title="Endplate" date="02.07.2006">
+    Clean the endplate, tap the new seal in and apply a thin bead of sealant
+    to the mating surface.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060702d.Endplate_attached.jpg" title="Endplate attached" date="02.07.2006">
+    Fit the plate and tighten the screws (Torx T30 socket). Wipe the excess
+    sealant.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060702e.Flywheel.jpg" title="Flywheel" date="02.07.2006">
+    Attach the flywheel, apply some threadlock to the bolts and tighten them
+    to 59 ft-lbs (19 mm socket). Use a flywheel stop or have a helper
+    hold the crank pulley nut on the other end to prevent the crankshaft
+    from spinning.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060702f.Back_on_the_stand.jpg" title="Back on the stand" date="02.07.2006">
+    Put the engine back on the stand. It might need some extra washers to clear
+    the flywheel. Turn the flywheel to match the "0" mark on the endplate.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060702g.Balance_shaft.jpg" title="Balance shaft" date="02.07.2006">
+    Lubricate the balance shafts and carefully insert them trying not to
+    scratch the bearing surfaces inside the block.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060702h.Shafts_in.jpg" title="Shafts in" date="02.07.2006">
+    The shafts are the same, but the sprockets are not. The intake shaft has a
+    smaller sprocket marked "INL", while the exhaust side is marked "EXH".
+    Tighten the screws (Torx T30).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703a.Chain_and_guides.jpg" title="Chain and guides" date="03.07.2006">
+    Prepare a new timing chain and plastic guides.
+    
+    <image width="799" height="600" />
+  </picture>
+  <picture name="20060703b.Timing_chain.jpg" title="Timing chain" date="03.07.2006">
+    Fit the timing chain sprocket and hang the chain off it so the
+    colored link matches the notch on the sprocket (there are two other
+    colored links on the other end of the chain that will match the camshafts).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703c.Chain_guard.jpg" title="Chain guard" date="03.07.2006">
+    Attach the chain guard (two Torx T30 screws).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703d.Guides.jpg" title="Guides" date="03.07.2006">
+    Fit the guides. The fixed guide is held by two long T30 screws, while
+    the swivel guide just sits on a big pin.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703e.Balance_shaft.jpg" title="Balance shaft" date="03.07.2006">
+    Turn the balance shafts so the notch matches the mark on the housing.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703f.Balance_chain.jpg" title="Balance chain" date="03.07.2006">
+    Fit the balance chain sprocket, the small swivel guide and the balance
+    shaft chain.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703g.Tensioner.jpg" title="Tensioner" date="03.07.2006">
+    Push the piston on the balance chain tensioner in and lock it with a pin
+    or a paper clip.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703h.Tensioner_fitted.jpg" title="Tensioner fitted" date="03.07.2006">
+    Attach the tensioner and tighten the screws to 7.4 ft-lbs (the factory
+    manual makes a big deal about it).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703i.Idle_sprocket.jpg" title="Idle sprocket" date="03.07.2006">
+    Fit the balance chain idler sprocket (Torx T40).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703j.Upper_guide.jpg" title="Upper guide" date="03.07.2006">
+    Attach the upper balance chain guide with two more T30 screws (the engine
+    is upside down, so it's at the bottom) and release the tensioner. Turn the
+    crankshaft and check if the shaft notches are still in sync with a "0" mark on
+    the flywheel after a few revolutions.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703k.No_chain.jpg" title="No chain" date="03.07.2006">
+    If you choose to build the engine without a balancing chain, you can leave
+    the shafts and sprockets in to preserve the proper oil flow. Just replace
+    the swivel guide with a spacer so it doesn't rattle inside the engine.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703l.Timing_cover.jpg" title="Timing cover" date="03.07.2006">
+    Clean the mating surfaces of the timing cover and apply a bead of sealant.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703m.Timing_cover.jpg" title="Timing cover" date="03.07.2006">
+    Fit the cover and tighten the bolts to 16 ft-lbs (Torx T40 socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703n.Oil_pump.jpg" title="Oil pump" date="03.07.2006">
+    Lubricate and insert the oil pump gears making sure that the marking on the
+    oil pump ring gear is facing out and the pump gear with flange facing in.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703o.Oil_pump_cover.jpg" title="Oil pump cover" date="03.07.2006">
+    Tap a new seal into the oil pump cover, put the cover on and secure
+    it with a snap ring.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703p.Oil_tube.jpg" title="Oil tube" date="03.07.2006">
+    Fit the oil feed tube and refresh the O-rings on it.
+    Screw in the reducer valve.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703q.Oil_pan.jpg" title="Oil pan" date="03.07.2006">
+    Attach the pickup screen and the splash guard inside the oil pan,
+    apply a bead of sealant to the flange.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703r.Pan_fitted.jpg" title="Pan fitted" date="03.07.2006">
+    Tighten the oil pan screws to 16 ft-lbs (Torx T40). Fit a fresh drain plug
+    washer.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060703s.Crankshaft_pulley.jpg" title="Crankshaft pulley" date="03.07.2006">
+    Slide the crankshaft pulley on (mind the oil seal in the oil pump cover)
+    and tighten the 27 mm bolt to 130 ft-lbs.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704a.Top_of_the_block.jpg" title="Top of the block" date="04.07.2006">
+    Turn the block upright and clean the upper surface.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704b.TDC_mark.jpg" title="TDC mark" date="04.07.2006">
+    Turn the crankshaft pulley to match the TDC mark.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704c.Head_and_gasket.jpg" title="Head and gasket" date="04.07.2006">
+    Prepare the head with a fresh gasket. Clean the head flange thoroughly.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704d.Gasket.jpg" title="Gasket" date="04.07.2006">
+    Put the gasket on top of the block, make sure it clears the locating dowels.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704e.Head.jpg" title="Head" date="04.07.2006">
+    Set the camshafts to zero (see the markings on the #1 cap) and put the head
+    carefully on the block.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704f.Head_bolts.jpg" title="Head bolts" date="04.07.2006">
+    A new set of head bolts is needed to attach a head. The old bolts are
+    already stretched and won't provide a proper clamping force.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704g.Head_bolts.jpg" title="Head bolts" date="04.07.2006">
+    Tighten the bolts to 44 ft-lbs in the order shown. Then do a second pass
+    and tighten them to 59 ft-lbs. Grab a bigger wrench and do a third pass,
+    turning every bolt an extra 90 degrees.
+    
+    <image width="780" height="600" />
+  </picture>
+  <picture name="20060704j.Camshafts.jpg" title="Camshafts" date="04.07.2006">
+    Fit camshaft sprockets, starting with the intake side. Check that both
+    camshafts and the crankshaft remain at their "0" mark. Screw the sprocket
+    bolts in but not tighten them yet.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704h.Tensioner.jpg" title="Tensioner" date="04.07.2006">
+    Take apart the timing chain tensioner and clean it. Press on the catch
+    and compress the piston completely.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704i.Tensioner.jpg" title="Tensioner" date="04.07.2006">
+    Install the tensioner with a new washer while keeping it in a compressed
+    state. Tighten to 47 ft-lbs (27 mm socket). Insert the spring and tighten
+    the plug to 16 ft-lbs.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704k.Sprocket_bolts.jpg" title="Sprocket bolts" date="04.07.2006">
+    Rotate the crankshaft clockwise and ensure that zero marks on the camshafts
+    and crank pulley are still in sync after a few revolutions. Tighten sprocket
+    bolts to 47 ft-lbs (14 mm socket), tighten the two upper timing cover bolts
+    to 16 ft-lbs (12 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704l.Valve_cover.jpg" title="Valve cover" date="04.07.2006">
+    Clean the valve cover and renew the upper timing chain guide. Apply
+    some soap to the valve cover gasket so it sticks to the groove.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704m.Valve_cover.jpg" title="Valve cover" date="04.07.2006">
+    Fit the valve cover, make sure the gasket fills the half-moon openings
+    correctly and is not jammed anywhere. Tighten the bolts to 11 ft-lbs
+    in the order shown (Torx T40).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704n.Spark_plugs.jpg" title="Spark plugs" date="04.07.2006">
+    Gap the spark plugs and tighten them to 20 ft-lbs. NGK BCPR7ES are the
+    plugs most recommended for this application.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060704o.DI_cassette.jpg" title="DI cassette" date="04.07.2006">
+    Install the ignition module and tighten the screws to 8 ft-lbs.
+    Congratulations, you've built yourself an engine!
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

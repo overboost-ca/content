@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="koi8-r"?>
+<picture-set title="Saab B204/B234: Crankshaft and Pistons">
+
+  <description>
+  <p>Piston and crankshaft installation on a Saab B204/B234 engine. This engine
+  is found in all four-cylinder Saab 900 and 9000 from 1994 to 1998, as well
+  as 1999 9-3. Newer cars have lighter pistons and a slightly different
+  block but the procedure is still the same.</p>
+
+  <h2>Tools and supplies:</h2>
+  <ul>
+    <li>Torx E16 socket: main crankshaft cap bolts;</li>
+    <li>12-point 14 mm socket: connecting rod cap nuts;</li>
+    <li>6-point 14 mm socket: oil jets;</li>
+    <li>torque wrench;</li>
+    <li>piston ring compressor;</li>
+    <li>piston ring expander;</li>
+    <li>fresh engine oil.</li>
+  </ul>
+  </description>
+
+  <picture name="20060621a.Cleaning.jpg" title="Cleaning" date="21.06.2006">
+    Before installing new piston rings, clean the pistons and scrape all
+    the ring grooves with an old ring to remove all dirt and reposits.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621b.Rings.jpg" title="Rings" date="21.06.2006">
+    Aftermarket rings often come as a complete set, bagged and labelled for an
+    easy installation. Saab OEM rings would come as a "per piston" set.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621c.Testing.jpg" title="Testing" date="21.06.2006">
+    Oil the cylinder bores slightly and push the rings in with a piston top
+    one by one. Check the fit and measure the gap between the ring ends.
+    The factory specifies a 0.30-0.50 mm gap for the first compression ring
+    and a 0.16-0.65 mm for the second. If the rings were ordered correctly for
+    your application (e.g. standard size), you should not have to adjust them.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621e.Rings_ready.jpg" title="Rings ready" date="21.06.2006">
+    The first compression ring is a solid metal ring. The second is a scraper
+    type and might come with an expander ring (Saab OEM kits don't have
+    expander rings). The third ring is a multi-piece oil scraper, which has
+    two thin rails with a spacer between them, as well as an optional expander.
+    Have some oil ready to lubricate the rings before installation.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621d.Ring_compressor.jpg" title="Ring tool" date="21.06.2006">
+    Although it's possible to install compression rings with your bare hands, it's much
+    easier with a ring expander. Use some old rings to practice. The #2s
+    seem to be more fragile, I broke a couple checking how far they would stretch ;)
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621f.Expander_A.jpg" title="Expander A" date="21.06.2006">
+    The key point in installing piston rings is to fit them so the gaps of the
+    neighbor rings are as far from each other as possible. Start with the oil
+    scraper ring. Turn the piston so you're looking at the connecting rod pin,
+    and fit the expander ring (if you have it).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621g.Rail_B.jpg" title="Rail B" date="21.06.2006">
+    Turn the piston 90 degrees and fit the lower scraper rail.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621h.Spacer_C.jpg" title="Spacer C" date="21.06.2006">
+    Turn the piston another 90 degrees and fit the spacer so its gap is
+    on the opposite side from the expander ring.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621i.Rail_D.jpg" title="Rail D" date="21.06.2006">
+    Finally, turn the piston yet another 90 degrees and fit the upper scraper
+    rail.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621j.Ring_2_Expander.jpg" title="Ring 2 Expander" date="21.06.2006">
+    Go back to the wrist pin and fit the expander ring for the compression
+    ring #2 (if you have it).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621k.Compression_Ring_2.jpg" title="Compression Ring 2" date="21.06.2006">
+    Turn the piston 180 degrees and fit the lower compression ring. The ridge
+    on the ring should look down (the ring will likely have "top/bottom"
+    markings on it).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621l.Compression_Ring_1.jpg" title="Compression Ring 1" date="21.06.2006">
+    Fit the remaining top compression ring so the gap on it is on the opposite
+    side from the compression ring #2.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621m.Crankshaft_bearings.jpg" title="Crankshaft bearings" date="21.06.2006">
+    Crankshaft bearings come as thin semi-round metal shells with special
+    coating on them. Be sure to verify the label on the box before opening
+    as no supplier will take them back if you remove the protective film.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621n.Engine_block.jpg" title="Engine block" date="21.06.2006">
+    Secure the engine block on the stand and throroughly clean the mating
+    surfaces.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621o.Oil_jets.jpg" title="Oil jets" date="21.06.2006">
+    Attach the piston cooling oil jets (14 mm socket), ensuring their
+    correct orientation.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621p.Main_bearings.jpg" title="Main bearings" date="21.06.2006">
+    Carefully place five main bearing shells in their sockets, matching
+    the notch on one side. Avoid touching their surface with anything,
+    including your bare hands, as it would introduce dirt.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621q.Thrust_washers.jpg" title="Thrust washers" date="21.06.2006">
+    Install the thrust washers on both sides of the #3 bearing. The side
+    where the part number is embossed should face the bearing.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621r.Crankshaft.jpg" title="Crankshaft" date="21.06.2006">
+    Lubricate the bearings and place the crankshaft in position. Mind the
+    thrust washers as they like to drop on the floor at the first touch of
+    the crankshaft.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621s.Main_caps.jpg" title="Main caps" date="21.06.2006">
+    Clean and prepare the main bearing caps. They are numbered 1 to 5,
+    starting from the timing cover.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621t.Main_bearing_tops.jpg" title="Main bearing tops" date="21.06.2006">
+    Place the remaining main bearings into their caps, lubricate them and
+    install the caps (they only fit one way).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621u.Bolts.jpg" title="Bolts" date="21.06.2006">
+    Tighten the bolts to 81 ft-lbs (Torx E16 socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621v.Connecting_rod.jpg" title="Connecting rod" date="21.06.2006">
+    On to the piston installation. Wrap the studs on the connecting rods
+    to avoid scratching the crankshaft while the piston is being inserted.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621w.Piston_ring_compressor.jpg" title="Piston ring compressor" date="21.06.2006">
+    Put the piston half-way into the cylinder and compress the rings with
+    a special tool.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621x.Piston_in.jpg" title="Piston in" date="21.06.2006">
+    Tap the piston gently with a rubber hammer handle until it fully enters
+    the cylinder.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621y.Rod_cap.jpg" title="Rod cap" date="21.06.2006">
+    Place the bearing shell into the rod, oil it and tap the piston further
+    until the rod is in full contact with the crankshaft. Place the other
+    shell into the cap and put the cap on.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060621z.Complete.jpg" title="Complete" date="21.06.2006">
+    Install the remaining three pistons. The rods and rod caps are numbered
+    1 to 4 from the timing cover. The nuts need a 12-point 14 mm socket,
+    tighten to 35 ft-lbs.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="koi8-r"?>
+<picture-set title="Saab B204/B234: Cylinder Head">
+
+  <description>
+  <p>Saab B204/B234 cylinder head rebuild. This head is found in all four-cylinder
+  Saab 900 and 9000 from 1994 to 1998, as well as 1999 9-3.</p>
+
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>12 mm socket: camshaft cap bolts;</li>
+    <li>11 mm socket and extention: valve seal tapping (a metal
+    tube of a similar size will do as well);</li>
+    <li>valve spring compressor: it should be able to reach down into
+      an inch-wide lifter socket;</li>
+    <li>thin needle nose pliers (curved nose preferred);</li>
+    <li>fresh engine oil.</li>
+  </ul>
+  </description>
+
+  <picture name="20060618a.Head.jpg" title="Head" date="18.06.2006">
+    A freshly cleaned and polished head, just from an engine rebuilder.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618b.Valve_seals.jpg" title="Valve seals" date="18.06.2006">
+    Fresh valve seals go in first. Dip them in oil before installing.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618c.Tapping_in.jpg" title="Tapping in" date="18.06.2006">
+    A seal just slides on the end of the valve guide. An 11 mm socket is a
+    perfect tool for tapping them on.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618d.Installed.jpg" title="Installed" date="18.06.2006">
+    Close-up of a seal installed.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618e.Valves.jpg" title="Valves" date="18.06.2006">
+    There are four valves per cylinder. The intakes are slightly larger.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618f.Springs_and_washers.jpg" title="Springs and washers" date="18.06.2006">
+    The spring is sandwiched between two washers. The upper washer has a conical
+    collar wrapping around two collets that hold the valve stem.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618g.Getting_ready.jpg" title="Getting ready" date="18.06.2006">
+    The valve is in the socket, the rest is ready to follow. A dab of
+    grease on the inside of the collets will make them stick to the valve stem
+    and ease the installation.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618h.Valve_spring_compressor.jpg" title="Valve spring compressor" date="18.06.2006">
+    Install the lower washer, the spring and the upper washer.
+    Use a spring compressor to clamp the spring against the valve.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618i.Compressed.jpg" title="Compressed" date="18.06.2006">
+    When the spring is compressed, there's just enough room to insert the
+    collets using a pair of thin curved needle-nose pliers. Here's when
+    the grease on the collets comes in handy.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618j.Bracket.jpg" title="Bracket" date="18.06.2006">
+    The universal spring compressor I got from an auto parts store could not
+    reach far enough, so I had to improvise by making this U-shaped bracket.
+    The walls around the spring should be protected from scratches since they
+    act as sealing surfaces for hydraulic tappets.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618k.Measurements.jpg" title="Measurements" date="18.06.2006">
+    Measure the depth from the camshaft bearing surface to the valve stem.
+    It should be between 19.5 and 20.5 mm.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618l.Tappets.jpg" title="Tappets" date="18.06.2006">
+    Install the hydraulic tappets. Give them an oil bath before putting
+    them in.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618m.Camshaft.jpg" title="Camshaft" date="18.06.2006">
+    The camshaft bearing caps are numbered, but have rather bizarre markings.
+    My rebuilder marked them in a different fashion that was easier to read.
+    Put the head on wooden blocks so the valves won't be hitting the desk.
+    Lubricate the camshaft and put it in.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618n.Bearing_caps.jpg" title="Bearing caps" date="18.06.2006">
+    Lubricate the bearing caps before they go in. The inner side bolts on the
+    four caps above the cylinders have oil passages in them.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618o.Tightening.jpg" title="Tightening" date="18.06.2006">
+    Tighten the bolts to 11 ft-lbs, starting with the cap closest to the cams
+    pressing down on the tappets (12 mm socket). Install the second camshaft.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060618p.Side_cover.jpg" title="Side cover" date="18.06.2006">
+    Attach the cover over the distributor cap hole (on turbo engines).
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
