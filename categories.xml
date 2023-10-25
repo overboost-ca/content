@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <page title="overboost.ca">
-  <category name="Saab: A/C and Climate Control">
-    <directory name="20091012-saab-9-5-blend-door-repair" title="12.10.2009: 9-5: Blend Door Repair" />
-    <directory name="20080730-saab-9-5-acc-air-distribution-motor" title="30.07.2008: 9-5: ACC Air Distribution Motor" />
-    <directory name="20060901-saab-9-5-cabin-filter" title="01.09.2006: 9-5: Cabin Filter" />
-    <directory name="20060204-saab-9-5-blower-motor-repair" title="04.02.2006: 9-5: Blower Motor Repair" />
-    <directory name="20060119-saab-ng900-fan-speed-control-module" title="19.01.2006: NG900/9-3: Fan Speed Control Module" />
-    <directory name="20060118-saab-ng900-cabin-filter" title="18.01.2006: NG900/9-3: Cabin Filter" />
-  </category>
   <category name="Saab: Brakes">
     <directory name="20070809-saab-n900-308mm-front-brake-upgrade" title="09.08.2007: NG900/9-3/9-5: 308 mm Front Brake Upgrade" />
     <directory name="20070602-saab-9-5-front-brakes" title="02.06.2007: NG900/9-3/9-5: Front Pads and Rotors" />
     <directory name="20061109-saab-9-5-bleeding-brakes" title="09.11.2006: 9-5: Bleeding Brakes" />
     <directory name="20060213-saab-ng900-stainless-brake-lines" title="13.02.2006: NG900/9-3: Stainless Brake Lines" />
     <directory name="20050709-saab-9-5-rear-brakes-fixed" title="09.07.2005: NG900/9-3/9-5: Rear Pads and Rotors (Fixed Calipers)" />
+  </category>
+  <category name="Saab: Climate Control">
+    <directory name="20091012-saab-9-5-blend-door-repair" title="12.10.2009: 9-5: Blend Door Repair" />
+    <directory name="20080730-saab-9-5-acc-air-distribution-motor" title="30.07.2008: 9-5: ACC Air Distribution Motor" />
+    <directory name="20060901-saab-9-5-cabin-filter" title="01.09.2006: 9-5: Cabin Filter" />
+    <directory name="20060204-saab-9-5-blower-motor-repair" title="04.02.2006: 9-5: Blower Motor Repair" />
+    <directory name="20060119-saab-ng900-fan-speed-control-module" title="19.01.2006: NG900/9-3: Fan Speed Control Module" />
+    <directory name="20060118-saab-ng900-cabin-filter" title="18.01.2006: NG900/9-3: Cabin Filter" />
   </category>
   <category name="Saab: Electrical Equipment">
     <directory name="20090313-trionic7-bdm-connection" title="13.03.2009: Trionic 7: BDM Connection" />
@@ -35,6 +35,7 @@
     <directory name="20060621-saab-b204-b234-crankshaft-and-pistons" title="21.06.2006: B204/B234: Crankshaft and Pistons" />
     <directory name="20060618-saab-b204-b234-cylinder-head" title="18.06.2006: B204/B234: Cylinder Head" />
     <directory name="20060518-saab-ng900-engine-removal" title="18.05.2006: NG900/9-3: Engine Removal" />
+    <directory name="20050816-saab-ng900-engine-mounts" title="16.08.2005: NG900/9-3: Engine Mounts" />
   </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />
@@ -63,14 +64,21 @@
     <directory name="20070511-saab-ng900-eibach-springs-from-a-9-3" title="11.05.2007: NG900: Eibach Front Springs From a 9-3" />
     <directory name="20061014-saab-ng900-rear-springs-intrax-vs-eibach" title="14.10.2006: NG900: Rear Springs, Intrax vs Eibach" />
     <directory name="20060715-saab-ng900-six-point-subframe-brace" title="15.07.2006: NG900/9-3: Six-Point Subframe Brace" />
+    <directory name="20051013-saab-ng900-stanchion-arm-bushings" title="13.10.2005: NG900/9-3: Stanchion Arm Bushings" />
   </category>
   <category name="Saab: Transmission and Driveshafts">
     <directory name="20090503-saab-9-5-transmission-mount" title="03.05.2009: 9-5: Transmission Mount" />
     <directory name="20070617-saab-ng900-shifter-housing-removal" title="17.06.2007: NG900/9-3: Shifter Housing Removal" />
-    <directory name="20070617-saab-ng900-short-shifter" title="17.06.2007: NG900/9-3/9-5: DIY Short Shifter" />
+    <directory name="20070617-saab-ng900-short-shifter" title="17.06.2007: NG900/9-3/9-5: DIY Short Shifter Housing" />
     <directory name="20060211-saab-ng900-manual-transmission-installation" title="11.02.2006: NG900/9-3: Manual Transmission Installation" />
     <directory name="20060122-saab-ng900-hydraulic-clutch-conversion" title="22.01.2006: NG900: Hydraulic Clutch Conversion" />
     <directory name="20060121-saab-ng900-manual-transmission-removal" title="21.01.2006: NG900/9-3: Manual Transmission Removal" />
+    <directory name="20051013-saab-ng900-inner-cv-boot" title="13.10.2005: NG900/9-3: Inner CV Boot" />
+    <directory name="20050717-saab-ng900-outer-cv-boot" title="17.07.2005: NG900/9-3: Outer CV Boot" />
+    <directory name="20050808-saab-ng900-new-style-shifter-linkage" title="08.08.2005: NG900/9-3: New Style Shifter Linkage" />
+    <directory name="20050404-saab-ng900-short-shifter" title="04.04.2005: NG900/9-3: Adjustable Short Shifter" />
+    <directory name="20050404-saab-ng900-old-style-shifter-linkage" title="04.04.2005: NG900: Old Style Shifter Linkage" />
+    <directory name="20050325-saab-ng900-shifter-alignment" title="25.03.2005: NG900/9-3/9-5: Shifter Alignment" />
   </category>
   <category name="Saab: Turbocharger and Intake">
     <directory name="20080719-saab-9-5-turbo-inlet-pipe" title="19.07.2008: 9-3/9-5: Turbo Inlet Pipe" />

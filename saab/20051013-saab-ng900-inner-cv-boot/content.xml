@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Inner CV Boot">
+
+  <description>
+  <p>Inner CV boot replacement on a 1996 Saab 900SE turbo (applies to all 1994-1998 900 and 1999-2002 9-3).</p>
+  
+  <p>The repair had to be
+  done because the old boot developed a crack and started leaking grease.</p>
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>new CV boot kit: boot, clamps and grease;</li>
+    <li>32 mm (1.25") socket: hub centre nut;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>15 mm socket: control arm to subframe bolt;</li>
+    <li>13 mm socket: lower sway bar link nut;</li>
+    <li>11 mm open wrench: upper part of sway bar link;</li>
+    <li>10 mm Allen key: caliper bolts;</li>
+    <li>5 mm Allen key: rotor index screw;</li>
+    <li>snap ring pliers;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>breaker bar;</li>
+    <li>hammer.</li>
+  </ul>
+  </description>
+
+  <picture name="20051013a.Wheel_removed.jpg" title="Wheel removed" date="13.10.2005">
+    With the car still on the ground, remove the centre cap from the wheel
+    and loosen the hub nut using a 32 mm socket (a 1.25" will do)
+    and a breaker bar. Loosen the wheel bolts while you're at it too (17 mm
+    socket). Raise the car and remove the wheel.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013b.Control_arm.jpg" title="Control arm" date="13.10.2005">
+    Remove the brake caliper (10 mm Allen) and rotor (5 mm Allen). Now you can
+    choose to either separate the ball joint or unbolt the control arm from
+    the subframe. I find the control arm to be easier.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013c.Driveshaft.jpg" title="Driveshaft" date="13.10.2005">
+    Tilt the strut and pull the driveshaft out of the hub.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013d.Inner_joint.jpg" title="Inner joint" date="13.10.2005">
+    The inner CV joint is located right above the subframe. These grease
+    splatters are an indication of the leaky boot.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013e.Separated.jpg" title="Separated" date="13.10.2005">
+    Cut the clamps and separate the shaft. It's much easier than the
+    <a href="#/content/saab/20050717-saab-ng900-outer-cv-boot">outer joint</a>,
+    this one just pulls right out.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013f.Driveshaft.jpg" title="Driveshaft" date="13.10.2005">
+    Looks like my old boot was held by plastic wire ties, and there wasn't
+    much grease left.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013g.Snap_ring.jpg" title="Snap ring" date="13.10.2005">
+    Remove the snap ring on top of the shaft and gently tap the tripod bearing
+    until it comes off. It's VERY tight, a hydraulic puller could be a great help.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013h.Disassembled.jpg" title="Disassembled" date="13.10.2005">
+    Once the bearing is removed, you can pull the boot off and clean everything
+    thoroughly.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013i.Boot_kit.jpg" title="Boot kit" date="13.10.2005">
+    The kit comes with a new boot, two rather awkward clamps and a bag
+    of fresh grease.
+    
+    <image width="720" height="539" />
+  </picture>
+  <picture name="20051013j.Cleaning.jpg" title="Cleaning" date="13.10.2005">
+    Clean the companion flange too.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013k.Fresh_grease.jpg" title="Fresh grease" date="13.10.2005">
+    Assemble the joint and fill it with fresh grease.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013l.Installed.jpg" title="Installed" date="13.10.2005">
+    Pull the boot over the companion flange and crimp the clamps tightly.
+    Refer to <a href="#/content/saab/20050717-saab-ng900-outer-cv-boot">this guide</a>
+    for tightening torque for suspension bolts.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

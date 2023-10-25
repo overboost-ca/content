@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: New Style Shifter Linkage">
+
+  <description>
+  <p>A gearshift linkage upgrade on the 1996 Saab 900. The old linkage is replaced
+  with a newer design, offering superior shifting feel and curing the difficulty
+  of engaging certain gears. The updated linkage is found on 1997-1998 900 and
+  1999-2002 9-3, Saab part #4626321. Should you come across this part on
+  eBay or a local scrap yard, don't pass the opportunity, it's a worthwhile
+  upgrade.</p>
+
+  <p>To remove the linkage, do not forget to lock the transmission in fourth gear.
+  For more information, see the
+  <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">shifter alignment
+  procedure</a> and the
+  <a href="#/content/saab/20050404-saab-ng900-old-style-shifter-linkage">old linkage
+  removal instructions</a>. The only difference from the above procedures is
+  that you need to raise the front end of the car.</p>
+  
+  <h2>Tools:</h2>
+  <ul>
+    <li>16 mm wrench;</li>
+    <li>13 mm socket;</li>
+    <li>Torx T40 socket;</li>
+    <li>long socket extension;</li>
+    <li>ratchet handle;</li>
+    <li>torque wrench;</li>
+    <li>two L-shaped 3 mm Allen keys;</li>
+    <li>car ramps or jacks and stands.</li>
+  </ul>
+  </description>
+
+  <picture name="20050808a.Seal_screws.jpg" title="Seal screws" date="08.08.2005">
+    Lock the transmission in fourth gear and raise the front of the car.
+    Since your car is likely a 94-96, the topmost screw on the differential seal
+    retainer will probably be rusted or stuck. Take your time to soak it in
+    rust solvent.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808b.From_below.jpg" title="From below" date="08.08.2005">
+    Undo the 13 mm nut securing the linkage to the gear rod at the firewall and
+    move the shifter into third gear to pull it out of the linkage. Undo the
+    bolt on the transmission end of the linkage and remove the linkage assembly.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808c.Screw_undone.jpg" title="Screw undone" date="08.08.2005">
+    Pull off the rubber boot and the plastic bushing from the engine bracket,
+    you won't need them anymore. Unscrew the top bolt on the differential seal
+    retainer (Torx T40).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808d.Stud.jpg" title="Stud" date="08.08.2005">
+    Bolt on a new linkage stud in place of the old retainer screw (16 mm wrench).
+    The stud has a little ball joint on its end.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808e.Bracket.jpg" title="Bracket" date="08.08.2005">
+    Inspect the bracket that connects the engine to the rear mount. There's a
+    round lug on top of it, which used to be occupied by the plastic bushing
+    of the old linkage. Cut the lug off.
+    
+    <image width="720" height="541" />
+  </picture>
+  <picture name="20050808f.Bracket_cut.jpg" title="Bracket cut" date="08.08.2005">
+    This is a very tight location even for a hack saw. Be careful not to damage
+    any hoses while cutting the bracket. Thankfully, it's made of aluminium,
+    which is easy to cut.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808g.Lug.jpg" title="Lug" date="08.08.2005">
+    This little saw is almost as old as I am. My grandfather gave it to me when
+    I was learning to work with mechanic's tools as a kid. It belongs to my son
+    now. Today, it proved to be a perfect tool for the job ;P.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808h.New_vs_old.jpg" title="New vs old" date="08.08.2005">
+    The ball stud is still pictured attached to the linkage to show the complete
+    assembly. It's the same stud you bolted to the differential a few minutes
+    ago.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808i.New_vs_old.jpg" title="New vs old" date="08.08.2005">
+    The new linkage has a much more sophisticated design. The tilting movement
+    is performed by a separate set of levers, while the base remains centered
+    on the transmission rod and attached to the engine on another end.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808j.New_vs_old.jpg" title="New vs old" date="08.08.2005">
+    The result is a much greater movement accuracy and a more precise shifter
+    feel.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808k.Transmission_end.jpg" title="Transmission end" date="08.08.2005">
+    Put the new linkage on both the transmission rod and the shifter connection
+    rod at the firewall. Tighten the 13 mm bolt on the transmission side.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808l.Connecting_pin.jpg" title="Connecting pin" date="08.08.2005">
+    If you are installing a used linkage, check the condition of rubber
+    bushings and clean inside the ball joint sockets on both ends of the
+    connecting pin. Put some grease on the balls before installing it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808m.Shifter_end.jpg" title="Shifter end" date="08.08.2005">
+    The pin connects the far end of the linkage to the ball stud on the
+    differential body. It holds the linkage better than the old lug with a
+    round plastic bush, while allowing sufficient freedom of movement.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050808n.Tightening.jpg" title="Tightening" date="08.08.2005">
+    Finally, <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">align
+    the shifter position</a> and tighten the nut on the linkage. Lower the car
+    on the ground and go for a test drive to check how the new linkage works.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

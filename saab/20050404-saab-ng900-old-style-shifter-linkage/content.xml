@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900: Old Style Shifter Linkage">
+
+  <description>
+  <p>A rebuild of the gearshift linkage on the 1996 Saab 900. The procedure
+  is performed on the old style linkage found on the 94-96 model years.
+  The linkage on my car grew very loose and caused a lot of free play in the
+  shifter. The ideal approach would have been to install a new linkage
+  of the updated design, but with the cost of the new part being $200 USD,
+  a free rebuild attempt seemed rather attractive. The rebuild proved
+  successful, resulting in a much tighter and more precise shifter feel.</p>
+
+  <p>To remove the linkage, first lock the transmission in fourth gear and undo
+  the clamp that connects the linkage to the gearshift rod as described in
+  <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">the shifter alignment
+  procedure</a>.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>13 mm socket;</li>
+    <li>long socket extension;</li>
+    <li>ratchet handle;</li>
+    <li>torque wrench;</li>
+    <li>two L-shaped 3 mm Allen keys;</li>
+    <li>needle-nose pliers.</li>
+  </ul>
+  </description>
+
+  <picture name="20050404a.Removal.jpg" title="Removal" date="04.04.2005">
+    With transmission locked in 4th gear and the clamp undone, move the shifter
+    to the 3rd gear position to disconnect the rod from the linkage. Undo the
+    bolt connecting the linkage to the transmission (13 mm).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404b.Bushing.jpg" title="Bushing" date="04.04.2005">
+    Slide the linkage from the transmission rod towards the firewall. This will
+    effectively remove the other side of the linkage from the bushing on the
+    engine mount. The bushing is covered by a rubber boot that's attached to
+    the linkage. Pull the boot off upwards and remove it together with the
+    linkage.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404c.Linkage.jpg" title="Linkage" date="04.04.2005">
+    The linkage on the table. With 267K on the car, it has a lot of play in it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404d.Disassembled.jpg" title="Disassembled" date="04.04.2005">
+    Undo the locking pins with needle nose pliers and take the linkage apart.
+    Clean the dirt and examine the condition of the parts.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404e.Washers.jpg" title="Washers" date="04.04.2005">
+    The plastic plugs appeared to be worn, so I added a thin nylon washer
+    in between the plastic and metal parts on each side, and assembled the
+    linkage with fresh grease.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404f.Ready_to_go.jpg" title="Ready to go" date="04.04.2005">
+    Put the boot on and install the linkage back on the car. Tighten the bolt
+    on the transmission rod to 15.5 ft-lbs. Re-insert the shifter rod into the
+    the linkage at the firewall and complete
+    <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">the alignment
+    procedure</a>.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

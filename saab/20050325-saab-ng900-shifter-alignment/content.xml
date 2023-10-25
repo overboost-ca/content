@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3/9-5: Shifter Alignment">
+
+  <description>
+  <p>Shifter linkage alignment on a 1996 Saab 900 (should work for all
+  1994-2002 NG900/9-3, and perhaps also 9-5 models). This procedure can cure the rubbery feel of
+  the shifter, the difficulty to engage certain gears.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>13 mm socket;</li>
+    <li>two L-shaped 3 mm Allen keys;</li>
+    <li>long socket extension;</li>
+    <li>torque wrench;</li>
+    <li>ratchet handle.</li>
+  </ul>
+  </description>
+
+  <picture name="20050325a.4th_gear.jpg" title="4th gear" date="25.03.2005">
+    Car on the ground, engine off. Engage fourth gear.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050325b.Plug.jpg" title="Plug" date="25.03.2005">
+    Locate the small plastic plug on top of the gearbox and pull the plug out.
+    Be careful not to break the plug: it's thin and long (about an inch long).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050325c.Allen_key.jpg" title="Allen key" date="25.03.2005">
+    Insert a locking pin into the opening. A 3 mm L-shaped Allen key works well,
+    but it has to be plenty long to enter the pinhole in the shifter rod - a couple of inches deep.
+    With the key inserted, make sure that you cannot change gears anymore.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050325d.Clamp.jpg" title="Clamp" date="25.03.2005">
+    Locate the clamp that holds the gear rod to the gearbox linkage (close to
+    the firewall). There is a 13 mm nut on top of it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050325e.Extension.jpg" title="Extension" date="25.03.2005">
+    Slacken the nut on the clamp. You will need a very long socket extension to
+    reach it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050325f.Shifter.jpg" title="Shifter" date="25.03.2005">
+    Pull the gear lever boot up. Tilt the shifter around in all directions to find a
+    centered 4th gear position with the bump stop almost touching the reverse catch. Be careful as moving the
+    shifter too far into the third gear position will completely disconnect the rod from
+    the linkage. It's hard to see, but you should eventually align the pinhole in the
+    linkage rod with the hole in the shifter housing.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050325h.Locking_pin.jpg" title="Locking pin" date="25.03.2005">
+    Once aligned, insert a second pin to lock the rod position. With both ends of the
+    rod aligned and locked, tighten the nut on the linkage clamp
+    to 15.5 ft-lbs. Remove the locking pin from the transmission and plug the
+    hole. Remove the pin from the shifter housing. Test the gearshift operation.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

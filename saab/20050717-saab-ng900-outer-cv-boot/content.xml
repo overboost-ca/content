@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Outer CV Boot">
+
+  <description>
+  <p>Outer CV boot replacement on a 1996 Saab 900SE turbo (applies to all 1994-1998 900 and 1999-2002 9-3).</p>
+  
+  <p>The repair had to be
+  done because the old boot developed a crack and started leaking grease.</p>
+
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>new CV boot kit: boot, clamps, snap ring and grease;</li>
+    <li>32 mm (1.25") socket: hub centre nut;</li>
+    <li>18 mm socket: tie rod nut;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>15 mm socket: control arm to subframe bolt;</li>
+    <li>13 mm socket: lower sway bar link nut;</li>
+    <li>11 mm open wrench: upper part of sway bar link;</li>
+    <li>10 mm Allen key: caliper bolts;</li>
+    <li>5 mm Allen key: ABS sensor screws, rotor index screw;</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>C-clamp: for tightening the tie rod end;</li>
+    <li>breaker bar;</li>
+    <li>vice-grips;</li>
+    <li>gear puller;</li>
+    <li>hammer.</li>
+  </ul>
+  </description>
+
+  <picture name="20050716a.Hub_nut.jpg" title="Hub nut" date="16.07.2005">
+    With the car still on the ground, remove the centre cap from the wheel and
+    loosen the hub nut using a 32 mm socket (a 1.25" will do) and a
+    breaker bar. Loosen the wheel bolts while you're at it too (17 mm socket).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717b.Rim.jpg" title="Rim" date="17.07.2005">
+    Raise the car and remove the wheel. These little grease splatters on the
+    inside on the rim are a clear sign of the problem. The side where the
+    grease is concentrated the most can help locate the crack in the boot.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717c.Caliper.jpg" title="Caliper" date="17.07.2005">
+    Undo the hub hut completely. Remove the caliper (10 mm Allen socket) and
+    hang it onto something so no load is placed on the brake line.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717d.Tie-rod.jpg" title="Tie-rod" date="17.07.2005">
+    Clamp the tie-rod and undo the nut (18 mm socket). Use a gear puller to
+    separate the rod end. You may also remove the ABS sensor to clear the way
+    (5 mm Allen key).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717e.Control_arm.jpg" title="Control arm" date="17.07.2005">
+    Disconnect the anti-roll bar link from the control arm. Use a 13 mm socket
+    on the nut and a 11 mm spanner on the top end.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717f.Rotor_off.jpg" title="Rotor off" date="17.07.2005">
+    Remove the index screw
+    (<a href="/Auto/20050709.Saab_9-5_rear_brakes_fixed/">see here</a> for
+    possible solutions if it gets stuck) and take the rotor off.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717g.Disconnected.jpg" title="Disconnected" date="17.07.2005">
+    If you have a proper ball-joint separator (NOT a fork-type!), you can undo
+    the ball joint. I found it easier to unbolt the control arm from the
+    subframe instead (15 mm socket). Tilt the strut out of the way and pull
+    the axle out.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717h.Clamps.jpg" title="Clamps" date="17.07.2005">
+    Remove the old clamps from the boot with a chisel or a big screwdriver.
+    Slide the boot up the shaft and start removing the grease.
+    The joint is firmly seated on the driveshaft and secured by a snap ring.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717i.Joint_removed.jpg" title="Joint removed" date="17.07.2005">
+    Once you dig the ring from under the layer of grease, do you best to remove
+    it. I ended up pulling it out with vice-grips, which straightened it
+    completely (and thus destroyed). Gently tap the CV joint until it comes off
+    the axle.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717j.Boot.jpg" title="Boot" date="17.07.2005">
+    This is where the crack in the boot was. It didn't seem big, and there
+    was enough grease to last for the next half a year until it all leaks out,
+    but I didn't want to take my chances.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717k.Disassembled.jpg" title="Disassembled" date="17.07.2005">
+    Disassemble the joint. First, turn the inner part sideways to take
+    out the balls one by one, then remove the remaining parts.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717l.Cleaned_up.jpg" title="Cleaned up" date="17.07.2005">
+    Clean everything thoroughly to wipe out all of the old grease. Do not
+    let the dirt to get into the joint from now on.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717m.New_kit.jpg" title="New kit" date="17.07.2005">
+    Here's the new boot kit from
+    <a href="http://www.eeuroparts.com">eEuroparts</a>. It contains a new boot,
+    two stainless clamps, a replacement snap ring and a tube of fresh grease.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717n.Boot_on.jpg" title="Boot on" date="17.07.2005">
+    Put the boot on and inspect how the joint assembly connects to the axle.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717o.Packed.jpg" title="Packed" date="17.07.2005">
+    Put the new snap ring into the joint so the angled ends are seated in the
+    opening in the star-shaped centre part, and fill the bearing with grease.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717p.Installed.jpg" title="Installed" date="17.07.2005">
+    Gently tap the joint on until the ring clicks into the groove
+    in the shaft.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717q.Clamp.jpg" title="Clamp" date="17.07.2005">
+    Put the boot on. There are grooves in the joint body and the axle that
+    help you position the boot properly. Put the clamp on.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717r.Crimping.jpg" title="Crimping" date="17.07.2005">
+    If you don't have a specialized crimping tool, the job can be done with
+    a pair of thin Allen keys and the mighty vice-grips.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717s.Joint_finished.jpg" title="Joint finished" date="17.07.2005">
+    Put the second clamp on and inspect the boot.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717t.Axle_installed.jpg" title="Axle installed" date="17.07.2005">
+    Insert the axle into the hub.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717u.Control_arm.jpg" title="Control arm" date="17.07.2005">
+    Bolt the control arm to the subframe (85 ft-lbs) then connect the anti-roll
+    bar link (8 ft-lbs). Clamp and tighten the tie-rod end (55 ft-lbs), install
+    the ABS sensor.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050717v.Brakes.jpg" title="Brakes" date="17.07.2005">
+    Install the rotor and the caliper (87 ft-lbs). Bolt the hub nut on
+    reasonably tight. Put the wheel on (84 ft-lbs) and lower the car to the
+    ground. Tighten the hub nut to 214 ft-lbs.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

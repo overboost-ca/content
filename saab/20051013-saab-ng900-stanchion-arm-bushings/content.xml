@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Stanchion Arm Bushings">
+
+  <description>
+  <p>Stanchion arm bushing replacement on a 1996 Saab 900SE turbo (applies to all 1994-1998 900 and 1999-2002 9-3).</p>
+
+  <p>My old worn out bushings are being replaced with upgraded polyurethane bushings made by Powerflex.</p>
+
+  <p>NOTE: it is not entirely necessary to pull the driveshaft or disconnect
+  the control arms. You can even deal with the bushings
+  right on the car, but the room would be rather tight.</p>
+
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>32 mm (1.25") socket: hub centre nut;</li>
+    <li>24 mm wrench and socket: stanchion arm to control arm bolts (for Taliaferro bushings);</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>16 mm socket: stanchion arm to subframe bolts;</li>
+    <li>15 mm socket: control arm to subframe bolts;</li>
+    <li>13 mm socket: lower sway bar link nut;</li>
+    <li>11 mm open wrench: upper part of sway bar link;</li>
+    <li>10 mm Allen key: caliper bolts;</li>
+    <li>5 mm Allen key: rotor index screw;</li>
+    <li>Torx T55 socket: stanchion arm to control arm bolts (for stock bushings);</li>
+    <li>gear puller and a hacksaw (for old bushing removal);</li>
+    <li>torque wrench;</li>
+    <li>car jack and axle stands;</li>
+    <li>breaker bar.</li>
+  </ul>
+  </description>
+
+  <picture name="20051013m.Wheel_removed.jpg" title="Wheel removed" date="13.10.2005">
+    With the car still on the ground, remove the centre cap from the wheel and
+    loosen the hub nut using a 32 mm socket (a 1.25" will do) and a
+    breaker bar. Loosen the wheel bolts while you're at it too (17 mm socket).
+    Raise the car and remove the wheel. 
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013n.Subframe_bolt.jpg" title="Subframe bolt" date="13.10.2005">
+    Unbolt the rearmost subframe bolt holding the stanchion arms (16 mm socket).
+    These bolts tend to wear out on the bottom end, so consider a pair of new
+    ones. Pull the arm out of the subframe.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013o.Control_arm.jpg" title="Control arm" date="13.10.2005">
+    Remove the caliper and the brake rotor if they are in the way.
+    Disconnect the control arm from the subframe (15 mm socket). Unbolt the
+    sway bar link from the control arm.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013p.Separated.jpg" title="Separated" date="13.10.2005">
+    Unbolt the stanchion arm from the control arm and remove it from the car.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013q.Worn_bushings.jpg" title="Worn bushings" date="13.10.2005">
+    With 276K km on the clock, these bushings look completely destroyed.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013s.Apart.jpg" title="Apart" date="13.10.2005">
+    If you ever wondered what's inside, here's your answer. And there also was
+    hydraulic oil... a long time ago.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013t.Sleeve.jpg" title="Sleeve" date="13.10.2005">
+    The remaining steel sleeve can be removed with a help of a hacksaw and
+    a cold chisel.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013u.Powerflex.jpg" title="Powerflex" date="13.10.2005">
+    The Powerflex bushings are a solid two-piece design, and they are worth
+    your attention for the ease of installation alone.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013v.Spring_sleeves.jpg" title="Spring sleeves" date="13.10.2005">
+    Lubricate the bushings with supplied grease and slide them into the arms.
+    You will also need a pair of new springs sleeves for EACH arm. If your
+    original bushings were dead as mine, chances are the spring sleeves are
+    a heap of rust by now.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051030.Bolts.jpg" title="Bolts" date="30.10.2005">
+    This is what happens when you run your car with worn stanchion arm
+    bushings and rusted spring sleeves. The bolt looks like someone
+    chewed on it. A new bolt is pictured below.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20051013w.Installed.jpg" title="Installed" date="13.10.2005">
+    You might need to slightly widen the opening in the subframe to fit
+    the new bushings in, otherwise the installation is straightforward.
+    Refer to <a href="#/content/saab/20050210-saab-ng900-front-suspension">this guide</a> for tightening torque values.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

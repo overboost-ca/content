@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Adjustable Short Shifter">
+
+  <description>
+  <p>Adjustable short shifter rod installation on the 1996 Saab 900.
+  Parts from the now defunct MP Performance.</p>
+
+  <p>To remove the shifter housing, first lock the transmission in fourth gear
+  and undo the clamp that connects the linkage to the gearshift rod as
+  described in
+  <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">the shifter alignment
+  procedure</a>.</p>
+
+  <p><b>Update:</b> the shifter has been removed a couple of
+  months later due to inadequate performance: the shortening was barely
+  noticeable, and the ball kept getting loose despite the locking screw,
+  which introduced unwanted slop into the shifting feel. If you plan to
+  install this shifter, I'd recommend removing the reverse lockup and
+  putting the ball on Loctite or another adhesive for proper effect.</p>
+
+  <p><b>Update 2:</b>
+  the adjustable shifter rod used in this guide is no longer produced, an
+  alternative (and improved) do-it-yourself modification is
+  <a href="#/content/saab/20070617-saab-ng900-short-shifter">available here</a>.
+  Both options are inferior to the amazing shifter housing by
+  <a href="https://www.genuinesaab.com">Taliaferro.</a></p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>13 mm socket: linkage clamp;</li>
+    <li>13 mm wrench: gearshift rod;</li>
+    <li>10 mm socket: centre console and shifter housing;</li>
+    <li>long socket extension;</li>
+    <li>ratchet handle;</li>
+    <li>torque wrench;</li>
+    <li>flat screwdriver;</li>
+    <li>Torx T25 screwdriver;</li>
+    <li>two L-shaped 3 mm Allen keys: linkage lock;</li>
+    <li>2 mm hex key: shifter adjustment;</li>
+    <li>strap wrench and C-clamp: knob removal;</li>
+    <li>needle-nose pliers.</li>
+  </ul>
+  </description>
+
+  <picture name="20050404a.Driver_side.jpg" title="Driver side" date="04.04.2005">
+    Remove the lower panel on the driver side (two Torx T25 screws).
+    Push the panel towards the front of the car to release the tabs for removal.
+    The spring cleaning is due on this car ;).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404b.Passenger_side.jpg" title="Passenger side" date="04.04.2005">
+    Remove the lower panel on the passenger side (two Torx T25 screws).
+    Push the panel towards the front of the car to release the tabs for removal.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404c.Ashtray.jpg" title="Ashtray" date="04.04.2005">
+    Take out the ashtray on the back of the centre console (it just pops out).
+    Undo the Torx T25 screw under the ash tray and remove the cover with ACC
+    vents and storage compartment lid (pull it up to remove).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404d.Nuts.jpg" title="Nuts" date="04.04.2005">
+    Undo two 10 mm nuts securing the centre console to the floor.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404e.Ignition_cover.jpg" title="Ignition cover" date="04.04.2005">
+    On the 900, just pry up the ignition lock cover with a small screwdriver.
+    On the 9-3, the cover will be bigger and there's a PCB with key antenna
+    under it. The antenna can be removed by twisting it sideways and pulling
+    it up or by releasing the tabs using a small screwdriver. There's a
+    connector at the bottom.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404f.Window_switches.jpg" title="Window switches" date="04.04.2005">
+    Press the tab on the window switch cluster and push it from below through
+    the handbrake opening.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404g.Cover.jpg" title="Cover" date="04.04.2005">
+    Pry off the larger cover over the ignition lock.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404h.Screws.jpg" title="Screws" date="04.04.2005">
+    Remove two screws holding the front of the console to the shifter housing
+    (Torx T25). Apparently, the previous owner was a huge fan of Cola.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404i.Light_switch.jpg" title="Light switch" date="04.04.2005">
+    Pull out the light switch (if equipped) and disconnect the wires.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404j.Heater_switch.jpg" title="Heater switch" date="04.04.2005">
+    Pull out the rear seat heater switch (if equipped) and disconnect the wires.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404k.Knobs_out.jpg" title="Knobs out" date="04.04.2005">
+    The ACC panel and the seat heater switches come out of the panel, allowing
+    you to unplug the wires. The ACC fan has a cap that comes off, and then
+    you need to push the fan inside the dash. There are also two connectors
+    on the back of the lighter outlet.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404l.Tabs.jpg" title="Tabs" date="04.04.2005">
+    Locate two tabs on the top where the ACC panel was, and remove them (push
+    the knob in the middle further in to release the lock). Remove the rear
+    half of the centre console (disconnect the tabs from the front part and
+    pull it up). Pop the shifter boot from the console, pull it up onto the
+    shifter knob and remove the front half of the console.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404m.Vent.jpg" title="Vent" date="04.04.2005">
+    Remove the air vent.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404n.Housing.jpg" title="Housing" date="04.04.2005">
+    Undo four bolts holding the shifter housing to the floor (10 mm socket).
+    The clamp on the gearshift linkage should be loosened at this point
+    (see <a href="/Auto/20050325.Saab_NG900_Shifter_Alignment/">the shifter
+    alignment procedure</a>).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404o.Wires.jpg" title="Wires" date="04.04.2005">
+    Unplug the clips attaching the wires on the passenger side.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404p.Harness.jpg" title="Harness" date="04.04.2005">
+    Turn the housing on the side and disconnect the ignition lock harness
+    (use a flat screwdriver to release the tabs on each side).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404q.Removed.jpg" title="Removed" date="04.04.2005">
+    With the clamp on the linkage undone, pull the housing, and it should come
+    right out. Take your time to clean up inside the console.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404r.Underside.jpg" title="Underside" date="04.04.2005">
+    Undo the bolt at the base of the shifter to detach the long gear selector
+    shaft (13 mm wrench). The big black plate next to the base of the rod is
+    the reverse lockout mechanism. You can remove it to further shorten
+    the shifter action.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404s.Spring.jpg" title="Spring" date="04.04.2005">
+    Use needle-nose pliers to remove the spring, then turn the plastic retainer
+    counter-clockwise.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404t.Stick.jpg" title="Stick" date="04.04.2005">
+    Here's the shifter just out of the housing. The plastic gaiter and the boot
+    are attached to the knob.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404u.Knob.jpg" title="Knob" date="04.04.2005">
+    Use a strap wrench to twist the knob and break the bond. In my case,
+    the knob cover came off first ;). Once the knob is off, remove the knob and
+    everything that's attached to it, and put it on the new shifter rod.
+    Note the position of the gear markings on the knob.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404v.New_vs_old.jpg" title="New vs old" date="04.04.2005">
+    The new rod next to the old one. You can see that there is not much
+    difference in the ball position. With the reverse lockout intact, there
+    is actually very little room for adjustment. Both the rod and the ball are
+    made of aluminium, and there are two ball bearings at the base (vs
+    the plastic biushing on the OEM shifter).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404w.Assembled.jpg" title="Assembled" date="04.04.2005">
+    Assemble the shifter with fresh grease and bolt on the selector shaft.
+    Install the housing back on the car, tighten the bolts and perform
+    <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">the alignment
+    procedure</a>. You should feel the shorter throws and the marginally heavier
+    feel of the shifter.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050404x.Adjustment.jpg" title="Adjustment" date="04.04.2005">
+    The shifter can be adjusted directly on the car, even after everything is
+    put back together. All you need to do is pull the boot up, release the
+    locking screw on the ball with a 2 mm hex screwdriver and wiggle it until
+    the ball rotates to the desired position. Make sure you can reach all gears
+    without the rod rubbing against anything inside the housing. Tighten the
+    locking screw afterwards.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>
