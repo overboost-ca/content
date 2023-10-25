@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Front Suspension">
+
+  <description>
+  <p>A front suspension upgrade performed on a 1996 Saab 900SE turbo.</p>
+
+  <p>The goal was to replace the old and worn components with new part. The
+  pictures show the work done at the right front corner.
+  Parts from <a href="https://www.genuinesaab.com">Taliaferro Imports</a>,
+  <a href="https://wwws.shox.com">shox.com</a> eBay. See also
+  <a href="#/content/saab/20050215-saab-ng900-rear-suspension">the rear suspension
+  installation</a>.</p>
+
+  <p>The job took me several days, as you can see from the dates on the
+  photos. Unfortunately, I was short on spare time and could only spend
+  a couple of hours a day in the evening. With all the tools at hand, proper
+  preparations, and without the unexpected interruptions, the work can be done
+  in one day. A helping hand would speed things up as well.</p>
+
+  <b>Tools and supplies:</b>
+  <ul>
+    <li>32 mm (1.25;") socket: hub centre nut;</li>
+    <li>24 mm wrench: retainer nut on top of the strut, new outer bushing bolt;</li>
+    <li>18 mm socket: tie rod nut;</li>
+    <li>18 mm wrench: ball joint nut;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>16 mm socket: stanchion arm to subframe bolt;</li>
+    <li>15 mm socket: control arm to subframe bolt;</li>
+    <li>13 mm socket: lower sway bar link nut, strut mount nuts;</li>
+    <li>11 mm socket: top of the original damper rod;</li>
+    <li>11 mm open wrench: upper part of sway bar link;</li>
+    <li>10 mm socket: belt shield screws;</li>
+    <li>10 mm Allen key: caliper bolts;</li>
+    <li>8 mm socket: belt shield screws;</li>
+    <li>7 mm Allen key: top of the Bilstein damper rod;</li>
+    <li>5 mm Allen key: ABS sensor screws, rotor index screw;</li>
+    <li>Torx T55 key: original stanchion arm to control arm bolt;</li>
+    <li>torque wrench;</li>
+    <li>pipe wrench (60 mm): strut insert sleeve nut;</li>
+    <li>car jack and axle stands;</li>
+    <li>ball joint separator or large Pitman gear puller;</li>
+    <li>spring compressor;</li>
+    <li>C-clamp: for tightening tie rod ends;</li>
+    <li>breaker bar;</li>
+    <li>vice-grips;</li>
+    <li>large screw extractor (6 mm);</li>
+    <li>hammer and rubber mallet;</li>
+    <li>loctite, anti-seize, silicone/moly chassis grease, rust solvent.</li>
+  </ul>
+  </description>
+
+  <picture name="20050210a.Centre_cap.jpg" title="Centre cap" date="10.02.2005">
+    With the car still on the ground, remove the centre cap from the wheel
+    and spray the axle nut with a lubricant.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210b.Hub_centre_nut.jpg" title="Axle nut" date="10.02.2005">
+    Here's a close-up of the axle hut. It might be a good idea to clean the
+    thread with a wire brush too.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210c.Centre_nut.jpg" title="Axle nut" date="10.02.2005">
+    Loosen the nut using a 32 mm socket (a 1.25" will do too) and a
+    breaker bar.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210d.Wheel_nuts.jpg" title="Wheel nuts" date="10.02.2005">
+    Loosen the wheel bolts too (you'll need a deep 17 mm socket for that).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210e.Jacks.jpg" title="Jacks" date="10.02.2005">
+    Raise the car, put it on jack stands and take off the wheels. The car is
+    filthy: this is what Ontario roads do to your car in winter. I washed it
+    just a couple of days ago.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210f.Centre_nut.jpg" title="Axle nut" date="10.02.2005">
+    Remove the axle nut. Take your time spraying all other fasteners with
+    your favourite rust solvent.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210g.Tie_rod_end.jpg" title="Tie rod end" date="10.02.2005">
+    Undo the tie rod end nut using an 18 mm socket. Remove the nut completely,
+    clean and lubricate the thread, and put the nut back on a few turns to
+    provide a base for the next step.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210h.Gear_puller.jpg" title="Gear puller" date="10.02.2005">
+    Use a ball joint separator or gear puller to push out the tie rod end.
+    If you didn't fully remove
+    the nut prior to that, and it gets stuck, there won't be enough friction
+    to turn the nut anymore, it will just spin in the ball joint.
+    Guess how I know that ;)
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210i.Clamp.jpg" title="Clamp" date="10.02.2005">
+    If you were unfortunate enough to make this mistake, clamp the tie rod
+    end to the strut and undo the stuck nut. You will also need to use the
+    clamp when assembling the thing later.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210j.Sway_bar_link.jpg" title="Sway bar link" date="10.02.2005">
+    Disconnect the sway bar link from the control arm. Use a 13 mm socket on
+    the nut below, and hold the top with a 11 mm open wrench. The left side
+    link on my car snapped when I tried to undo the nut (too much rust).
+    A new one was $50 at the dealer.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050210k.ABS_sensor.jpg" title="ABS sensor" date="10.02.2005">
+    An engineer who decided to use tiny bolts with a 5 mm Allen head for ABS
+    sensors should be prosecuted. With this much rust, the head instantly
+    rounds off when you first attempt to unbolt it, and then snaps
+    completely when you try to finish the job with vice-grips. To avoid that,
+    undo the bolt that holds the sensor bracket instead: it's also a 5 mm Allen,
+    but its thread is not exposed to moisture.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050211.The_car.jpg" title="The car" date="11.02.2005">
+    This is the car sitting in the garage. Luckily, I didn't have to hurry
+    with finishing the work this time as we had the 9-5 to drive around.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212a.Belt_shield.jpg" title="Belt shield" date="12.02.2005">
+    The plastic belt shield has to be removed in order to gain the access
+    to the inner control arm bolt. It is held by assorted screws with 8 mm and
+    10 mm hex heads.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212b.Rotor_screw.jpg" title="Rotor screw" date="12.02.2005">
+    The brake rotor index screw also has a 5 mm Allen head. Translation
+    from Rusty Saab: "with this much surface area, the bolt head will round off
+    in no time, so you will need a drill, a screw extractor, and a new $4 bolt
+    from the dealer."
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212c.Caliper_bolts.jpg" title="Caliper bolts" date="12.02.2005">
+    The caliper bolts take a 10 mm Allen key. Finally, a hex key big enough
+    not to strip the head.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212d.Caliper.jpg" title="Caliper" date="12.02.2005">
+    Compress the caliper so it becomes free from the rotor, pull it away
+    and hang on a piece of wire to keep the brake line free from the caliper's
+    heavy weight.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212e.Control_arm.jpg" title="Control arm" date="12.02.2005">
+    The control arm bolt is accessible in the opening from below the
+    subframe (15 mm socket). I decided to take this route to skip the fight
+    with the ball joint on the car.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212i.Stanchion_arm.jpg" title="Stanchion arm" date="12.02.2005">
+    The stanchion arm is bolted to the subframe from below (16 mm socket).
+    You don't really need to remove it completely, but I wanted to inspect the
+    bushing, and it's also easier to remove the old push nut when the arm is
+    off the car.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212f.Driveshaft.jpg" title="Driveshaft" date="12.02.2005">
+    With the control arm disconnected from the subframe, there's enough play
+    to pull the driveshaft out of the hub. Once the driveshaft is out
+    of the way, you can unbolt the stanchion arm from the outer bushing
+    (Torx T55).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212g.Stanchion_arm.jpg" title="Stanchion arm" date="12.02.2005">
+    Move the stanchion arm away. The strut is now hanging on the upper
+    mount.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212h.Strut_mount.jpg" title="Strut mount" date="12.02.2005">
+    Carefully undo the strut mount nuts (13 mm socket) and remove the strut
+    assembly from the car.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212j.Stanchion_arm.jpg" title="Stanchion arm" date="12.02.2005">
+    The stanchion arm on the ground. Now you have removed everything there is
+    to remove ;).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212k.Strut_assembly.jpg" title="Strut assembly" date="12.02.2005">
+    With the strut assembly on the floor, it's easy to unbolt
+    and separate the ball joint. First, undo the nut (18 mm).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212l.Ball_joint.jpg" title="Ball joint" date="12.02.2005">
+    Then use a gear puller or a screw-type ball joint separator to break the
+    bond. The use of fork-type ball joint splitters is not recommended as they
+    often damage the rubber boot.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212m.Top_nut.jpg" title="Top nut" date="12.02.2005">
+    Loosen the retainer nut on top of the strut. You will need a 24 mm
+    wrench for the nut and a 11 mm socket to hold the damper rod. Another
+    alternative is to use an impact wrench to loosen the nut (the former
+    method does not work on 9-3s as they have deeper strut mounts, so
+    the nut is harder to reach).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212n.Spring_compressor.jpg" title="Spring compressor" date="12.02.2005">
+    Do not
+    remove the nut completely: the spring is under load, and releasing it
+    can cause an injury.
+    Attach a spring compressor tool and tighten it until the spring becomes loose
+    in the housing. Remove the top nut, the strut mount and other parts,
+    then carefully release the tension of the spring.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212o.Disassembled.jpg" title="Disassembled" date="12.02.2005">
+    Clockwise: top nut (do not reuse it!), washer, strut mount, thrust
+    bearing, another washer, spring support, bump stop, strut with damper,
+    spring. Remember how the washers were fitted: the edges on the top washer
+    should point up, while on the bottom washer they should point        down.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212p.Strut_insert.jpg" title="Strut insert" date="12.02.2005">
+    The strut insert is secured by a 60 mm sleeve nut. I didn't have anything big
+    enough, so I took it to the nearest mechanic. They put it in a vice and
+    used the biggest pipe wrench I've ever seen. Two minutes, and the job was
+    done, didn't even take the money.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212q.Push_nut.jpg" title="Push nut" date="12.02.2005">
+    The old push nut in the stanchion arm is no longer needed if you're
+    installing the bushings from Taliaferro, which come with a bigger bolt. A few blows with a
+    heavy hammer will do the job.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212r.Inner_bushing.jpg" title="Inner bushing" date="12.02.2005">
+    The inner control arm bushing is a simple rubber piece with a metal insert,
+    so you can easily press it out with a gear puller.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212s.Outer_bushing.jpg" title="Outer bushing" date="12.02.2005">
+    The outer bushing can also be pressed out, just use a larger gear puller.
+    This bushing is of a hydraulic type, so bring a pan to catch the oil.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050212t.Sleeve.jpg" title="Sleeve" date="12.02.2005">
+    The metal sleeve of the outer bushing can be pressed out if you have a press.
+    If you don't, you can saw cut the sleeve and remove it with a chisel.
+    This will destroy it though, but who cares, we have a box full of
+    nice new poly bushings ;)
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213a.Bushings.jpg" title="Bushings" date="13.02.2005">
+    The new bushings are a two piece design with a metal insert in the middle.
+    Prepare some silicone/moly grease to lubricate them.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213b.Bushings.jpg" title="Bushings" date="13.02.2005">
+    The bushings are very snug, but you don't need a press to put them in.
+    Most of the job can be done with your bare hands with a little help
+    from a rubber mallet.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213c.Arms.jpg" title="Arms" date="13.02.2005">
+    Put the control and stanchion arms back on, but don't tighten the bolts
+    yet. Move the driveshaft out of the way and connect the arms at the
+    outer bushing.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213d.New_bolt.jpg" title="New bolt" date="13.02.2005">
+    Insert the new bolt that comes with the bushings and tighten it to 120
+    ft-lbs using a pair of 24 mm wrenches. After that tighten the bolts that
+    attach the arms to the subframe. Control arm: 85 ft-lbs, stanchion arm:
+    78 ft-lbs plus 90 degrees.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213e.New_vs_old.jpg" title="New vs old" date="13.02.2005">
+    Intrax springs have one coil less than the original, so they are
+    more than an inch shorter, but also stiffer. Bilstein dampers are only
+    a few millimetres shorter, but look much more serious. They come with their own
+    dust shield, which does not include a bump stop (this is by design). The
+    sleeve nut is also different.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213f.Strut_insert.jpg" title="Strut insert" date="13.02.2005">
+    Here's the new damper fitted into the strut. I didn't have a torque wrench
+    that goes up to 160 ft-lbs, so I just put some loctite on the threads and
+    tightened it as hard as I could.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213g.Spring.jpg" title="Spring" date="13.02.2005">
+    A spring has to be compressed before it's put back on.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213h.Thrust_bearings.jpg" title="Thrust bearings" date="13.02.2005">
+    Here's a new SKF thrust bearing vs whatever was on the car before. You
+    can see the damage on the body of the old bearing. Just a bit more, and it
+    would've split in half.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213i.Assembling.jpg" title="Assembling" date="13.02.2005">
+    I used the original spring support and washers, but replaced strut mounts
+    and bearings. The new top nut that came with Bilstein dampers is the same
+    size as the original, but the grip on top of the rod is different, you
+    need a 7 mm Allen key for it.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050213j.Strut_complete.jpg" title="Strut complete" date="13.02.2005">
+    Make sure the spring fits both top and bottom supports correctly, with the
+    end of the coil against the spring stops. The top nut should be secured
+    well enough, but not yet to the spec, you'll need to do that later.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214a.Strut_mount.jpg" title="Strut mount" date="14.02.2005">
+    Fit the strut on the car and put the strut mount nuts on. Note that the
+    rearmost nut has a washer, while the other two don't. Tighten the nuts
+    alternately at 13 ft-lbs (13 mm socket).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214b.Driveshaft.jpg" title="Driveshaft" date="14.02.2005">
+    Tilt the strut and insert the driveshaft into the hub. Fit the top washer
+    and bushing onto the sway bar link. Prepare a new ball joint nut (do not
+    reuse the old one).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214c.Ball_joint.jpg" title="Ball joint" date="14.02.2005">
+    Insert the ball joint rod into the strut and put the nut on. Jack up the
+    base of the strut to force the ball joint in and prevent it from spinning.
+    Tighten the nut to 55 ft-lbs (18 mm wrench).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214d.Tie_rod_end.jpg" title="Tie rod end" date="14.02.2005">
+    Clamp the tie rod end and tighten the nut to 45 ft-lbs (18 mm socket).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214e.Sway_bar.jpg" title="Sway bar" date="14.02.2005">
+    Put the lower bushing and washer on the sway bar link. Use an 11 mm open
+    wrench to hold the link at the top end, and a 13 mm wrench to tighten the
+    nut (8 ft-lbs)
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214f.Brakes.jpg" title="Brakes" date="14.02.2005">
+    Fit the ABS sensor and the brake rotor. Clean the hub before fitting the
+    rotor and apply some anti-seize to the hub and the rotor index screw.
+    Do not tighten the screw too much, unless you want to drill it out again.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214g.Caliper.jpg" title="Caliper" date="14.02.2005">
+    Put the brake caliper back on, apply some loctite to the bolts and
+    tighten them to 87 ft-lbs (10 mm Allen key). Bolt on a new hub centre
+    nut (do not reuse the old one), but do not tighten it completely yet.
+    Stick a screwdriver into the rotor to prevent it from spinning.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050214h.Strut.jpg" title="Strut" date="14.02.2005">
+    Attach the belt shield. Fit the wheels and tighten the bolts to 84 ft-lbs.
+    Lower the car to the ground.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050215a.Hub_centre_nut.jpg" title="Hub centre nut" date="15.02.2005">
+    The hub nut (32 mm) should be tightened at 214 ft-lbs. I don't have a
+    torque wrench that goes that high, but 140 lbs of my weight applied to a
+    foot-and-a-half long breaker bar should work out about right.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20050215b.Final_touch.jpg" title="Final_touch" date="15.02.2005">
+    With the wheels on the ground, tighten the upper nut on the damper to 66
+    ft-lbs (24 mm wrench and a 7 mm Allen key). Congratulations, you have just
+    finished rebuilding your front suspension!
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>
