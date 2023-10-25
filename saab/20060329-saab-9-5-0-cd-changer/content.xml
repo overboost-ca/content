@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: CD Changer">
+
+  <description>
+  <p>CD changer installation on a Saab 9-5 sedan. When buying a used CD changer,
+  make sure it's been "divorced" from the old head unit. If it wasn't,
+  get a VIN number of the original car.</p>
+
+  <p>Images contributed by Guido Riccioni.</p>
+  </description>
+
+  <picture name="20060329a.The_kit.jpg" title="The kit" date="29.03.2006">
+    The Saab mounting kit comes with everything you need to install a changer:
+    mounting brackets, bolts and nuts, and a plastic cover that protects
+    the changer.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060329b.Connector.jpg" title="Connector" date="29.03.2006">
+    Most cars would be pre-wired for a changer with the harness hiding behind 
+    a flap in the upholstery and the holes cut in the trunk floor. There was,
+    however, a lapse in some model years, so you might still need a harness.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060329c.Trim.jpg" title="Trim" date="29.03.2006">
+    Lift the spare wheel cover and detach the plastic piece around the
+    trunk latch.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060329d.Bracket.jpg" title="Bracket" date="29.03.2006">
+    Pull the side trim and install the bracket.
+    
+    <image width="618" height="600" />
+  </picture>
+  <picture name="20060329e.Changer.jpg" title="Changer" date="29.03.2006">
+    Restore the trim and attach the changer. Plug the wiring harness.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060329f.Cover.jpg" title="Cover" date="29.03.2006">
+    Install the plastic cover and drive to the dealer to program the
+    changer with a Tech2.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900: Hydraulic Clutch Conversion">
+
+  <description>
+  <p>Hydraulic clutch conversion on a 1996 Saab 900. The troublesome cable
+  clutch on a 1994-1997 Saab 900 can be relatively easily converted to
+  hydraulic. In 1999, Saab issued a detailed upgrade document describing the
+  conversion, but in essense it's just a direct swap to newer parts used in
+  the NG900/9-3 family from 1998 on. You can get a conversion kit from online
+  suppliers like <a href="http://www.genuinesaab.com">genuinesaab.com</a>,
+  order the necessary parts from your Saab dealer, or just dig them up
+  at the nearest scrap yard.</p>
+
+  <p>You need a clutch pedal with a master cylinder, a clutch line to the
+  gearbox, a brake fluid feed hose to the brake reservoir, and finally
+  a slave cylinder that goes into the transmission replacing the old
+  throwout bearing. The latter part requires a transmission removal,
+  which is described in
+  <a href="#/content/saab/20060121-saab-ng900-manual-transmission-removal">this section</a>.</p>
+
+  <p>In my case, the parts came from a scrap yard, taken off a 1999 Saab 9-3.
+  The slave cylinder installation is not covered here, since I was replacing
+  the entire transmission, but it's fairly straightforward, and the slave
+  bleeding procedure is described in the
+  <a href="#/content/saab/20060211-saab-ng900-manual-transmission-installation">transmission installation section</a>.
+  After everything is installed, the new clutch system needs to be
+  flushed using a pressure bleeder.</p>
+  
+  <h2>Tools:</h2>
+  <ul>
+    <li>13 mm socket: cluth pedal nuts;</li>
+    <li>13 mm wrench: upper nut on the clutch pedal;</li>
+    <li>10 mm socket: lower dash cover, fuse box, coolant tank;</li>
+    <li>Torx T25 screwdriver: lower dash cover, fuse panel;</li>
+    <li>metal cutting tool: e.g. a rotary tool with a flexible extention
+      or a 90 degrees attachment;</li>
+    <li>drill with a 3 mm and 9 mm metal drilling bits.</li>
+  </ul>
+  </description>
+
+  <picture name="20060122a0.Lower_dash.jpg" title="Lower dash" date="22.01.2006">
+    Remove the lower dash cover - half a dozen Torx T25 screws and one 10 mm
+    bolt.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a1.Fuses.jpg" title="Fuses" date="22.01.2006">
+    Three more T25 screws to remove the fuse panel.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a2.Clutch_pedal.jpg" title="Clutch pedal" date="22.01.2006">
+    Remove both lower and upper air vents to get a better access to the
+    clutch pedal. Unplug the pedal position sensor.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a3.Upper_bolt.jpg" title="Upper bolt" date="22.01.2006">
+    Slacken the upper nut on top of the clutch pedal: it's completely
+    hidden from view, and you need a short wrench to get it moving.
+    The nut to the right of it does not need to be unscrewed, but it might
+    help to remove the pedal.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a4.Fuse_box.jpg" title="Fuse box" date="22.01.2006">
+    Remove the plastic nut down below at the corner of the fuse box. Lift the
+    rubber strip along the firewall and unhook the other corner. Lift the
+    fuse box and move it aside as far as the wires allow.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a5.Clutch_cable.jpg" title="Clutch cable" date="22.01.2006">
+    Undo two nuts holding the clutch pedal to the firewall. Inside the car,
+    detach the clutch cable from the pedal, and remove the pedal completely.
+    From the outside, pull the cable out of the firewall.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a6.Cable_and_pedal.jpg" title="Cable and pedal" date="22.01.2006">
+    The clutch cable and old pedal on the floor.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a7.New_vs_old.jpg" title="New vs old" date="22.01.2006">
+    The old clutch pedal is just a lever on a mounting bracket.
+    The new one incorporates a hydraulic master cylinder.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a8.New_vs_old.jpg" title="New vs old" date="22.01.2006">
+    The master cylinder goes through the firewall in a location different
+    from the cable.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122a9.New_vs_old.jpg" title="New vs old" date="22.01.2006">
+    One of the mounting bolts for the new pedal is also in a different spot.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b0.Drilling_template.jpg" title="Drilling template" date="22.01.2006">
+    This is a drilling template from the Saab manual. The upper circle is
+    17 mm, while the lower is 35 mm. The mounting hole in the right is 9 mm.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b1.Two_templates.jpg" title="Two templates" date="22.01.2006">
+    I made a second copy of the template to get a clear picture of the
+    cut-out usage.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b2.Sticky_tape.jpg" title="Sticky tape" date="22.01.2006">
+    The round holes are to be combined into an oval. The double-sided sticky
+    tape will be used to attach the template to the firewall.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b3.Applied.jpg" title="Applied" date="22.01.2006">
+    Attach the template making sure it fits the existing holes. Mark the
+    outside shape and peel it off.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b4.Rubber_cut.jpg" title="Rubber cut" date="22.01.2006">
+    Cut and remove the rubber insulation on the firewall.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b5.Marking_a_hole.jpg" title="Marking a hole" date="22.01.2006">
+    Now that you've reached the metal, apply the template again and mark the oval
+    and the mounting hole.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b6.Cutter.jpg" title="Cutter" date="22.01.2006">
+    Get a suitable metal cutter. A sheet metal nipper, or a rotary tool with a flexible extention (or
+    a 90 degree adapter) should work fine. Eye protection is a must.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b7.Hole.jpg" title="Hole" date="22.01.2006">
+    Half a dozen cutting discs later, and the oval is finished. The mounting
+    hole in the right is easy -- just start it with a thin drill bit
+    (e.g. 3 mm), and then do a second pass with a 9 mm.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b8.Primed.jpg" title="Primed" date="22.01.2006">
+    Sand and prime the cut-out to protect it from rust. Do the same
+    on the outer side of the firewall.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122b9.Painted.jpg" title="Painted" date="22.01.2006">
+    Paint the surface. One of the old mounting holes is not needed anymore,
+    plug it with a short bolt and tighten the nut on the other side. Plug
+    the old cable hole too.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c0.New_pedal.jpg" title="New pedal" date="22.01.2006">
+    When fitting the new pedal, place a 2 mm washer under the bolt that goes
+    into the newly drilled mounting hole. Fit the upper mounting bracket
+    and tighten the nuts.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c1.Master_cylinder.jpg" title="Master cylinder" date="22.01.2006">
+    Tighten the nuts on the outside of the firewall.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c2.Brake_reservoir.jpg" title="Brake reservoir" date="22.01.2006">
+    Cut the end of the downward pointing nipple on the brake reservoir,
+    about 3 mm should be enough. Catch the brake fluid that will leak out.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c4.Hose.jpg" title="Hose" date="22.01.2006">
+    Attach a hose to the nipple and clamp it tight.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c5.Hose.jpg" title="Hose" date="22.01.2006">
+    Attach the other end of the hose to the upper socket on the
+    master cylinder. Clamp it as well.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c6.Sensor.jpg" title="Sensor" date="22.01.2006">
+    Fit the air vents and attach the clutch pedal position sensor.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c7.Fuses.jpg" title="Fuses" date="22.01.2006">
+    Install the fuse panel.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c8.Lower_dash.jpg" title="Lower dash" date="22.01.2006">
+    Put the lower dash cover back on. It's amusing how much the new
+    pedal stands out.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122c9.Coolant_tank.jpg" title="Coolant tank" date="22.01.2006">
+    Remove the nut holding the coolant expansion tank. Lift the tank.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122d0.Hole.jpg" title="Hole" date="22.01.2006">
+    Drill a hole on the edge of the side member for a clamp that will hold the
+    clutch line.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122d1.Clutch_line.jpg" title="Clutch line" date="22.01.2006">
+    A new clutch line. The rubber section is there to accomodate the engine
+    movement. The 90 degree bend on the right is where the line will be clamped.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122d2.Clamp.jpg" title="Clamp" date="22.01.2006">
+    Route the clutch line between the fender and the ABS unit bracket
+    and secure it with a clamp.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122d3.Master.jpg" title="Master" date="22.01.2006">
+    Plug the end of the clutch line into the master cylinder and insert
+    the locking clip.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060122d4.Clutch_line.jpg" title="Clutch line" date="22.01.2006">
+    The other end of the clutch line will be attached to the slave cylinder
+    once the transmission is installed.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

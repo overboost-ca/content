@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Seat Heater Switch Bulbs">
+
+  <description>
+  Seat heater switch bulb replacement on a 1999 Saab 9-5. With several dozen
+  bulbs illuminating dashboard switches and instruments, it's inevitable that
+  some will burn off and require a replacement. On my car, they go at a rate
+  of 2-3 per year, and with new bulbs priced up to $15 at the dealer, I
+  had to find a more cost-effective alternative. 
+  </description>
+
+  <picture name="20060315a.Seat_heater_switch.jpg" title="Seat heater switch" date="15.03.2006">
+    This guide shows how to replace the seat heater switch bulbs, but many
+    others can be fixed in a similar fashion.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315b.Blank.jpg" title="Blank" date="15.03.2006">
+    Pop the blank knob next to the switch. If your car has ventilated seats,
+    there would be no blank, and you'll have to figure out another way to pry
+    the switch out.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315c.Pushed_out.jpg" title="Pushed out" date="15.03.2006">
+    Push the switch out from behind and disconnect it from the harness.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315d.Unplugged.jpg" title="Unplugged" date="15.03.2006">
+    Don't worry about mixing the harnesses up, they are all in different colors.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315e.Switch.jpg" title="Switch" date="15.03.2006">
+    Locate a small white cover on the side of the switch.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315f.Cover.jpg" title="Cover" date="15.03.2006">
+    Open it, and you will see two bulbs inside.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315g.Thumbwheel_bulb.jpg" title="Thumbwheel bulb" date="15.03.2006">
+    Use a flat screwdriver to take out the thumbwheel bulb.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315h.Panel_bulb.jpg" title="Panel bulb" date="15.03.2006">
+    The bulb that lights up the panel is accessible from the other side.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315i.New_bulbs.jpg" title="New bulbs" date="15.03.2006">
+    New bulbs are $10-15 each at the Saab dealer. I've found these 12V lamps at
+    Radio Shack for $3/pair.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315j.Leads_unbent.jpg" title="Leads unbent" date="15.03.2006">
+    Straighten the leads. On older bulbs they are soldered to contact studs.
+    If that's the case, cut the wire and discard the studs.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315k.Bulb_out.jpg" title="Bulb out" date="15.03.2006">
+    Remove the bulb from the plastic socket.
+    
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20060315l.Cap_off.jpg" title="Cap off" date="15.03.2006">
+    Take off the transparent green cap.
+    
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20060315m.New_bulb.jpg" title="New bulb" date="15.03.2006">
+    Put the cap on the new bulb.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315n.Back_into_socket.jpg" title="Back into socket" date="15.03.2006">
+    Insert the bulb into the socket.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315o.Wire_loop.jpg" title="Wire loop" date="15.03.2006">
+    On the old style socket, pull the wire through a hole in the socket...
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315p.Old_style.jpg" title="Old style" date="15.03.2006">
+    ...make a loop and bend it to form a contact patch.
+    
+    <image width="800" height="597" />
+  </picture>
+  <picture name="20060315q.Bent_wire.jpg" title="Bent wire" date="15.03.2006">
+    Newer sockets have a groove for the wires.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315r.New_style.jpg" title="New style" date="15.03.2006">
+    It makes for a better fit.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060315s.Testing.jpg" title="Testing" date="15.03.2006">
+    Install the switch and see now nicely it lights up ;).
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

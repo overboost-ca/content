@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Manual Transmission Installation">
+
+  <description>
+  <p>Manual transmission installation on a 1996 Saab 900 (applies to all 1994-1998
+  900 and 1999-2002 9-3). The goal was to install a new clutch and replace
+  the transmission with a newer, stronger unit. This article covers
+  gearbox installation only, for removal refer to
+  <a href="#/content/saab/20060121-saab-ng900-manual-transmission-removal">this section</a>.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>24 mm socket: transmission fill plug (9-3);</li>
+    <li>22 mm crowfoot wrench: O2 sensors;</li>
+    <li>19 mm socket: flywheel bolts;</li>
+    <li>18 mm socket: transmission, subframe bolts;</li>
+    <li>18 mm wrench: ball joint nuts;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>16 mm socket: subframe bolts, engine mounts;</li>
+    <li>15 mm socket: transmission mount bolts, control arms (optional);</li>
+    <li>13 mm socket: exhaust, downpipe, shift linkage, battery;</li>
+    <li>13 mm wrench: delivery pipe bolt;</li>
+    <li>12 mm socket: pressure plate bolts;</li>
+    <li>11 mm socket: flywheel cover bolts, subframe brace nuts;</li>
+    <li>10 mm socket: battery base bolts;</li>
+    <li>9 mm wrench: battery terminals (13 mm on 9-3);</li>
+    <li>8 mm Allen socket: transmission drain plug;</li>
+    <li>8 mm hex screwdriver: lower shield screws;</li>
+    <li>7 mm hex screwdriver: delivery pipe hose clamps (or a flat screwdriver);</li>
+    <li>3 mm L-shaped Allen key: transmission lock;</li>
+    <li>engine support beam or engine crane;</li>
+    <li>car jacks and axle stands;</li>
+    <li>pressure bleeder and fresh brake fluid;</li>
+    <li>hand pump and a 40..50 cm long piece of clear tubing (if slave bleeding is needed);</li>
+    <li>fresh gearbox oil;</li>
+    <li>breaker bar.</li>
+  </ul>
+  </description>
+
+  <picture name="20060211a0.Transmission.jpg" title="Transmission" date="11.02.2006">
+    The replacement transmission came from a 1999 9-3. It's an FM55 505 model,
+    while the original gearbox on the car was FM55 501.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a1.Left_side.jpg" title="Left side" date="11.02.2006">
+    The new gearbox came from a scrap yard, so it's a good idea to replace
+    both differential seals.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a3.Seals.jpg" title="Seals" date="11.02.2006">
+    Pry the new seal out using a big screwdriver or a chisel. It's not
+    necessary to remove the entire cover, but I find it easier than doing
+    it right on the gearbox.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a4.Cover_in.jpg" title="Cover in" date="11.02.2006">
+    Carefully push the new seal in, use a rubber mallet if needed. Install
+    the cover back on and tighten the bolts to 16 ft-lbs with a Torx T40 socket.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a5.Right_side.jpg" title="Right side" date="11.02.2006">
+    Do the same on the right side of the differential.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a6.Seals.jpg" title="Seals" date="11.02.2006">
+    The bag shows a GM part number (useful if your dealer uses those, like
+    they do in Canada). The Saab part is #8749046.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211b0.Rear_mount.jpg" title="Rear mount" date="11.02.2006">
+    Attach the rear engine mount (30 ft-lbs, 16 mm socket). For a
+    later transmission model, the mount bracket might be different -- check the
+    compatibility if you're upgrading to a newer gearbox.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211b1.Pipe.jpg" title="Pipe" date="11.02.2006">
+    Time to bleed the slave cylinder. Push the throwout bearing in slowly to
+    compress the piston inside it. When you let go, the bearing will spring
+    back out, but the piston will remain compressed.
+    
+    <image width="600" height="800" />
+  </picture>
+  <picture name="20060211b2.Brake_fluid.jpg" title="Brake fluid" date="11.02.2006">
+    Attach a 40..50 cm piece of clear tubing to nipple on top of the slave
+    cylinder. Fill the tube with brake fluid to 3/4 of its height.
+    
+    <image width="600" height="800" />
+  </picture>
+  <picture name="20060211b3.Pressure.jpg" title="Pressure" date="11.02.2006">
+    Pump some air into the tube. The slave cylinder will expand, and you will
+    see the fluid level dropping. When the cylinder maxes out, the fluid will
+    stop and the pressure will go up. Release the pressure and compress
+    the slave again. You might see small air bubbles coming out.
+    
+    <image width="600" height="800" />
+  </picture>
+  <picture name="20060211b4.Bleeding_finished.jpg" title="Bleeding finished" date="11.02.2006">
+    Repeat the process several times, add more brake fluid if necessary. When
+    you don't see the bubbles anymore, detach the hose (careful not to
+    spill the fluid all over) and plug the nipple.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211b5.Ready.jpg" title="Ready" date="11.02.2006">
+    Lock the transmission in third gear. Make sure you can undo the fill and
+    drain plugs (but keep them in). Lubricate the shaft splines.
+    The gearbox is ready for installation.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a8.New_clutch.jpg" title="New clutch" date="11.02.2006">
+    I am installing a Viggen pressure plate with a SPEC stage2 kevlar clutch
+    plate. The clutch conveniently comes with an alignment tool.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a7.Flywheel.jpg" title="Flywheel" date="11.02.2006">
+    Inspect the flywheel. If it's visibly scratched or scored, or has cracks
+    on the surface, you need to take it to a machine shop for resurfacing.
+    Torque the bolts to 59 ft-lbs.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211a9.Alignment_tool.jpg" title="Alignment tool" date="11.02.2006">
+    Install the clutch with the pressure plate and put the bolts in hand-tight.
+    Insert the alignment tool and make sure the clutch plate it perfectly
+    centered. Tighten the bolts alternately to 16 ft-lbs (12 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211b6.Jacks.jpg" title="Jacks" date="11.02.2006">
+    <p>A specialized transmission jack or a shop crane is preferred, but a pair of
+    regular hydraulic jacks will do the job. Make sure the transmission is
+    balanced, roll it under the car and raise to the engine level.</p>
+
+    <p>P.S. Having done this a few times since, the easiest way is to screw
+    a couple of guide pins into the mounting bolt holes, then simply
+    bench press the gearbox onto them. It's not THAT heavy.</p>
+
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211b7.Left_side.jpg" title="Left side" date="11.02.2006">
+    <p>Push the transmission in. Remember that you have to match the splines on
+    the clutch plate and the intermediate shaft in the same time. If necessary,
+    turn the flywheel and/or the driveshaft on the right side. Get a helper for that,
+    it saves a lot of time.</p>
+    
+    <p>The picture shows the brake line disconnected, it was a part of
+    <a href="#/content/saab/20060213-saab-ng900-stainless-brake-lines">another job</a>.</p>
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211b8.Fitted.jpg" title="Fitted" date="11.02.2006">
+    The transmission should be perfectly level with the engine in order to go
+    in. Again, a lower control arm bolt works well as a guiding pin. Once you
+    close the gap and the intermediate shaft snaps in on the other side,
+    replace the front bolt with a proper one and tighten it.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211b9.Upper_bolts.jpg" title="Upper bolts" date="11.02.2006">
+    The three upper bolts are easily accessible from the wheel well, just use a
+    longer extention. Don't forget the fifth bolt in the rear. The torque for
+    these is 50 ft-lbs (18 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c0.Clutch_line.jpg" title="Clutch line" date="11.02.2006">
+    Remove the cap from the slave cylinder nipple and attach the clutch line.
+    If you have a cable clutch, attach the cable.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c1.Clutch_line.jpg" title="Clutch line" date="11.02.2006">
+    Insert a locking clip to secure the clutch line. The nipple in front will
+    be used to bleed the clutch once the job is done.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c2.Bracket.jpg" title="Bracket" date="11.02.2006">
+    Attach the bracket for the transmission mount, as well as the mount
+    itself (30 ft-lbs, 16 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c3.Support_beam.jpg" title="Support beam" date="11.02.2006">
+    Raise the engine until the transmission mount fits its position on the
+    side member.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c4.Mount.jpg" title="Mount" date="11.02.2006">
+    Tighten the transmission mount bolts to 46 ft-lbs (15 mm socket). Attach
+    the ground wires to the mount bracket, and to the side of the gearbox
+    (17 mm and 13 mm sockets).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c5.Driveshaft.jpg" title="Driveshaft" date="11.02.2006">
+    Insert the driveshaft until the snap ring clicks. Plug in the reverse gear
+    sensor wire.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c6.Flywheel_cover.jpg" title="Flywheel cover" date="11.02.2006">
+    Install the flywheel cover (two 11 mm bolts).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c8.Linkage.jpg" title="Linkage" date="11.02.2006">
+    Attach the linkage to the gearshift rod on the transmission (13 mm bolt),
+    connect the arm to the ball pin and insert the shifter rod into its housing.
+    After the entire installation is finished, the shifter needs to be
+    <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">aligned</a>.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211c9.Subframe.jpg" title="Subframe" date="11.02.2006">
+    Position the subframe for installation.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d0.Front_bolts.jpg" title="Front bolts" date="11.02.2006">
+    First, raise the front end and screw the bolts in hand-tight.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d1.Washers.jpg" title="Washers" date="11.02.2006">
+    Place the washers on the stanchion arm attachment points.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d2.Rear_end.jpg" title="Rear end" date="11.02.2006">
+    Jack up the rear end, insert the remaining bolts and align the subframe
+    so it matches the position it was in before the removal. Connect the
+    ball joints and tighten to 55 ft-lbs (18 mm wrench).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d3.Subframe_bolts.jpg" title="Subframe bolts" date="11.02.2006">
+    Tighten the four corner bolts using a 16 mm socket: front to 85 ft-lbs
+    and rear to 78 ft-lbs + 90 degrees. Tighten the middle bolts to
+    141 ft-lbs (18 mm socket). If you had to remove the control arms, they
+    need a 15 mm socket at 85 ft-lbs.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d4.Rear_mount.jpg" title="Rear mount" date="11.02.2006">
+    Tighten the nuts on the rear engine mount to 37 ft-lbs (16/17 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d5.Beam_removed.jpg" title="Beam removed" date="11.02.2006">
+    Remove the engine support beam.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d6.Downpipe.jpg" title="Downpipe" date="11.02.2006">
+    Attach the downpipe to the turbo (three 13 mm nuts at 18.5 ft-lbs).
+    Install the front O2 sensor (22 mm crowfoot wrench, 41 ft-lbs).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d7.Exhaust.jpg" title="Exhaust" date="11.02.2006">
+    Install the rear O2 sensor (22 mm crowfoot wrench, 41 ft-lbs). Seal the
+    joint to the flexpipe and tighten the clamp to 15 ft-lbs (13 mm socket).
+    Install the subframe brace if equipped.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d8.Delivery_pipe.jpg" title="Delivery pipe" date="11.02.2006">
+    Install the delivery pipe and tighten the hose clamps. Attach the hoses
+    to the bypass valve. Bleed the clutch, shift the transmission to fourth
+    gear and
+    <a href="#/content/saab/20050325-saab-ng900-shifter-alignment">align</a>
+    the shifter linkage.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060211d9.Gearbox_oil.jpg" title="Gearbox oil" date="11.02.2006">
+    Fill the gearbox with oil (flush twice if switching to synthetic).
+    Install the battery. Attach the lower shields. Fit the wheels (81 ft-lbs)
+    and lower the car to the ground.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

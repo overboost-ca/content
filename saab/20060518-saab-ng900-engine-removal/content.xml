@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Engine Removal">
+
+  <description>
+  <p>Engine removal on a 1995 Saab 900 SE turbo.</p>
+
+  <p>This job was performed as a part of a car rebuild, so you see more parts
+  taken off the car than it's usually required to pull just the engine.
+  It also makes it easier to access everything and see where things are
+  (which is good for a photoshoot).</p>
+
+  <p>Before the engine can be removed from the car, it has to be freed
+  from all the wires and hoses connecting it to other components inside the
+  engine compartment. This section covers most of those, although you need
+  to use your common sense and mind any design differences applicable to
+  your model. It might not cover trivial procedures like belts or hoses,
+  it's assumed that if you're taking on the engine, you have
+  sufficient mechanical knowledge about the car.</p>
+
+  <p>Once everything is disconnected, the engine is ready for removal.
+  There are multiple options for engine extraction, which mostly depend on the
+  equipment available to you:</p>
+
+  <ol>
+    <li>If you have a lift and a support table, you can raise the car,
+      roll the table under the subframe, unbolt the subframe and side
+      engine mounts, and lower the whole engine and transmission assembly
+      resting on the subframe onto the table without taking it apart.</li>
+    <li>If you have a lift and a crane, you can suspend the engine with the
+      support beam, raise the car, unbolt and drop the subframe, and then
+      use the crane to lower the engine and transmission to the floor.</li>
+    <li>And finally, if you're doing it on jack stands, the only way is
+      to remove the engine is through the top. You can attempt it without
+      removing the transmission, but the space is rather tight, and unbolting
+      the transmission is easy, so lifting the engine separately sounds
+      like a better approach.</li>
+  </ol>
+  
+  <p>I was doing this job in my own garage at home, so I'll be describing the
+  procedure #3. For subframe and gearbox removal refer to
+  <a href="#/content/saab/20060121-saab-ng900-manual-transmission-removal">this guide</a>.</p>
+  
+  <h2>Tools:</h2>
+  <ul>
+    <li>22 mm wrench: oil cooler lines;</li>
+    <li>19 mm socket: flywheel;</li>
+    <li>19 mm wrench: brake booster hose;</li>
+    <li>16 mm socket: A/C compressor;</li>
+    <li>15 mm socket: passenger side engine mount;</li>
+    <li>13 mm socket: oil drain plug;</li>
+    <li>13 mm wrench: steering pump bolts, radiator drain plug;</li>
+    <li>12 mm socket: pressure plate;</li>
+    <li>10 mm socket: cruise control unit;</li>
+    <li>8 mm socket: MAP sensor;</li>
+    <li>7 mm socket: hose clamps;</li>
+    <li>Torx T25 screwdriver: BPC;</li>
+    <li>long 1/2" extension: belt tensioner release;</li>
+    <li>engine support beam;</li>
+    <li>shop crane;</li>
+    <li>car jacks and axle stands;</li>
+    <li>8 mm (5/16") fuel line disconnect tool;</li>
+    <li>needle nose pliers (curved nose preferred).</li>
+  </ul>
+  </description>
+
+  <picture name="20060515a.Engine_support.jpg" title="Engine support" date="15.05.2006">
+    The car is on jack stands. The subframe and gearbox are already
+    <a href="#/content/saab/20060121-saab-ng900-manual-transmission-removal">removed</a>,
+    and the engine is hanging on the support beam.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060509a.MAP.jpg" title="MAP" date="09.05.2006">
+    Unplug the connector and the vacuum hose from the manifold absolute
+    pressure sensor. Alternatively, you can unbolt the sensor. I just removed
+    it with the strut bar to free up some room.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060512a.Airbox.jpg" title="Airbox" date="12.05.2006">
+    Remove the airbox and the rubber part of the turbo inlet hose.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060512b.Belt.jpg" title="Belt" date="12.05.2006">
+    Insert a long 1/2" extention into the tensioner socket and
+    release the belt. Lock it with a 2 mm Allen key or a nail. Remove the belt.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060512c.Steering_pump.jpg" title="Steering pump" date="12.05.2006">
+    Undo three bolts holding the steering pump to the engine (13 mm wrench).
+    Bend the hoses and move the pump out of the way.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060512d.BPC.jpg" title="BPC" date="12.05.2006">
+    Unscrew the boost pressure control valve (Torx T25) and detach its cable
+    from the fender. Put the valve and the cable on the engine.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519b.Cruise_control_unit.jpg" title="Cruise control unit" date="19.05.2006">
+    Unplug the cruise control unit connector. Detach the control unit (two
+    plastic 10 mm nuts), lift it and move it aside.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060518a.Fuel_tank_vent_line.jpg" title="Fuel tank vent line" date="18.05.2006">
+    Release the clamp and detach the fuel tank vent hose from the back of the
+    throttle body.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060518b.Fuel_lines.jpg" title="Fuel lines" date="18.05.2006">
+    The rubber fuel lines are attached to the fuel rail via a special locking
+    joint. The release mechanism is covered by a rubber plug.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060518c.Fuel_line_cap.jpg" title="Fuel line cap" date="18.05.2006">
+    Use curved needle nose pliers to pull the rubber plug out of the joint
+    and move it up the pipe so it doesn't get in the way.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060518d.Disconnect_tool.jpg" title="Disconnect tool" date="18.05.2006">
+    Get a 8 mm (5/16") fuel disconnect tool (it looks like a hollow plastic
+    cone with a rim) and put it on the line. Push it down the joint until you
+    hear a click.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060518e.Disconnected.jpg" title="Disconnected" date="18.05.2006">
+    Wiggle the hose while pushing the disconnect tool in, and the joint will
+    come apart. There might be some fuel left in the lines so have a catch
+    can ready. Repeat with the second line, plug the hoses.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519a.Throttle_cables.jpg" title="Throttle cables" date="19.05.2006">
+    Detach the accelerator cable from the throttle body. Detach the cruise
+    control cable.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520a.Brake_booster_hose.jpg" title="Brake booster hose" date="20.05.2006">
+    Unbolt the brake booster hose from the intake manifold.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519c.Clutch.jpg" title="Clutch" date="19.05.2006">
+    If you need the access to the flywheel or the main seal, remove the pressure
+    plate now (12 mm socket). Most engine stands bolt to the gearbox mouting
+    holes, and there will be little room to reach the clutch.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519d.Flywheel.jpg" title="Flywheel" date="19.05.2006">
+    The flywheel is held by eight big 19 mm bolts. In order to get them off, you
+    need to attach a flywheel stop or otherwise ensure that the crankshaft
+    won't move.
+    
+    <image width="800" height="599" />
+  </picture>
+  <picture name="20060519e.Coolant.jpg" title="Coolant" date="19.05.2006">
+    Unscrew the radiator drain plug (13 mm wrench) and drain the coolant.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519f.Coolant_hoses.jpg" title="Coolant hoses" date="19.05.2006">
+    Detach coolant hoses from the driver's side of the engine (flat screwdriver
+    or 7 mm socket). More coolant will come out of the heater core hoses,
+    so have a pan ready.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519g.Lower_hose.jpg" title="Lower hose" date="19.05.2006">
+    Remove the lower radiator hose from the passenger side of the engine. If
+    you unhook the lower part of the hose, be ready for more coolant spills.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519l.Turbo.jpg" title="Turbo" date="19.05.2006">
+    Remove the intercooler hose from the compressor outlet on the turbo.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519h.Oil.jpg" title="Oil" date="19.05.2006">
+    Drain engine oil (13 mm socket). Don't pour it down the drain, bring it
+    to the nearby recycling facility (around here, Canadian Tire collects
+    used oil free of charge).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519i.Oil_cooler_lines.jpg" title="Oil cooler lines" date="19.05.2006">
+    Unbolt the oil cooler lines from the oil filter housing (22 mm wrench).
+    Some oil will drain from those. Undo the lower A/C compressor bolt (16 mm).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519j.AC_compressor.jpg" title="A/C compressor" date="19.05.2006">
+    Unbolt the two upper A/C compressor bolts. Unplug the compressor clutch
+    control wire from the connector on the radiator.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060519k.AC_compressor.jpg" title="A/C compressor" date="19.05.2006">
+    Lower the compressor (it's quite heavy) and hang it off the towing hook.
+    Be careful not to bend the lines too much.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520c.ECU_harness.jpg" title="ECU harness" date="20.05.2006">
+    Inside the car, remove the glovebox and locate the wire cluster coming
+    from the engine. One half goes to the ECU, while another feeds the data
+    to the dashboard. Unplug both.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520e.ECU_harness.jpg" title="ECU harness" date="20.05.2006">
+    Pull the rubber gromet in the firewall and carefully retrieve the ECU
+    harness through the opening. Put it on the engine.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520f.EVAP_valve.jpg" title="EVAP valve" date="20.05.2006">
+    Unplug the connector from the EVAP valve.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520d.Positive_cable.jpg" title="Positive cable" date="20.05.2006">
+    Detach the positive battery cable from the fuse box (10 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520b.Axle.jpg" title="Axle" date="20.05.2006">
+    Remove the passenger side axle by tapping it gently from behind, until
+    it comes off the shaft.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520g.Crane.jpg" title="Crane" date="20.05.2006">
+    Bring the crane and lift the engine slightly so it takes the weight
+    off the support beam and the remaining engine mount.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520h.Engine_mount.jpg" title="Engine mount" date="20.05.2006">
+    Unbolt the passenger side engine mount (15 mm socket). Be careful as the engine
+    might shift suddenly when you remove the last bolt.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520i.Beam_removed.jpg" title="Beam removed" date="20.05.2006">
+    With the crane holding the engine, you don't need the support beam anymore.
+    Remove the beam (in my case the lifting hook got stuck in the chain, so
+    we just left it there).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520j.Engine_out.jpg" title="Engine out" date="20.05.2006">
+    Lift the engine out of the car. Watch closely while lifting it, to
+    ensure you won't break anything.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520k.Plate_attached.jpg" title="Plate attached" date="20.05.2006">
+    Attach the lifting plate from the engine stand (if you're planning to put
+    the engine on the stand). Some of the bolt holes required unusually long
+    bolts, the ones that came with my stand were too short.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520l.Engine_stand.jpg" title="Engine stand" date="20.05.2006">
+    Lower the engine and secure it on the stand. I had a friend helping out
+    with the engine removal. It's always a good idea to have a second
+    pair of hands while doing serious work like this.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060520m.On_the_stand.jpg" title="On the stand" date="20.05.2006">
+    Engine out. Job done.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

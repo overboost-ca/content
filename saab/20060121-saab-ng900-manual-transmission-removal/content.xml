@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Manual Transmission Removal">
+
+  <description>
+  <p>Manual transmission removal on a 1996 Saab 900 (applies to all 1994-1998
+  900 and 1999-2002 9-3). The goal was to install a new clutch and replace
+  the transmission with a newer, stronger unit. This article covers
+  gearbox removal only, for installation refer to
+  <a href="#/content/saab/20060211-saab-ng900-manual-transmission-installation">this section</a>.</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>22 mm crowfoot wrench: O2 sensors;</li>
+    <li>19 mm socket: flywheel bolts;</li>
+    <li>18 mm socket: transmission, subframe bolts;</li>
+    <li>18 mm wrench: ball joint nuts;</li>
+    <li>17 mm socket: wheel bolts;</li>
+    <li>16 mm socket: subframe bolts, engine mounts;</li>
+    <li>15 mm socket: transmission mount bolts, control arms (optional);</li>
+    <li>13 mm socket: exhaust, downpipe, shift linkage, battery;</li>
+    <li>13 mm wrench: delivery pipe bolt;</li>
+    <li>12 mm socket: pressure plate bolts;</li>
+    <li>11 mm socket: flywheel cover bolts, subframe brace nuts;</li>
+    <li>10 mm socket: battery base bolts;</li>
+    <li>9 mm wrench: battery terminals (13 mm on 9-3);</li>
+    <li>8 mm Allen socket: transmission drain plug;</li>
+    <li>8 mm hex screwdriver: lower shield screws;</li>
+    <li>7 mm hex screwdriver: delivery pipe hose clamps (or a flat screwdriver);</li>
+    <li>3 mm L-shaped Allen key: transmission lock;</li>
+    <li>engine support beam or engine crane;</li>
+    <li>car jacks and axle stands;</li>
+    <li>breaker bar.</li>
+  </ul>
+  </description>
+
+  <picture name="20060121a0.Battery.jpg" title="Battery" date="21.01.2006">
+    Disconnect both cables from the battery (negative first!). Unscrew the
+    13 mm bolt at the battery base.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a1.Battery_base.jpg" title="Battery base" date="21.01.2006">
+    Lift the battery and store it in a safe place. Unbolt the battery
+    mounting plate (two 10 mm bolts) and remove it from the car.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a2.Delivery_pipe.jpg" title="Delivery pipe" date="21.01.2006">
+    Release the hose clamp on the lower end of the delivery pipe.
+    Unhook the vacuum line from the bypass valve (as well as the return
+    hose if you have it).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a3.Delivery_pipe.jpg" title="Delivery pipe" date="21.01.2006">
+    Remove the hose clamp from the throttle body side of the delivery
+    pipe. Unbolt the pipe from the engine (13 mm wrench).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a4.Delivery_pipe.jpg" title="Delivery pipe" date="21.01.2006">
+    Remove the delivery pipe from the car. Plug the intercooler hose and
+    throttle body inlet to keep the dirt away.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a5.Fourth_gear.jpg" title="Fourth gear" date="21.01.2006">
+    Move the shifter into fourth gear.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a6.Transmission_lock.jpg" title="Transmission lock" date="21.01.2006">
+    Remove the plastic plug on top of the transmission and insert a thin
+    L-shaped Allen key to lock it in gear.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a7.Linkage.jpg" title="Linkage" date="21.01.2006">
+    Use a 13 mm socket with a long extension to loosen the nut on the
+    shifter linkage. And yes, this is genuine Canadian snow.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121a9.Third_gear.jpg" title="Third gear" date="21.01.2006">
+    Move the shifter into third gear position to separate the shifting rod
+    from the linkage.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b0.Cable.jpg" title="Cable" date="21.01.2006">
+    If you have a cable clutch, unhook the cable from the lever on top of the
+    transmission. If it is hydraulic, pull the clip to detach the clutch line
+    from its nipple and quickly plug it to minimize fluid loss.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b1.Cable.jpg" title="Cable" date="21.01.2006">
+    Pull the cable from its seat on the other end of the transmission.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b2.Reverse_switch.jpg" title="Reverse switch" date="21.01.2006">
+    Unplug the reverse gear switch.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b3.Wheels.jpg" title="Wheels" date="21.01.2006">
+    Loosen wheel nuts (17 mm wrench).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b4.In_the_air.jpg" title="In the air" date="21.01.2006">
+    Raise the front of the car, remove the wheels, take off the plastic shields
+    under the bumper.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b5.Brace.jpg" title="Brace" date="21.01.2006">
+    Remove the subframe brace if equipped (11 mm socket for MP Performance
+    version).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b6.Exhaust_joint.jpg" title="Exhaust joint" date="21.01.2006">
+    Unscrew the rear O2 sensor (22 mm crowfoot socket), remove the clamp
+    from the exhaust pipe (13 mm socket). Unbolt the two rear engine mount
+    nuts sitting in the round holes in the subframe (16/17 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b7.Downpipe.jpg" title="Downpipe" date="21.01.2006">
+    Unbolt the front O2 sensor (22 mm crowfoot) and detach the downpipe
+    from the turbo (three 13 mm nuts).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b8.Downpipe.jpg" title="Downpipe" date="21.01.2006">
+    Unhook the rubber hangers and remove the downpipe from the car.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121b9.Linkage.jpg" title="Linkage" date="21.01.2006">
+    Unbolt the linkage from the shifter rod on the transmission (13 mm socket).
+
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c0.Linkage.jpg" title="Linkage" date="21.01.2006">
+    Detach the linkage support arm from the ball pin on the differential
+    housing (or pull it from the eye on the mount if you have an old-style
+    linkage).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c1.Linkage.jpg" title="Linkage" date="21.01.2006">
+    Remove the gearshift linkage from the car.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c2.Engine_support.jpg" title="Engine support" date="21.01.2006">
+    Unbolt the rear engine mount from the subframe, install an engine support beam on the fenders, attach it to the lifting
+    hook on the head and pull up slightly to ensure it takes the weight
+    of the engine.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c3.Subframe_bolts.jpg" title="Subframe bolts" date="21.01.2006">
+    Start removing the subframe bolts. The rear bolts holding the stanchion
+    arms take a 16 mm socket, the middle ones are 18 mm.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c4.Subframe_bolts.jpg" title="Subframe bolts" date="21.01.2006">
+    The bolts in front have a 16 mm head as well. With all bols removed,
+    the subframe will be hanging on just the ball joints.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c5.Ball_joint.jpg" title="Ball joint" date="21.01.2006">
+    You can usually separate the ball joints by unscrewing the nut a bit, and
+    hitting the knuckle with a heavy hammer (the weight of the subframe helps
+    to release the ball joints).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c6.Jack.jpg" title="Jack" date="21.01.2006">
+    If the ball joints cannot be defeated, unbolt the control arms from
+    the subframe. Jack it up so it doesn't drop to the ground right away.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c7.Subframe.jpg" title="Subframe" date="21.01.2006">
+    Lower the subframe to the ground and drag it away. In my case, I succeeded
+    in separating one ball joint, and unbolted the control arm on the other
+    side.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c8.Subframe_bolts.jpg" title="Subframe bolts" date="21.01.2006">
+    The subframe bolts left to right: rear, middle, front. Don't lose the
+    washers that go between the subframe and the body above the stanchion arms.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121c9.Transmission_oil.jpg" title="Transmission oil" date="21.01.2006">
+    With the subframe out of the way, it's now easy to remove tha drain plug
+    (8 mm Allen socket) and drain the transmission oil.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d0.Driveshaft.jpg" title="Driveshaft" date="21.01.2006">
+    Prop a wide flat chisel against the differential housing and push on the
+    other end to pop the driveshaft. It should slide right out.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d1.Driveshaft.jpg" title="Driveshaft" date="21.01.2006">
+    Suspend the driveshaft (or remove it completely if you unbolted the axle
+    nut).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d2.Flywheel_cover.jpg" title="Flywheel cover" date="21.01.2006">
+    Unbolt the flywheel cover at the bottom of the transmission
+    (two 11 mm bolts).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d3.Upper_bolts.jpg" title="Upper bolts" date="21.01.2006">
+    Remove the three upper bolts attaching the transmission to the engine
+    (18 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d4.Transmission_mount.jpg" title="Transmission mount" date="21.01.2006">
+    Detach the small wire on the side of the transmission (13 mm socket).
+    Unbolt the transmission mount from the body (two 15 mm bolts), lower
+    the engine slightly to free up the mount.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d5.Mount_bracket.jpg" title="Mount bracket" date="21.01.2006">
+    Unhook the big ground wire from the transmission (17 mm socket). Unbolt
+    the bracket from the transmission (and the mount itself from the
+    bracket if it helps to remove it).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d6.Rear_bolt.jpg" title="Rear bolt" date="21.01.2006">
+    Remove the rear transmission bolt (18 mm socket).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d7.Lowering.jpg" title="Lowering" date="21.01.2006">
+    Lower the engine as much as needed to get a good access to the transmission.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121d8.Jacks.jpg" title="Jacks" date="21.01.2006">
+    If you don't have a specialized transmission jack, a couple of regular ones
+    will support it from below. Just make sure it's balanced right so it won't
+    slide sideways and fall to the ground when you detach it from the engine.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121e0.Front_bolt.jpg" title="Front bolt" date="21.01.2006">
+    Undo the last bolt holding the transmission. If you were lucky enough to
+    detach a control arm from the subframe, you can use its bolt as a guiding
+    pin in place of the shorter original bolt.
+    Gently pry the transmission away from the engine. 
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121e1.Transmission_down.jpg" title="Transmission down" date="21.01.2006">
+    The main shaft will slide right out, but the intermediate shaft might not
+    want to separate, so in the worst case you'll have to unbolt it from the
+    block under the alternator. Lower the transmission to the ground.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060624a.Crane.jpg" title="Crane" date="24.06.2006">
+    A shop crane makes transmission removal much easier. Older gearboxes
+    have one hole for a lifting eye, newer ones might have two.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121e2.Transmission.jpg" title="Transmission" date="21.01.2006">
+    Move the transmission away and unbolt the rear engine mount bracket if
+    you're planning to transfer it to a new gearbox.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121e3.Pressure_plate.jpg" title="Pressure plate" date="21.01.2006">
+    The flywheel will turn a bit, so you might need to came up with a way to
+    hold it in place while unbolting the pressure plate (six 12 mm bolts).
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121e4.Flywheel.jpg" title="Flywheel" date="21.01.2006">
+    If the flywheel is visibly scratched or scored, or has cracks in it, you
+    need to remove it from the engine and take to a machine shop for
+    resurfacing.
+    
+    <image width="800" height="600" />
+  </picture>
+  <picture name="20060121e5.Old_clutch.jpg" title="Old clutch" date="21.01.2006">
+    The poor clutch shows painful signs of trying to hold stage3 power.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>

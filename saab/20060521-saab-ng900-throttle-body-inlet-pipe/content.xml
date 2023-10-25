@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Throttle Body Inlet Pipe">
+
+  <description>
+  The throttle body inlet pipe porting on the 1994-98 Saab 900 and 1999 9-3.
+  The pipe is located on top of the engine, secured by two screws with a 10 mm
+  hex head.
+  </description>
+
+  <picture name="20060521a.Original.jpg" title="Original" date="21.05.2006">
+    The cast aluminium throttle body inlet pipe has a rather poorly designed
+    entry port at the point where it mates to the delivery pipe from the intercooler.
+    The ridge is rough and uneven with its thickness ranging from 3 to 6 mm,
+    which constitutes a noticeable restriction to the air flow.
+    
+    <image width="770" height="600" />
+  </picture>
+  <picture name="20060521b.Ported.jpg" title="Ported" date="21.05.2006">
+    Porting the pipe is a well-known and simple modification. The goal is
+    to smooth the ridge, thin down and polish the walls around the entry port,
+    providing a better transition from the delivery pipe. You can use a Dremel
+    or more traditional tools like a round file and sandpaper.
+    
+    <image width="800" height="600" />
+  </picture>
+</picture-set>
