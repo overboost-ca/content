@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-3/9-5: PCV Fix Kit">
+
+  <description>
+  <p>The crank case ventilation fix kit installation. The fix is applied according
+  to the Saab service bulletin 210-2417 from Oct'2003, and intended to
+  prevent potential oil leaks and decrease oil consumption. The kit is
+  supplied by Saab, part #5962428 (Canadian part #30593216).</p>
+
+  <p><b>UPDATE:</b> This fix has been discontinued by Saab as of 14.1.2005 after
+  they received numerous complaints about increased oil consumption. If you
+  have performed this modification, you need to return the car to the original
+  configuration (or at least move the small vent hose from the oil filler
+  pipe back to the nipple on the valve cover). A new kit is available from Saab.</p>
+  </description>
+
+  <picture name="20040919a.From_below.jpg" title="From below" date="19.09.2004">
+    A view from under the car through the front subframe opening. The generator
+    cable and the intake manifold stay get in the way, feel free to remove them.
+    Disconnect the negative cable on the battery before doing that.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919b.Oil_trap_bolts.jpg" title="Oil trap bolts" date="19.09.2004">
+    The oil trap comes next. All bolts here are 13 mm. Disconnect two upper
+    hoses and one lower hose before pulling the oil trap out.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919c.Oil_trap.jpg" title="Oil trap" date="19.09.2004">
+    Theoretically, you should pull the hoses out while the oil trap is still on
+    the car, but I've found it easier to do them afterwards.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919d.Small_hole.jpg" title="Small hole" date="19.09.2004">
+    The turbo inlet hose socket has a plug with a small hole in it, about 3 mm.
+    The service bulletin suggests drilling it up to 10 mm.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919e.Drilling.jpg" title="Drilling" date="19.09.2004">
+    Keep the oil trap upside down while drilling to prevent the shavings from
+    getting in. Blow clean and wipe it throroughly afterwards.
+    
+    <image width="540" height="720" />
+  </picture>
+  <picture name="20040919f.Big_hole.jpg" title="Big hole" date="19.09.2004">
+    The hole is much bigger now. Install the oil trap back and connect the lower
+    hose. Don't forget to reinstall the parts you removed to get to the oil trap.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919g.Oil_filler_pipe.jpg" title="Oil filler pipe" date="19.09.2004">
+    The next step is to install a nipple on the oil filler pipe. Remove the
+    dipstick and unbolt the pipe with a 10 mm socket.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919h.20_mm.jpg" title="20 mm" date="19.09.2004">
+    The hole should be drilled 20 mm up from the ridge in the pipe, 135 degrees
+    from the lip with a mounting hole.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919i.More_drilling.jpg" title="More drilling" date="19.09.2004">
+    Use a 7 mm drilling bit, remove all the shavings and wipe the pipe after
+    you're done.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919j.Nipple.jpg" title="Nipple" date="19.09.2004">
+    Fit the nipple so the threads just become visible on the inner side.
+    The small hole on the nipple should point down.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919k.Hoses.jpg" title="Hoses" date="19.09.2004">
+    Locate the hose that used to go from the small nipple on the fat hose from
+    the camshaft cover to the check valve. It should now be connected to the
+    nipple on the oil filler pipe.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919l.Hoses.jpg" title="Hoses" date="19.09.2004">
+    There's little clearance near the filler pipe nipple, so it might be
+    easier to disconnect the hose from the check valve and connect it to the
+    nipple first. Pull it between the fuel rail and the wiring harness and
+    reconnect it to the check valve then.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919m.Cutting_the_hose.jpg" title="Cutting the hose" date="19.09.2004">
+    The thick hose that goes from the turbo inlet pipe to the oil trap has to
+    be cut at the height level with intake manifold.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919n.Check_valve.jpg" title="Check valve" date="19.09.2004">
+    Insert the check valve so the arrow on it points upwards when the hose is
+    installed. You may notice that the valve is harder to blow through in a
+    certain direction, this is supposed to facilitate a different air flow
+    within the circuit.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919o.Plug.jpg" title="Plug" date="19.09.2004">
+    Plug the small nipple on the camshaft cover hose with a cap supplied in
+    the kit and install the two remaining hoses on the car.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040919p.Finished.jpg" title="Finished" date="19.09.2004">
+    Here's a summary of changes: a bigger hole in the oil trap, a check valve
+    on the turbo inlet hose, a nipple on the oil filler pipe and a new
+    attachment of the small circuit hose.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

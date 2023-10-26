@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-3/9-5: Throttle Body">
+
+  <description>
+  <p>Throttle body removal and replacement on a 4-cylinder Saab 9-5,
+  applies to most 9-3 and 9-5 models with B205/B235 engines.</p>
+
+  <h2>Tools and supplies:</h2>
+  <ul>
+    <li>10 mm socket: throttle body and cable cover bolts;</li>
+    <li>13 mm or 1/2" wrench: negative battery clamp;</li>
+    <li>flat screwdriver: delivery pipe boot clamps, limp home mechanism reset;</li>
+    <li>pliers: coolant hose clamps;</li>
+    <li>new rubber seal (#9176918) and vaseline;</li>
+    <li>torque wrench.</li>
+  </ul>
+  </description>
+
+  <picture name="20041006a.Engine.jpg" title="Engine" date="06.10.2004">
+    The throttle body is located under the plastic engine cover -- it's
+    where the delivery pipe leads to.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006b.Battery.jpg" title="Battery" date="06.10.2004">
+    Disconnect the battery and unscrew the cap on the coolant expansion tank
+    to ease the pressure. Put the cap back on.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006c.Boot.jpg" title="Boot" date="06.10.2004">
+    Undo the clamps on the delivery pipe and take the rubber boot off. On
+    newer cars with a plastic delivery pipe (and no rubber boot) you might have
+    to first slacken the delivery pipe retaining bolt on the cylinder head.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006d.Cable_cover.jpg" title="Cable cover" date="06.10.2004">
+    If you were to clean the throttle body, then you'd stop here, just clean it
+    inside and put the pipe back. However, to replace the throttle body, you
+    need to do more. Continue with removing the cover over the throttle cable
+    (two 10 mm bolts).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006e.Cable.jpg" title="Cable" date="06.10.2004">
+    Disconnect the accelerator pedal cable from the throttle body's pedal arm.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006f.Wires.jpg" title="Wires" date="06.10.2004">
+    Unplug the wiring connectors from the limp-home solenoid and the throttle
+    body.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006g.Hoses.jpg" title="Hoses" date="06.10.2004">
+    Detach four hoses entering the throttle body. The two bigger hoses may
+    contain some coolant, so be careful if the engine is hot. WIS recommends
+    clamping them first to prevent coolant spillage.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006h.Bolts.jpg" title="Bolts" date="06.10.2004">
+    Undo three 10 mm bolts and lift the throttle body off the intake manifold.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006i.Last_hose.jpg" title="Last hose" date="06.10.2004">
+    Undo the hose clamp on the back of the throttle body and detach the hose.
+    Congratulations, you have just removed your throttle body ;).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006j.Old_and_new.jpg" title="Old and new" date="06.10.2004">
+    Two throttle bodies side by side. I'm installing a used unit (right), and it
+    actually appears to be dirtier on the outside. Cleaner on the inside though.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006k.New_and_old.jpg" title="New and old" date="06.10.2004">
+    Note how the end of the spring is caught in the triangular tab on the old
+    unit (right). It's an indication that the limp-home solenoid has fired and
+    locked the pedal arm to the throttle butterfly.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006l.Limp_home_reset.jpg" title="Limp home reset" date="06.10.2004">
+    If you ever need to reset a previously activated limp-home mode, it can
+    be done directly on the car. Move the end of the spring towards the
+    throttle body to release it from the tab on the pedal arm, and then turn
+    the black toothed disc anti-clockwise, about  a centimeter, until it clicks.
+    Now try moving the black plastic pedal arm to make sure that the metal
+    throttle body arm (the lever pointing to the right) is not following it
+    anymore.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006m.Seal.jpg" title="Seal" date="06.10.2004">
+    Install a fresh rubber seal and coat it with vaseline.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041006n.Installation.jpg" title="Installation" date="06.10.2004">
+    Start by connecting the hose on the back of the throttle body and continue
+    in reverse order. The bolt tightening torque is 7.4 ft-lbs.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

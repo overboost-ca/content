@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Rear Suspension">
+
+  <description>
+  <p>The rear suspension upgrade performed on a 1995 Saab 9-5 2.3t.
+  I was installing Aero springs and shocks from the
+  <a href="#/content/saab/20040616-saab-9-5-roadholding-kit">roadholding kit</a>.</p>
+
+  <h2>A NEW VERSION OF THIS GUIDE IS NOW AVAILABLE</h2>
+  <p>A new and revised version of the 9-5 rear suspension guide is
+    now available. This old document is still valid, but it's recommended
+    that you use the <a href="#/content/saab/20070930-saab-9-5-rear-suspension">updated version</a>.</p>
+  </description>
+
+  <picture name="20040617a0.Car_on_jack_stands.jpg" title="Car on jack stands" date="17.06.2004">
+    The car is secured on jack stands.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a1.Spring_bracket.jpg" title="Spring bracket" date="17.06.2004">
+    The wheel is off. The spring bracket is attached with four 16 mm bolts.
+    We need to remove the lower bolts and slacken (but not remove) the top
+    ones.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a2.Lower_bolt.jpg" title="Lower bolt" date="17.06.2004">
+    The next step is to remove the lower retaining bolt (21 mm)...
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a3.Strut_assembly.jpg" title="Strut assembly" date="17.06.2004">
+    ...and the assembly falls down. Note how incredibly rusty the top nut is.
+    It is a 16 mm nut when new, but with all this rust I could only fit a 17
+    mm socket on it.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a4.Rusty_nuts.jpg" title="Rusty nuts" date="17.06.2004">
+    Both shocks removed, the nuts are now soaking in WD-40. The rods have a
+    7 mm hex head on the end, but with this much rust it would be very hard to
+    remove the nuts with just regular tools.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a5.Impact_tool.jpg" title="Impact tool" date="17.06.2004">
+    An impact or air wrench would be helpful, but I don't have either. Instead,
+    I've got the best impact tool ever -- a hammer! The shiny wrench is thin
+    enough to hold the hex end of the rod through the hole in the black socket.
+    Insert a spare bolt into the side hole of the socket, whack it a couple of
+    times -- and the nut moves!
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a6.Spring_compressor.jpg" title="Spring compressor" date="17.06.2004">
+    The spring has to be compressed to disassemble the damper safely.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a7.Victory!.jpg" title="Victory!" date="17.06.2004">
+    A few more minutes of cleaning the threads with a wire brush, and the nut
+    comes off.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a8.Old_vs_new.jpg" title="Old vs new" date="17.06.2004">
+    The Aero dampers and springs are 10 mm shorter the regular ones. The spring
+    appears to have the same coil thickness, but it is definitely stiffer.
+    <image width="480" height="640" />
+    
+  </picture>
+  <picture name="20040617b0.New_vs_old.jpg" title="New vs old" date="17.06.2004">
+    The kit comes with a complete set of washers and bushings. Note the zinc
+    spacer ring at the bottom -- my old shocks had it melted a long time ago.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617a9.Work_in_progress.jpg" title="Work in progress" date="17.06.2004">
+    The old parts are on the floor, and I'm ready to install the new ones.
+    For those who asked again: NO, the car DOES NOT rest on these concrete
+    blocks :).
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617b1.Spring_closeup.jpg" title="Spring closeup" date="17.06.2004">
+    A correctly installed spring should fit in the recess of the spacer ring.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617b2.Retainer_nut.jpg" title="Retainer nut" date="17.06.2004">
+    The new retainer nut is a beauty! Not too tight, just 15 ft-lbs.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617b3.Baloon.jpg" title="Baloon" date="17.06.2004">
+    This pink birthday baloon will hopefully keep the moisture away. I would
+    really like to see the face of the next person to take these shocks apart ;)
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617b4.Aligning_the_holes.jpg" title="Aligning the holes" date="17.06.2004">
+    After the spring bracket is fit with the top two bolts, we need to align the
+    hole of the lower retaining bolt.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617b5.Hydraulic_wrench.jpg" title="Hydraulic wrench" date="17.06.2004">
+    140 ft-lbs of torque is not the kind of power I can boast while cramped
+    under the car, so I'm using the jack on my torque wrench. It did click!
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617b6.Spring_bracket.jpg" title="Spring bracket" date="17.06.2004">
+    The four spring bracket nuts need to be tightened at 40 ft-lbs.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040617b7.Rear_view.jpg" title="Rear view" date="17.06.2004">
+    A completed install.
+    <image width="640" height="480" />
+    
+  </picture>
+</picture-set>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Roadholding Kit">
+
+  <description>
+    The Saab 9-5 roadholding kit was a complete set of Aero suspension parts, packaged and
+    sold by Saab to be retrofitted on the base model. It would lower the car and improve its
+    handling by a noticeable degree.
+  </description>
+
+  <picture name="20040616a.The_Kit.jpg" title="The Kit" date="16.06.2004">
+    All the parts in the kit.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040626a.jpg" date="26.06.2004">
+    Installed, shot 1.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040626b.jpg" date="26.06.2004">
+    Installed, shot 2.
+    <image width="640" height="480" />
+    
+  </picture>
+</picture-set>

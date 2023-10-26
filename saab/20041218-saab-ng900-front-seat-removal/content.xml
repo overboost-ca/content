@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<picture-set title="Saab NG900/9-3: Front Seat Removal">
+
+  <description>
+  <p>The front seat removal procedure for a 1996 Saab 900. I had to take the
+  driver's seat out on my project car to replace the upholstery torn by the
+  previous owner. The installation is the reverse of removal. When fitting the
+  bolts, tighten the inner side first (factory recommended torque 22 ft-lbs).</p>
+
+  <h2>Tools:</h2>
+  <ul>
+    <li>Torx T40 socket: seat track bolts;</li>
+    <li>Torx T27 socket or screwdriver: cowl screws;</li>
+    <li>long flat screwdriver: to reach the seatbelt latch release;</li>
+    <li>small wire cutters: to cut a zip tie under the seat;</li>
+    <li>a new zip tie;</li>
+    <li>torque wrench.</li>
+  </ul>
+  </description>
+
+  <picture name="20041218a.Rear_bolts.jpg" title="Rear bolts" date="18.12.2004">
+    Move the seat forward as much as possible and undo the rear bolts (Torx T40).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041218b.Front_bolts.jpg" title="Front bolts" date="18.12.2004">
+    Move the seat back and undo the front bolts. Be careful as the seat
+    may fall backwards at this point.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041218c.Connectors.jpg" title="Connectors" date="18.12.2004">
+    If you have seat airbags, disconnect the battery now. Otherwise you will get
+    an Airbag warning light once you unplug the seat.
+    Detach the electrical connectors and cut the zip tie securing the cable. You can lift
+    the seat now. The only thing that still ties it to the car is the seat belt.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041218d.Cowl_front.jpg" title="Cowl front" date="18.12.2004">
+    Remove the screws in front of the cowl and in the middle (Torx T27).
+    The clearance is tight, you need a long screwdriver, but it won't
+    fit straight.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041218e.Cowl_rear.jpg" title="Cowl rear" date="18.12.2004">
+    The last screw in the rear. The cowl removal is not really necessary, but
+    it gives you a detailed view of the seat belt attachment. You can clearly
+    see the torn part of my seat cover here.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20041218f.Seatbelt.jpg" title="Seatbelt" date="18.12.2004">
+    Press the tab in the middle and unhook the belt. You can normally reach
+    this tab with a long flat screwdriver without removing the cowl. The seat
+    is free now.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

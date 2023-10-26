@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Serpentine Belt">
+
+  <description>
+  <p>Serpentine belt and pulley replacement on a 4-cylinder Saab 9-5.</p>
+
+  <h2>Tools and supplies:</h2>
+  <ul>
+    <li>serpentine belt: short (Saab #5590344, NAPA #25060950) or standard
+      (Saab #4899548);</li>
+    <li>pulleys: small idle pulley (#4356127) and tensioner pulley (#5172184);</li>
+    <li>jack stands;</li>
+    <li>18 mm socket: engine mount central nut;</li>
+    <li>16 mm socket: engine mount side bolts;</li>
+    <li>13 mm socket: idle pulley bolt;</li>
+    <li>10 mm socket: power steering hose clamp;</li>
+    <li>8 mm socket: belt shield screws;</li>
+    <li>8 mm Allen key: belt tensioner bolt;</li>
+    <li>6 mm Allen key: belt tensioner pulley bolt;</li>
+    <li>3 mm long Allen key: belt tensioner lock;</li>
+    <li>1/2" socket extension: for use as a tension release lever;</li>
+    <li>torque wrench.</li>
+  </ul>
+  </description>
+
+  <picture name="20040929a.Start.jpg" title="Start" date="29.09.2004">
+    Raise the car and remove the right front wheel. The pictures are a bit
+    dark, it was 23:00 ;)
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929b.Belt_shield.jpg" title="Belt shield" date="29.09.2004">
+    Remove the plastic belt shield: 5 screws with 8 mm hex head.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929c.Engine_mount.jpg" title="Engine mount" date="29.09.2004">
+    Remove the bracket on top of the engine mount: the central nut is 18 mm, and
+    the four bolts on the sides need a 16 mm socket.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929d.Steering_hose.jpg" title="Steering hose" date="29.09.2004">
+    Unbolt a hose clamp under the crankshaft pulley so you can fit a wedge
+    under the power steering line (10 mm socket).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929e.Engine_support.jpg" title="Engine support" date="29.09.2004">
+    WIS recommends inserting a wedge between the engine and the frame (I used
+    this big wrench). It seems that you still need to jack up the engine from
+    below as you might need to move it a bit later to align the enging mount
+    holes.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929g.Pulleys.jpg" title="Pulleys" date="29.09.2004">
+    A 1/2" socket extension fits perfectly as a lever to relieve the strain
+    off the belt tensioner. Once the belt is off, check these two pulleys --
+    their bearings will likely be worn, loose and rattling if the car is
+    over 100K km.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929h.Allen_8_mm.jpg" title="Allen 8 mm" date="29.09.2004">
+    The clearance around the tensioner pulley is very tight, so it's often
+    easier to remove the entire tensioner. You'll need an 8 mm Allen key for
+    that. Mounting torque 33 ft-lbs.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929i.Tensioner.jpg" title="Tensioner" date="29.09.2004">
+    Once the tensioner is off, soak the pulley bolt with a good solvent before
+    taking on it. The 6 mm Allen key socket on the bolt is very shallow and
+    easy to strip.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929j.Pulley.jpg" title="Pulley" date="29.09.2004">
+    Luckily, the replacement tensioner pulley comes with new bolt that has a
+    good old hex head.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929k.Idler.jpg" title="Idler" date="29.09.2004">
+    The small idler hasn't changed. You need a 13 mm socket for that bolt.
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929l.Belt.jpg" title="Belt" date="29.09.2004">
+    The new belt is shorter than the old one. My local dealership didn't
+    have this part in stock, so I picked up a belt from a NAPA store
+    (part #25060950).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929m.Belt.jpg" title="Belt" date="29.09.2004">
+    Note how the new belt goes directly from the small idler to the steering
+    pump, bypassing the big idler in the middle (the idler is hiding behind
+    the engine mount).
+    
+    <image width="720" height="540" />
+  </picture>
+  <picture name="20040929n.Engine_mount.jpg" title="Engine mount" date="29.09.2004">
+    Fit the engine mount bracket with a tightening torque of 39 ft-lbs for the
+    bolts and 78 ft-lbs for the central nut. Fit the belt shield, the wheel,
+    and lower the car to the floor.
+    
+    <image width="720" height="540" />
+  </picture>
+</picture-set>

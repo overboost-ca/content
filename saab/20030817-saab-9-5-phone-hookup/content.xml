@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Hands Free Phone Connection">
+
+  <description>
+  <p>This is the first guide I ever published. It was a hands free mobile phone
+  kit for a Saab 9-5.</p>
+  <p>The installation is pretty straightforward, the whole thing was prepared in a single
+  evening and installed the next morning.</p>
+  </description>
+
+  <picture name="20030816a.Saab_telephone_harness.jpg" title="Saab telephone harness" date="16.08.2003">
+    The first, and the most expensive part you need is the Saab telephone
+    harness. Part #30567734, price $17.49. My dealership didn't have it in
+    stock, and I was the first customer to ever ask about it. The warehouse
+    also had it on back order, so it took them over a week to find the part
+    for me. The harness comes in a rather large box and has a manual in
+    7 languages containing brief installation instructions and connection
+    specifications.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030816b.A_phone_plug_and_a_switch.jpg" title="A phone plug and a switch" date="16.08.2003">
+    Your next stop is Radio Shack. If your phone has a 2.5 mm jack, the
+    plug is $3.99. Typically, the tip of the connector is the microphone, the
+    middle contact is the output, and the base is the ground. If don't
+    want to bother soldering, or if your phone has a proprietary connector,
+    just get a cheap earpiece or a hands-free set and cut the wires off.
+    Also, if your phone does not support muting the radio, a push-button
+    switch will cost you another $4.79.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030816c.Cell_phone.jpg" title="Cell phone" date="16.08.2003">
+    The essential part, a cellular phone. This one can be obtained for free
+    with a year subscription from Rogers.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030816d.Dead_mouse.jpg" title="Dead mouse" date="16.08.2003">
+    A dead mouse, $0. I get a long flexible cable, my two year old son gets
+    a new toy. He's already got a keyboard of his own, so this would be a logical
+    addition.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030816e.Cradle.jpg" title="Cradle" date="16.08.2003">
+    A $10 phone cradle from a local hardware store. It comes with a swivel
+    base that sticks to the dashboard.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030816f.Cradle_dissection.jpg" title="Cradle dissection" date="16.08.2003">
+    The cradle is taken apart to cut a hole for the switch.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030816g.Cradle_with_cable.jpg" title="Cradle with cable" date="16.08.2003">
+    The cable has five wires -- three for the telephone (microphone, output and
+    ground) and two for the mute button (the signal and the ground). I wonder
+    if you can get away with four wires by combining the grounds (they are
+    separate on the harness though).
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030816h.Cradle_with_cell_phone.jpg" title="Cradle with cell phone" date="16.08.2003">
+    We have two cell phones, one has a headphone jack on the right side, the other
+    at the bottom. I had to leave a rather long piece of cable
+    attached to the plug to fit both phones (and who knows what we will
+    get next).
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817a.Cradle.jpg" title="Cradle" date="17.08.2003">
+    Many phones perform the "answer" or "dial" action depending on the context,
+    when you short circuit the microphone signal to the ground. If your unit
+    supports this feature, you can install a second (momentary) switch to take
+    advantage of that. Out of my phones only one does it, so I didn't bother.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817b.ACC_head_removal.jpg" title="ACC head removal" date="17.08.2003">
+    To remove the ACC head unit, use a flat screwdriver or another tool to
+    gently pry out the edge, then another edge, and then the unit pops out
+    easily.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817c.Connecting_the_wires.jpg" title="Connecting the wires" date="17.08.2003">
+    Unfortunately, you cannot solder your cable to the harness at home since the
+    wires have to be pulled through a tiny hole (through the "On Star" button
+    socket in my case), and neither it's easy to solder them when in the car.
+    I ended up simply twisting wire ends together and wrapping them with
+    electric tape. If you have OnStar in your car, there may not be a
+    telephone connector available, so you might need a different kind of
+    harness or a splitter.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817d.Harness_closeup.jpg" title="Harness closeup" date="17.08.2003">
+    Before plugging the harness in, note the red locking tab on top of the
+    socket -- you need to pull it up before inserting the connector. Connect
+    pin 3 (microphone ground) and pin 8 (output ground) together to the ground
+    from the telephone. Pin 10 to the microphone signal, and pin 7 to the
+    output signal. Pins 4 (ground) and 5 (radio mute) should be connected to
+    the wires from the push-button switch (or to the appropriate pins on the
+    proprietary phone connector if the phone supports the mute feature).
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817e.Cradle_base.jpg" title="Cradle base" date="17.08.2003">
+    I did not want to damage the wooden trim by sticking the cradle directly
+    on it, so I attached the base to a piece of thick transparent plastic
+    (which I cut off the packaging of the cradle itself ;).
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817f.Base_installation.jpg" title="Base installation" date="17.08.2003">
+    Then I bent the plastic and inserted it between the wood veneer and the
+    dash. There's enough adhesive in between them to hold the cradle well.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817g.Base_in_place.jpg" title="Base in place" date="17.08.2003">
+    The job is done.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817h.Cradle_mounted.jpg" title="Cradle mounted" date="17.08.2003">
+    This picture shows the cradle and the wires -- the phone connector hangs
+    down freely, and the other end disappears between the button plugs.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817i.Passenger_view.jpg" title="Passenger view" date="17.08.2003">
+    When you push the button on top of the cradle, the SID displays the
+    "TELEPHONE" message, and you can talk on the phone. If you were listening
+    to the radio, it will be turned off temporarily. Pushing the cradle button
+    off brings back the radio and the information the SID was displaying before
+    the call. Curiously enough, it works even when the car is not started --
+    the SID wakes up showing the time and the "TELEPHONE" message, you make the
+    call and then turn the whole thing off by releasing the cradle button.
+    <image width="720" height="540" />
+    
+  </picture>
+  <picture name="20030817j.Driver_view.jpg" title="Driver view" date="17.08.2003">
+    The sound quality is quite good, definitely better than through the
+    earpiece that came with my phone. I did not have to adjust the microphone
+    in the car, and I'm not aware of what setting is it on, high or low.
+    The sound on the other end of the line is OK as well. You might also want
+    to increase the default volume of the telephone mode -- there's a setting
+    in the stereo unit setup mode (you can invoke it by turning the stereo on
+    with the "WB" button pressed).
+    <image width="720" height="540" />
+    
+  </picture>
+</picture-set>

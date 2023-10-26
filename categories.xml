@@ -26,6 +26,9 @@
     <directory name="20060806-saab-ng900-audio-upgrade" title="06.08.2006: NG900: Audio Upgrade" />
     <directory name="20060329-saab-9-5-0-cd-changer" title="29.03.2006: 9-5: CD Changer" />
     <directory name="20050914-saab-ng900-ecu-replacement" title="14.09.2005: NG900/9-3: ECU Replacement" />
+    <directory name="20041222-clarion-cd-changer-repair" title="22.12.2004: NG900: Clarion CD Changer Repair" />
+    <directory name="20040429-speedparts-stage-1-kit-for-saab-9-5" title="29.04.2004: 9-5: Speedparts Stage 1 Kit" />
+    <directory name="20030817-saab-9-5-phone-hookup" title="17.08.2003: 9-5: Hands Free Phone Connection" />
   </category>
   <category name="Saab: Engine">
     <directory name="20060711-saab-ng900-fuel-filter" title="11.07.2006: NG900/9-3: Fuel Filter" />
@@ -36,6 +39,8 @@
     <directory name="20060618-saab-b204-b234-cylinder-head" title="18.06.2006: B204/B234: Cylinder Head" />
     <directory name="20060518-saab-ng900-engine-removal" title="18.05.2006: NG900/9-3: Engine Removal" />
     <directory name="20050816-saab-ng900-engine-mounts" title="16.08.2005: NG900/9-3: Engine Mounts" />
+    <directory name="20040929-saab-9-5-serpentine-belt" title="29.09.2004: 9-5: Serpentine Belt" />
+    <directory name="20040919-saab-9-5-crank-case-vent-fix" title="19.09.2004: 9-3/9-5: PCV Fix Kit" />
   </category>
   <category name="Saab: Exhaust">
     <directory name="20081017-saab-9-5-complete-3-inch-exhaust" title="17.10.2008: 9-5: Complete 3 inch Exhaust" />
@@ -52,6 +57,8 @@
     <directory name="20070420-saab-ng900-convertible-roll-bar" title="20.04.2007: NG900: Convertible Roll Bar" />
     <directory name="20060315-saab-9-5-seat-heater-switch-bulbs" title="15.03.2006: 9-5: Seat Heater Switch Bulbs" />
     <directory name="20051105-saab-ng900-dashboard-and-instrument-cluster" title="05.11.2005: NG900/9-3: Dashboard and Instrument Cluster" />
+    <directory name="20041218-saab-ng900-front-seat-upholstery" title="18.12.2004: NG900/9-3: Front Seat Upholstery" />
+    <directory name="20041218-saab-ng900-front-seat-removal" title="18.12.2004: NG900/9-3: Front Seat Removal" />
   </category>
   <category name="Saab: Suspension and Steering">
     <directory name="20080921-saab-9-5-genuinesaab-rear-camber-shims" title="21.09.2008: NG900/9-3/9-5: Rear Camber Shims" />
@@ -69,6 +76,8 @@
     <directory name="20050401-saab-ng900-steering-rack-clamp-and-brace" title="01.04.2005: NG900/9-3: Steering Rack Clamp and Brace" />
     <directory name="20050215-saab-ng900-rear-suspension" title="15.02.2005: NG900/9-3: Rear Suspension" />
     <directory name="20050210-saab-ng900-front-suspension" title="10.02.2005: NG900/9-3: Front Suspension" />
+    <directory name="20040617-saab-9-5-rear-suspension" title="17.06.2004: 9-5: Rear Suspension" />
+    <directory name="20040616-saab-9-5-roadholding-kit" title="16.06.2004: 9-5: Roadholding Kit" />
   </category>
   <category name="Saab: Transmission and Driveshafts">
     <directory name="20090503-saab-9-5-transmission-mount" title="03.05.2009: 9-5: Transmission Mount" />
@@ -97,6 +106,7 @@
     <directory name="20051003-saab-ng900-wastegate-actuator-spring" title="03.10.2005: NG900/9-3: Wastegate Actuator Spring" />
     <directory name="20050527-saab-ng900-airbox-inlet-pipe" title="27.05.2005: NG900/9-3: Airbox Inlet Funnel" />
     <directory name="20050523-saab-ng900-intercooler" title="23.05.2005: NG900/9-3: Intercooler Upgrade" />
+    <directory name="20041006-saab-9-5-throttle-body" title="06.10.2004: 9-3/9-5: Throttle Body" />
     <directory name="20040417-saab-9-5-boost-gauge-install" title="17.04.2004: 9-5: Boost Gauge" />
   </category>
   <category name="Project Cars">

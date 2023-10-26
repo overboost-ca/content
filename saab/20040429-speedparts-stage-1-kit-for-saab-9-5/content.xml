@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<picture-set title="Saab 9-5: Speedparts Stage 1 Kit">
+
+  <description>
+  This is a stage 1 performance upgrade kit for a Saab 9-5 from Swedish
+  tuners Speedparts/BSR.
+  </description>
+
+  <picture name="20040429a.The_stage_1_kit.jpg" title="The stage 1 kit" date="29.04.2004">
+    It includes a high flow air filter and a PPC gadget (a device to upload
+    new software into the ECU). I've also ordered a set of spark plugs
+    recommended for this upgrade.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040429b.JR_air_filter.jpg" title="JR air filter" date="29.04.2004">
+    The high flow air filter. It looks rather skinny when compared to the stock
+    one, as it's about 1/3 smaller in diameter.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040429c.PPC_kit.jpg" title="PPC kit" date="29.04.2004">
+    The PPC comes with a bunch of cables and a full page instruction on where
+    the Speedparts sticker should go ;).
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040429d.PPC.jpg" title="PPC" date="29.04.2004">
+    Here's the device itself, it has a small display and two buttons.
+    The connectors on the top are: DC power, USB, RS-232 and OBD-II.
+    <image width="640" height="480" />
+    
+  </picture>
+
+  <picture name="20040429e.PCB_front.jpg" title="PCB front" date="29.04.2004">
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040429f.PCB_rear.jpg" title="PCB rear" date="29.04.2004">
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040429g.PCB_side.jpg" title="PCB side" date="29.04.2004">
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040429h.The_brains.jpg" title="The brains" date="29.04.2004">
+    <image width="640" height="480" />
+    
+  </picture>
+
+  <picture name="20040513a.PPC_boxes.jpg" title="PPC boxes" date="13.05.2004">
+    Unfortunately, the PPC could not upgrade the software in my car. It was
+    getting stuck at 0% progress, so I've been sent a second one.
+    <image width="640" height="480" />
+    
+  </picture>
+  <picture name="20040513b.PPC_open.jpg" title="PPC open" date="13.05.2004">
+    The new one (on the right) supports Trionic 8 in addition to Trionic 7.
+    I wish that helped, but the new device had the same problem uploading
+    the software ;).
+    <image width="640" height="480" />
+    
+  </picture>
+
+  <picture name="20040924a.Tuning.jpg" title="Tuning" date="24.09.2004">
+    After four months of complaining to various parties and trying to find who's
+    responsible, I finally received a third PPC with a newer version of software
+    directly from BSR, and it worked!
+    
+    <image width="640" height="480" />
+  </picture>
+  <picture name="20040924b.Done.jpg" title="Done" date="24.09.2004">
+    Finally, while waiting for the PPC problem to be solved, I installed 
+    a <a href="#/content/saab/20040817-saab-9-5-sport-exhaust">Remus exhaust</a>,
+    so I can claim I have a stage 2 upgrade now.
+    
+    <image width="640" height="480" />
+  </picture>
+</picture-set>
